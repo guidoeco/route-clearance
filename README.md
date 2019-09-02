@@ -25,9 +25,10 @@ The following activities:
 2. Create subdirectories for each region,
 3. Extract the associated route-clearance table pages as individual PDF files,
 4. Extract segmented TSV data from each pages, and
-5. Combine, clean and recombine the data with a TSV page-file for each page table in the 'report' directory
+5. Combine, clean and recombine the data with a TSV page-file for each page table in the *report* directory
+6. Concatenate all TSV page-files for a route in the *output* directory
 
-Are completed by executing the `run.sh` script:
+Are executing with the `run.sh` script:
 ```
    $ ./run.sh
 ```
@@ -35,6 +36,8 @@ Are completed by executing the `run.sh` script:
 ## Data notes
 
 Following processing the data extracted into TSV page-files is written to the *report* sub-directory. The files are named by route and PDF file number. For example, table data from page 449 of the Anglia route is contained in `report/Anglia_0449.tsv`
+
+Concatenated copies of these TSV files are then written to the *output* sub-directory
 
 To extract and process data PNG image files are then contained in the `<route>/work` directory. For example, the image file for page 1056 of *London-North-Eastern* route is contained in the `London-North-Eastern/work/pg_1056.png`
 
