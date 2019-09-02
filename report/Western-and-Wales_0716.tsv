@@ -1,0 +1,37 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	325	332	360	387	Notes
+Western-and-Wales	0716	1	GW184	WIN	Slough – Windsor & Eton Central	18	36	21	19	H	N	N	N	
+Western-and-Wales	0716	2	GW185	WBB	Maidenhead – Bourne End	24	19	28	55	H	N	N	N	
+Western-and-Wales	0716	3	GW185	MWB	Bourne End GF – Marlow	0	06	2	54	H	N	N	N	
+Western-and-Wales	0716	4	GW187	HEN	Twyford – Henley-on-Thames	31	01	35	48	H	N	N	N	
+Western-and-Wales	0716	5	GW190	RNJ	"Route Boundary (SW210) (Reading
+Spur Jn) – Reading New Jn"	68	00	68	35	H	N	N	N	
+Western-and-Wales	0716	6	GW195	RLL	"Reading Southern Jn – Reading East
+Jn"	35	33	35	61	N	N	N	N	
+Western-and-Wales	0716	7	GW200	DCL	"Chester Line Jn – Route Boundary
+(MD401) (Heyford)"	53	12	75	00	H	N	N	N	
+Western-and-Wales	0716	8	GW220	RWC	"Reading, Oxford Road Jn – Reading
+West Jn"	0	43	0	02	H	N	N	N	
+Western-and-Wales	0716	9	GW225	RFR	"Caversham Road Jn – Oxford Road
+Jn"	36	25	36	74	N	N	N	N	
+Western-and-Wales	0716	10	GW240	DEC	Didcot East Jn – Didcot North Jns	52	66	54	00	H	N	N	N	
+Western-and-Wales	0716	11	GW250	DWC	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	H	N	N	N	
+Western-and-Wales	0716	12	GW260	THA	Kennington Jn – Morris Cowley	18	45	16	04	N	N	N	N	
+Western-and-Wales	0716	13	GW277	OXD	"Oxford North Jn – Route Boundary
+(MD736) (29m 25ch)"	30	09	29	25	H	N	N	N	
+Western-and-Wales	0716	14	GW300	ABW	Abbotswood Jn – Norton Jn	0	00	0	62	H	N	N	N	
+Western-and-Wales	0716	15	GW300	OWW	Norton Jn – Shrub Hill Jn	117	26	120	46	H	N	N	N	
+Western-and-Wales	0716	16	GW300	OWW	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	H	N	N	N	
+Western-and-Wales	0716	17	GW300	STO	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	H	N	N	N	
+Western-and-Wales	0716	18	GW310	OWW	Wolvercot Jn – Norton Jn	66	32	117	26	H	N	N	N	
+Western-and-Wales	0716	19	GW317	OWW	"Honeybourne Stratford Line Junction
+– Start of branch mileage"	102	06	101	31	N	N	N	N	
+Western-and-Wales	0716	20	GW317	STD	"Start of branch mileage – Long
+Marston"	0	00	2	70	N	N	N	N	
+Western-and-Wales	0716	21	GW340	WAH	"Shrub Hill Jn – Henwick SB (Branch
+Single)"	120	46	121	65	H	N	N	N	
+Western-and-Wales	0716	22	GW340	WAH	Henwick SB – Shelwick Jn	120	46	148	11	H	N	N	N	
+Western-and-Wales	0716	23	GW350	BLW	"Worcester Tunnel Jn – Site of former
+Rainbow Hill Jn Change of ELR"	0	30	0	00	H	N	N	N	
+Western-and-Wales	0716	24	GW350	WAH	"Site of former Rainbow Hill Jn Change
+of ELR – Henwick SB (Droitwich
+Single)"	120	64	121	65	H	N	N	N	

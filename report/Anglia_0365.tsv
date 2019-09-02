@@ -1,0 +1,48 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	150	153	156	158	165	166	168	170	Notes
+Anglia	0365	1	EA1360	BDH	"Route Boundary (LN3222) (Brent Curve Jn) –
+Dudding Hill Jn"	0	54	1	03	Y	Y	Y	N	N	N	N	Y	
+Anglia	0365	2	EA1360	CAW	Dudding Hill Jn – Neasden Jn	6	04	7	02	N	N	N	N	N	N	E	"E
+R1"	R1Prohibited with deflated suspension
+Anglia	0365	3	EA1360	NJN	"Neasden Jn – Route Boundary (MD715)
+(Neasden South Jn)"	6	56	6	51	N	N	N	N	"E
+R1"	N	E	Y	R1Route prohibited to Class 165/1
+Anglia	0365	4	EA1360	CAW	Neasden Jn – Acton Canal Wharf Jn	7	02	8	45	N	N	N	N	"E
+R1
+R2"	N	E	"E
+R3"	"R1Route prohibited to Class 165/1
+R2Prohibited with footsteps fitted
+R3Prohibited with deflated suspension"
+Anglia	0365	5	EA1360	ACW	"Acton Canal Wharf Jn – Route Boundary
+(MD170) (Willesden Jn)"	0	35	0	11	N	N	N	N	"E
+R1
+R2"	N	E	Y	"R1Route prohibited to Class 165/1
+R2Prohibited with footsteps fitted"
+Anglia	0365	6	EA1360	CAW	"Acton Canal Wharf Jn – Acton Wells Jn
+(Change of Mileage)"	8	45	8	77	N	N	N	N	"E
+R1
+R2"	N	E	"E
+R3"	"R1Route prohibited to Class 165/1
+R2Prohibited with footsteps fitted
+R3Prohibited with deflated suspension"
+Anglia	0365	7	EA1360	WAW	"Acton Wells Jn (Change of Mileage) – Route
+Boundary (MD167)  Willesden West London
+Jn)"	6	19	6	76	Y	N	N	Y	N	N	N	N	
+Anglia	0365	8	EA1360	CAW	"Acton Wells Jn (Change of Mileage) – Acton
+Wells Jn"	0	63	0	66	Y	N	N	Y	"E
+R1
+R2"	N	E	"E
+R3"	"R1Route prohibited to Class 165/1
+R2Prohibited with footsteps fitted
+R3Prohibited with deflated suspension"
+Anglia	0365	9	EA1370	GOJ	Gospel Oak Jn – Junction Rd Jn	0	00	0	58	Y	N	N	N	E	E	N	Y	
+Anglia	0365	10	EA1370	JRT2	"Junction Rd Jn – Route Boundary (LN3210)
+(Carlton Rd Jn)"	2	42	2	38	Y	N	N	N	E	E	N	N	
+Anglia	0365	11	EA1370	TAH1	Junction Rd Jn – Harringay Park Jn	2	42	4	15	Y	N	N	N	E	E	N	Y	
+Anglia	0365	12	EA1370	HPW	"Harringay Park Jn – Route Boundary
+(LN165) (Harringay Jn)"	0	25	0	14	Y	N	N	N	E	E	N	Y	
+Anglia	0365	13	EA1370	TAH1	"Harringay Park Jn – South Tottenham West
+Jn"	4	15	5	65	Y	N	N	N	E	E	N	Y	
+Anglia	0365	14	EA1370	TAH1	"South Tottenham West Jn – South
+Tottenham East Jn"	5	65	5	73	Y	N	N	N	E	E	N	Y	
+Anglia	0365	15	EA1370	TAH2	"South Tottenham East Jn – Woodgrange
+Park Jn"	5	73	11	79	Y	N	N	N	N	N	N	N	

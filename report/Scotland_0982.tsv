@@ -1,0 +1,10 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
+Scotland	0982	1	SC203	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	E	N	N	N	N	
+Scotland	0982	2	SC203	WCK	"Inverness platforms 5-7 – Rose Street
+Jn"	0	02	0	18	"E
+R1"	N	N	N	N	R1Prohibited Inverness platforms 6 and 7
+Scotland	0982	3	SC203	WCK	Rose Street Jn – Invergordon	0	18	31	37	N	N	N	N	N	
+Scotland	0982	4	SC203	WCK	Invergordon – Georgemas Jn	31	37	147	20	N	N	N	N	N	
+Scotland	0982	5	SC203	WCK	Georgemas Jn – Wick	147	20	161	35	N	N	N	N	N	
+Scotland	0982	6	SC205	KYL	Dingwall – Kyle of Lochalsh	0	19	63	64	N	N	N	N	N	
+Scotland	0982	7	SC207	TSO	Georgemas Jn – Thurso	0	00	6	50	N	N	N	N	N	

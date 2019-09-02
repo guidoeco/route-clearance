@@ -1,0 +1,49 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge									Notes
+London-North-Western-South	0539	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12		
+London-North-Western-South	0539	2	MD137	"Wembley Yard South Jn – Wembley
+Central Jn"	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0539	3	MD140	Bletchley – Bedford St Johns (inclusive)	Y *	Y	Y	N	N	N	N	N		
+London-North-Western-South	0539	4	MD145	"Camden Road West Junction – Camden
+Junction"	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0539	5	MD150	"Kensal Green Junction – Willesden
+Suburban Junction"	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0539	6	MD155	"Kensal Green Junction – Harlesden
+Junction"	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0539	7	MD160	"Willesden High Level Junction – Mitre
+Bridge Junction"	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0539	8	MD166	"Route Boundary (SO250) (North Pole Jn) –
+Mitre Bridge Jn"	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0539	9	MD166	"Mitre Bridge Jn – West London Jn
+(Willesden)"	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0539	10	MD166	"West London Jn (Willesden) – Wembley
+Central Jn (Willesden Relief lines)"	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0539	11	MD167	"Mitre Bridge Jn – West London Jn
+(Willesden)"	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0539	12	MD167	"West London Jn (Willesden) – Route
+Boundary (EA1360) (Acton Wells)"	Y	Y	Y	Y	N	N	N	N		
+London-North-Western-South	0539	13	MD170	"Acton Canal Wharf Junction – Willesden
+Junction"	Y	Y	Y	Y	Y	Y	Y	Y		
+London-North-Western-South	0539	14	MD180	Rugby Trent Valley Junction – New Bilton	R1	N	N	N	N	N	N	N	R1	"6 prohibited to pass through Br.
+o.2A (pipe) and Br. No. 3 (foot-
+ridge) co-located at 0m 50ch"
+London-North-Western-South	0539	15	MD232	Abbey Junction – Hinckley (Exclusive)	Y	Y	N	N	N	Y	N	N		
+London-North-Western-South	0539	16	MD233	Midland Yard Jn – Canal Farm Jn	Y	Y	Y	Y	N	Y	N	Y		
+London-North-Western-South	0539	17	MD301	"Rugby, Trent Valley Junction – Penkridge
+(Excl) via Stechford, Birmingham New
+Street and Dudley Port"	Y *	Y	Y	R1	N	R2	N	N	"R1
+
+
+
+R2"	"1W9 prohibited between Stechford
+North Junction and Bushbury
+Junction via Birmingham New
+Street and Dudley Port
+2W10 prohibited between
+Stechford North Junction and
+Crane Street Junction (exclusive)
+via Birmingham New Street and
+Dudley Port"
+London-North-Western-South	0539	18	MD305	"Birmingham New Street – Blackwell via
+Selly Oak"	Y *	R1	R1	N	N	N	N	N	R1	"7 and W8 at 30 mph through Church
+oad Tunnel [43m 56ch - 43m 61ch]"
+London-North-Western-South	0539	19	MD310	Barnt Green Junction – Redditch	Y *	N	N	N	N	N	N	N		

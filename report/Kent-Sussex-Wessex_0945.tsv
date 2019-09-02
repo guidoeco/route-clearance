@@ -1,0 +1,30 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge	Notes							
+Kent-Sussex-Wessex	0945	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
+Kent-Sussex-Wessex	0945	2	SO260	"Brixton Jn – Shortlands Jn (Catford Loop
+Line) (SO645)"	Y *	Y	S1	S2	N	N	N	N	"S1The following (W8) combinations are permitted, up
+to:
+2896 (h) x 2500 (w) box on FAA  FLA wagons
+2590 (h) x 2500 (w) box on FCA FEA FSA/FTA
+KFA wagons
+2625 (h) x 2550 (w)box on FEA FSA/FTA wagons
+2667 (h) x 2500 (w) box on FIA wagons
+2615 (h) x 2550 (w) box on KFA wagons
+Down Catford Loop, and Up Catford Loop ONLY
+S2The following (W9) combinations are permitted, up
+to:
+2553 (h) x 2500 (w) box on IFB wagons
+2896 (h) x 2550 (w) box on IKA FKA wagons
+2770 (h) x 2550 (w) box on FIA IFA wagons
+Down Catford Loop, and Up Catford Loop ONLY"
+Kent-Sussex-Wessex	0945	3	SO260	"Ravensbourne Jn – New Shortlands Jn
+(Ravensbourne Chord Line)"	Y	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0945	4	SO280	Farringdon – Loughborough Jn	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0945	5	SO280	Loughborough Jn – Herne Hill South Jn	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0945	6	SO280	Blackfriars Jn – Metropolitan Jn	Y *	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0945	7	SO280	Loughborough Jn – Canterbury Road Jn	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0945	8	SO280	Loughborough Jn – Cambria Jn	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0945	9	SO290	"North Kent East Jn – Charlton Jn (via
+Greenwich)"	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0945	10	SO290	Charlton Jn – Plumstead	S1	N	N	N	N	N	N	N	"S1Freight vehicles conforming  to  the W6a profile are
+permitted, EXCEPT  IFA-S, IFA-U  wagons"
+Kent-Sussex-Wessex	0945	11	SO290	Plumstead – Crayford Creek Jn	Y *	N	N	N	N	N	N	N	

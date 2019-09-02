@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+Scotland	1048	1	SC025	ARG2	"Exhibition Centre – Finnieston West Jn
+(Up line)"	4	03	4	74	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	2	SC027	RNC	"Rutherglen West Jn – Rutherglen North
+Jn (West Curve)"	0	00	0	29	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	3	SC029	CLY	Larkfield Jn – Terminus Jn	101	01	101	62	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	4	SC029	BRD	"Terminus Jn – Shields Jn via Through
+Terminus lines"	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	5	SC029	CLY	Terminus Jn – Shields Jn	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	6	SC031	GSW	"Route Boundary (NW4031) (Gretna Jn)
+– Old Route boundary (109m 00ch
+between Eastriggs and Annan)"	115	40	109	00	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	7	SC031	GSW	"Old Route boundary (109m 00ch
+between Eastriggs and Annan) –
+Change of ELR"	109	0	33	44	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	8	SC031	GBK	Change of ELR – Muirhouse South Jn	23	44	1	18	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	9	SC031	MEN2	"Muirhouse South Jn – Muirhouse
+Central Jn"	0	00	0	15	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	10	SC031	MEN1	Muirhouse Central Jn – Eglinton St Jn	0	19	0	70	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	11	SC031	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	12	SC031	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	13	SC035	KSH	"Bank Jn – Network Rail Boundary
+(Connel Park LC) / Knockshinnoch"	54	05	55	28	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	14	SC036	GNN	"Greenburn Jn – Greenburn Open Cast
+(Goods Line)"	0	00	0	55	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	15	SC037	RIC1	Kay Park Jn – Bellfield	0	00	1	06	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	16	SC037	RIC2	Bellfield – Riccarton (Goods Line)	2	20	1	75	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	17	SC039	BAK	Kilmarnock – Barassie	0	05	7	56	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1048	18	SC045	EKE	East Kilbride – Busby Jn	7	60	0	40	5	N	"R1
+R2
+R3
+R4
+R5"	N	N	N	N	N	"R1Infrastructure maintenance purposes only
+R2Prohibited from hauling vehicles that
+exceed RA5
+R3Double Heading is prohibited
+R420mph maximum speed
+R510mph over bridge 33 (3m 49ch)"
+Scotland	1048	19	SC047	LFS2	Muirhouse South Jn – Change of ELR	1	19	0	61	10	Y	Y	Y	Y	Y	Y	Y	

@@ -1,0 +1,28 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge								Notes
+Western-and-Wales	0801	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
+Western-and-Wales	0801	2	GW900	Llandore Jn – Llandeilo Jn	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0801	3	GW900	Llandeilo Jn – Carmarthen Bridge Jn	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0801	4	GW900	Carmarthen Bridge Jn – Whitland Jn	Y	Y	S1	N	N	N	N	N	"S1The following combinations are
+permitted, up to:
+2591(h) x 2500(w) on FCA/FYA
+wagons
+2629(h) x 2550(w) on FEA
+FSA/FTA wagons
+2616(h) x 2550(w) on KFA
+wagons
+2896(h) x 2500(w) on FLA  FAA
+wagons
+15mph Down Line Br. SWM2
+Llanygors [251m 63ch]
+15mph  Up Line SWM2 Whitland
+Tunne [257m 01ch – 257m 10ch]"
+Western-and-Wales	0801	5	GW900	Whitland Jn – Clarbeston Road Jn	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0801	6	GW900	"Clarbeston Road Jn – Fishguard
+Harbour"	Y *	N	N	N	N	N	N	N	
+Western-and-Wales	0801	7	GW900	Long Dyke Jn – Cardiff Docks	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0801	8	GW900	"Margam Moors Jn – Margam Abbey
+Works East Jn"	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0801	9	GW900	Briton Ferry – Baglan Bay	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0801	10	GW9001	Landore Jn – Swansea	Y *	N	N	N	N	N	N	N	
+Western-and-Wales	0801	11	GW906	"Swansea Loop East Jn – Swansea
+Loop West Jn"	Y	N	N	N	N	N	N	N	

@@ -1,0 +1,42 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	323	325	350	360	Notes
+London-North-Western-South	0477	1	MD166	WLL	"Route Boundary (SO250) (North Pole
+Jn) – Mitre Bridge Jn"	5	65	5	67	Y	Y	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-South	0477	2	MD166	WLL	"itre Bridge Jn – West London Jn
+(Willesden)"	5	67	6	19	Y	Y	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-South	0477	3	MD166	LLG	"est London Jn (Willesden) –
+Wembley Central Jn (Willesden Relief
+lines)"	0	12	2	59	Y	Y	Y	Y	Y	Y	N	Y	Y	N	
+London-North-Western-South	0477	4	MD167	WLL	"itre Bridge Jn – West London Jn
+(Willesden)"	5	67	6	19	Y	Y	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-South	0477	5	MD167	WAW	"West London Jn (Willesden) – Route
+Boundary (EA1360) (Acton Wells)"	6	19	6	76	Y	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0477	6	MD170	ACW	"Route Boundary (EA1360) (Acton
+Canal Wharf Jn) – Willesden Jn"	0	11	0	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0477	7	MD175	BPH	"Bridge Street LC – Site of Former
+Bridge Street Jn"	4	56	4	29	N	N	N	N	N	N	N	N	N	N	"Line out of use
+NC/G1/2014/LNW443v2"
+London-North-Western-South	0477	8	MD175	BDN	"Site of Former Bridge Street Jn – Site
+of Former Duston North Jn"	0	00	0	18	N	N	N	N	N	N	N	N	N	N	"Line out of use
+NC/G1/2014/LNW443v2"
+London-North-Western-South	0477	9	MD175	NMH	"ite of Former Duston North Jn –
+Northampton South Jn"	0	29	0	65	N	N	N	N	N	N	N	N	N	N	"Line out of use
+NC/G1/2014/LNW443v2"
+London-North-Western-South	0477	10	MD180	RTS	Rugby Trent Valley Jn – New Bilton	0	00	0	79	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0477	11	MD232	NMA	bbey Jn – Midland Yard Jn	9	60	10	09	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0477	12	MD232	PVS	"Midland Yard Jn – Limit of
+Electrification (Up Direction)"	10	09	10	39	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0477	13	MD232	PVS	"Limit of Electrification (Up Direction) –
+Nuneaton South Change of ELR"	10	39	10	61	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0477	14	MD232	WNS	"Nuneaton South Change of ELR –
+Nuneaton South Jn"	0	00	0	05	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0477	15	MD232	WNS	"Nuneaton South Jn – Limit of
+Electrification (Down Direction)"	0	05	0	39	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0477	16	MD232	WNS	"Nuneaton South Jn – Route Boundary
+(LN3232) (Hinckley)"	0	05	2	62	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0477	17	MD233	MYC	idland Yard Jn - Canal Farm Jn	0	00	0	69	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0477	18	MD301	RBS1	"Rugby Trent Valley Jn – Coventry
+South Jn"	83	18	93	71	N	N	Y	N	Y	Y	Y	Y	Y	N	
+London-North-Western-South	0477	19	MD301	RBS1	Coventry South Jn – Coventry North Jn	93	71	94	19	N	N	Y	N	Y	Y	Y	Y	Y	N	
+London-North-Western-South	0477	20	MD301	RBS1	"Coventry North Jn – Stechford North
+Jn"	94	19	109	12	N	N	Y	N	Y	Y	Y	Y	Y	N	
+London-North-Western-South	0477	21	MD301	RBS1	Stechford North Jn – Grand Jn	109	12	111	72	N	N	Y	N	Y	Y	Y	Y	Y	N	

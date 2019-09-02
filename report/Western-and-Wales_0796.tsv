@@ -1,0 +1,22 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge	Notes							
+Western-and-Wales	0796	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
+Western-and-Wales	0796	2	GW732	"Abbey Foregate Jn – English Bridge
+Jn (Loop Lines)"	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0796	3	GW733	Sutton Bridge Jn – Aberystwyth	Y *	N	N	N	N	N	N	N	
+Western-and-Wales	0796	4	GW734	Dovey Jn – Pwllheli	S1 *	N	N	N	N	N	N	N	"S1Freight vehicles
+conforming to the W6a
+profile are permitted,
+EXCEPT  IFA-S IFA-U
+wagons"
+Western-and-Wales	0796	5	GW735	Shrewsbury, Crewe Jn – Nantwich	Y *	Y	Y	N	N	N	N	N	
+Western-and-Wales	0796	6	GW736	Gobowen South – Llanddu Jn	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0796	7	GW740	Maindee North Jn – Maindee East Jn	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0796	8	GW750	"Hereford/Brecon Curve GF – MEB
+Siding"	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0796	9	GW770	"Ebbw Vale Parkway – Gaer Jn
+(Western Valley Line)"	Y *	Y	Y	R1	N	N	N	N	"R1W9 15mph   Both lines
+O/Br WVL [9m 45ch]"
+Western-and-Wales	0796	10	GW773	Machen Quarry – Park Jn	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0796	11	GW780	Park Jn – Ebbw Jn	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0796	12	GW784	"Alexandra Dock Jn – 160m 27ch
+(Boundary with Newport Docks)"	Y	Y	Y	N	N	N	N	N	

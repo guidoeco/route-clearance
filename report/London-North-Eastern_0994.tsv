@@ -1,0 +1,17 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	142	143	144	150	153	155	156	158	159	Notes
+London-North-Eastern	0994	1	LN922	TJC3	"kipton – Site of Former Skipton North Jn
+hange of ELR"	221	21	221	68	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	0994	2	LN922	SKW1	"Site of Former Skipton North Jn Change of ELR
+Route Boundary (NW9901) (Settle Jn)"	221	68	230	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	0994	3	LN924	ILK1	Apperley Jn – Burley in Wharfedale	202	03	208	02	Y	Y	Y	Y	"R1
+R2"	"R1
+R2"	Y	Y	Y	"R1Prohibited Guiseley Down platform
+R2Prohibited between Guiseley and
+Burley in Wharfedale"
+London-North-Eastern	0994	4	LN924	ILK2	Burley in Wharfedale – Ilkley	208	02	211	20	Y	Y	Y	Y	N	N	Y	Y	Y	
+London-North-Eastern	0994	5	LN926	GUE2	ockfield Jn – Esholt Jn	3	41	0	00	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	0994	6	LN928	SBF	Shipley East Jn – Bradford Forster Square	205	54	208	50	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	0994	7	LN930	SKS1	Skipton Middle – Site of Former Embsay Jn	222	68	220	64	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	0994	8	LN930	SKS2	"Site of Former Embsay Jn – Network Rail
+oundary (Tilcon Siding)"	0	00	6	50	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	0994	9	LN932	BIB	Shipley South Jn – Shipley West Jn	0	00	0	17	Y	Y	Y	Y	N	N	Y	Y	Y	

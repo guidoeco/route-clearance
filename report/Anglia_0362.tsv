@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	150	153	156	158	165	166	168	170	Notes
+Anglia	0362	1	EA1180	GRE	"Reading Lane Jn – Navarino Road Jn
+(Graham Rd Curve)"	2	55	2	79	N	N	N	N	N	N	N	Y	
+Anglia	0362	2	EA1190	HDT	Bury Street Jn – Cheshunt Jn	9	20	14	28	N	N	N	N	N	N	N	Y	
+Anglia	0362	3	EA1200	CJC	Clapton Jn – Chingford	4	37	10	33	N	N	N	N	N	N	N	N	
+Anglia	0362	4	EA1210	HEB	Broxbourne Jn – Hertford East	18	35	24	19	N	N	N	N	N	N	N	N	
+Anglia	0362	5	EA1220	TLA	Stansted South Jn – Stansted East Jn	33	54	34	26	Y	Y	Y	Y	N	N	N	Y	
+Anglia	0362	6	EA1220	TEN	Stansted North Jn – Stansted East Jn	0	00	0	49	Y	Y	Y	Y	N	N	N	Y	
+Anglia	0362	7	EA1220	TLA	Stansted East Jn –Stansted Airport	34	26	36	67	R1	N	R1	R1	N	N	N	R1	"R1Stansted Airport platforms 1 and 3 diesel
+traction see Sectional Appendix Local
+Instructions"
+Anglia	0362	8	EA1230	SBR	"Route Boundary (LN125) (Royston) –
+Shepreth Branch Jn"	45	60	55	26	N	Y	Y	Y	N	N	N	E	
+Anglia	0362	9	EA1270	MIT	Kings Lynn Jn – Middleton towers	0	22	3	44	N	N	N	N	N	N	N	N	
+Anglia	0362	10	EA1270	MIT	"Kings Lynn Jn – Kings Lynn Yard
+branch end"	0	22	0	00	N	N	N	N	N	N	N	N	
+Anglia	0362	11	EA1280	SDC	"Stratford Central Jn East – Temple
+Mills East Jn. (Via Platforms 11 & 12
+at Stratford)"	3	76	4	45	N	N	N	N	N	N	N	N	
+Anglia	0362	12	EA1280	SDC	Temple Mills East Jn – Coppermill Jn	4	45	7	14	Y	N	N	N	E	E	N	Y	
+Anglia	0362	13	EA1290	TSE2	"Tottenham South Jn – Change of
+mileage"	5	41	5	54	N	N	N	N	E	E	N	Y	
+Anglia	0362	14	EA1290	TSE1	"Change of mileage – South
+Tottenham East Jn"	6	22	5	73	N	N	N	N	E	E	N	Y	
+Anglia	0362	15	EA1300	SSL	"South Tottenham West Jn – Seven
+Sisters Jn"	0	13	0	00	N	N	N	N	N	N	N	Y	
+Anglia	0362	16	EA1310	BOK2	"Camden Road West Jn – Gospel Oak
+Jn"	0	00	1	10	Y	N	N	N	E	E	"E
+R1"	Y	R1Prohibited with deflated suspension
+Anglia	0362	17	EA1310	BOK2	Gospel Oak Jn – Kensal Green Jn	1	10	5	10	Y	N	N	N	"E
+R1"	E	"E
+R2"	Y	"R1Route prohibited to Class 165/1
+R2Prohibited with deflated suspension"
+Anglia	0362	18	EA1310	KGC	"Kensal Green Jn – Route Boundary
+(MD155) (Harlesden Jn)"	0	00	0	21	Y	N	N	N	N	N	N	N	
+Anglia	0362	19	EA1310	KGW	"Kensal Green Jn – Route Boundary
+(MD150) (Willesden Suburban Jn)"	5	10	5	25	Y	N	N	N	"E
+R1"	N	E	N	R1Route prohibited to Class 165/1

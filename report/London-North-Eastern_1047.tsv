@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	357	357 OD	365	377	378	379	380	387	508	599	700	Notes
+London-North-Eastern	1047	1	LN854	MVN2	"Turners Lane Jn – Site of former
+Goose Hill Jn"	48	33	50	31	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	2	LN854	TJC3	"Site of former Goose Hill Jn – Altofts
+Jn"	184	56	186	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	3	LN854	NOC	Altofts Jn – Sherburn Jn	23	57	13	20	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	4	LN854	NOC	herburn Jn – Colton Jn	13	20	5	41	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	5	LN854	ECM4	olton Jn – Holgate Jn	182	79	188	07	N	N	N	N	N	N	EH	N	N	N	N	
+London-North-Eastern	1047	6	LN854	ECM4	olgate Jn – York	188	07	188	40	N	N	N	N	N	N	EH	N	N	N	N	
+London-North-Eastern	1047	7	LN854	ECM5	ork – Skelton Jn	0	00	1	50	N	N	N	N	N	N	EH	N	N	N	N	
+London-North-Eastern	1047	8	LN858	MRB	Milner Royd Jn – Mill Lane Jn	29	20	40	01	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	9	LN859	GRD	reetland Jn – Dryclough Jn	1	11	0	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	10	LN860	MVL3	"Route Boundary (NW7021)
+(Stalybridge Tunnel Jn) – Springwood
+Jn"	15	11	25	20	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	11	LN860	MVL3	"Springwood Jn – Change of ELR
+(Heaton Lodge Jn)"	25	20	29	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	12	LN860	MVL4	"Change of ELR (Heaton Lodge Jn) –
+Heaton Lodge Jn (Up line)"	29	00	29	45	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	13	LN860	MVL4	"Change of ELR (Heaton Lodge Jn) –
+Heaton Lodge East Jn (Down Line)"	29	00	29	74	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	14	LN860	MVN2	"Heaton Lodge Jn – Heaton Lodge East
+Jn"	37	18	37	47	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	15	LN860	MVN2	"Heaton Lodge East Jn – Thornhill LNW
+Jn"	37	47	39	72	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	16	LN860	MDL1	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	17	LN861	BBW	Bradley Jn – Bradley Wood Jn	0	00	1	17	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	18	LN862	PED2	"Barnsley Station Jn – Site of former
+Barnsley Jn"	6	43	0	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	19	LN862	PED1	"Site of former Barnsley Jn – Site of
+Former Huddersfield Jn"	29	13	28	37	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	20	LN862	PEH	"Site of former Huddersfield Jn –
+Lockwood"	13	42	1	18	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	21	LN862	PEH	Lockwood – Springwood Jn	1	18	0	40	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	22	LN862	MVL3	Springwood Jn – Huddersfield	0	40	0	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	23	LN864	DRS1	"Dewsbury Railway Street – Change of
+Mileage"	0	10	0	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1047	24	LN864	DRS1	"Change of Mileage – Dewsbury East
+Jn"	0	27	0	00	N	N	N	N	N	N	N	N	N	N	N	

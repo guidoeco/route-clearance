@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	357	357 OD	365	377	378	379	380	387	508	599	700	Notes
+London-North-Eastern	1040	1	LN627	LEN3	Sunderland South Jn – Boldon East Jn	89	56	94	63	N	N	N	N	N	N	N	N	N	Y	N	
+London-North-Eastern	1040	2	LN627	LEN3	Boldon East Jn – Boldon West Jn	94	63	95	16	N	N	N	N	N	N	N	N	N	Y	N	
+London-North-Eastern	1040	3	LN627	LEN3	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	N	N	N	N	N	N	N	N	N	Y	N	
+London-North-Eastern	1040	4	LN627	LEN3	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	5	LN627	LEN3	Park Lane Jn – High Level Bridge Jn	100	65	101	33	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	6	LN627	LEN3	"High Level Bridge Jn – Newcastle East
+Jn"	101	33	101	59	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	7	LN628	NEK	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	N	N	N	N	N	N	Y	N	
+London-North-Eastern	1040	8	LN629	PDL	"Pelaw Metro Jn – Network Rail
+Boundary (Metro Operating)"	97	64	98	01	N	N	N	N	N	N	N	N	N	Y	N	
+London-North-Eastern	1040	9	LN630	PUL	"Pelaw Metro Jn – Network Rail
+Boundary (Metro Operating)"	97	64	97	77	N	N	N	N	N	N	N	N	N	Y	N	
+London-North-Eastern	1040	10	LN631	DSN1	"Darlington South Jn – Eaglescliffe
+South Jn"	0	29	8	58	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	11	LN632	DSN2	"Stockton Cut Jn – Redcar Change of
+Mileage"	10	13	21	72	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	12	LN632	DSN3	Redcar Change of Mileage – Saltburn	22	16	27	57	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	13	LN634	MBW1	Guisborough Jn – Battersby Jn	0	00	10	54	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	14	LN634	MBW2	"Battersby Jn (End of Line) – Grosmont
+Jn"	11	61	29	66	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	15	LN634	MBW3	Grosmont Jn – Whitby	24	44	30	61	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	16	LN636	No ELR	Beam Mill Jn – Network Rail Boundary	18	03	18	67	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	17	LN638	WCI	Shell Jn –  Network Rail Boundary	0	00	1	03	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	18	LN642	SSK1	"Saltburn West Jn –  Network Rail
+Boundary (Cleveland Potash)"	27	05	34	29	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	19	LN644	BOH	"Hartburn Jn – Bowesfield SB (Hartburn
+Curve)"	0	00	0	44	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	20	LN646	STF	"Norton-on-Tees South –  Ferryhill
+South Jn"	0	00	10	72	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	21	LN648	NWE	"Norton-on-Tees West –  Norton-on-
+Tees East"	0	29	0	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	22	LN652	POC1	Billingham Jn – Phillips Siding Jn	0	00	3	25	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	23	LN652	POC2	"Phillips Siding Jn – Seal Sands Branch
+Jn"	3	25	5	01	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	24	LN652	SES	"Seal Sands Branch Jn – End of NR
+maintenance"	0	00	2	44	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1040	25	LN656	SOT	Seaton Snook Jn – Seaton-on-Tees	0	00	1	51	N	N	N	N	N	N	N	N	N	N	N	

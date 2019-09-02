@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	Gauge	Notes							
+London-North-Western-North	0975	1								W6A	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Western-North	0975	2	NW2009	SDJ2	End of line (Latchford) – Ditton East Jn	10	06	18	55	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	0975	3	NW2011	WOA1	Walton Old Jn – Arpley Jn	0	68	0	00	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	0975	4	NW2015	DSE	Ordsall Lane Jn – Newton-le-Willows Jn	30	38	16	19	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0975	5	NW2015	DSE	"Newton-le-Willows Jn – Earlestown East
+Jn (Electrified section)"	16	19	14	75	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	0975	6	NW2015	DSE	Earlestown East Jn – Edge Hill	14	75	1	78	"Y *
+R1"	Y	Y	Y	N	N	N	N	"R1* applies between between
+Bootle Branch Jn (1m 78ch) and
+Edge Hill"
+London-North-Western-North	0975	7	NW2017	SCN	"Eccles Station Jn – Weaste Branch
+Network Rail / MSC Boundary"	0	00	0	54	Y	N	N	N	N	N	N	N	
+London-North-Western-North	0975	8	NW2019	PJL	"Parkside Jn – Lowton Jn (East Curve
+lines)"	0	05	0	36	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0975	9	NW2021	EEE	"Earlestown South Jn – Earlestown West
+Jn (Liverpool Curve)"	186	74	187	15	Y	Y	Y	Y	N	N	N	N	
+London-North-Western-North	0975	10	NW2023	SBH3	Springs Branch Jn – Gerards Bridge Jn	12	54	5	66	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	0975	11	NW2023	SBH2	"Gerards Bridge Jn – St Helens Station
+Jn"	5	66	5	12	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	0975	12	NW2023	SBH1	St Helens Station Jn – Huyton Jn	5	12	0	-18	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	0975	13	NW2025	SHS1	"St Helens Station Jn – Sutton Oak
+Network Rail Boundary"	7	15	6	04	Y	N	N	N	N	N	N	N	
+London-North-Western-North	0975	14	NW2027	SCT1/2	"Edge Hill, Bootle Branch Jn – Regent
+Road LC Network Rail Boundary
+(MDHC)"	0	14	5	53	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	0975	15	NW2029	ME3	Olive Mount Jn – Edge Lane Jn	0	10	0	52	Y	Y	Y	Y	N	Y	N	N	
+London-North-Western-North	0975	16	NW3001	CNH1	"Crewe North Jn – Limit of Electrification
+(Crewe Steelworks)"	158	18	159	41	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	0975	17	NW3001	CNH1	"Limit of Electrification (Crewe
+Steelworks) – Chester East Jn"	159	41	178	66	Y	N	N	N	N	N	N	N	
+London-North-Western-North	0975	18	NW3001	CNH2	"Chester East Jn – Change of ELR
+(Chester Windmill Lane Tunnel)"	178	66	179	56	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	0975	19	NW3001	CNH3	"Change of ELR (Chester Windmill Lane
+Tunnel) – Route Boundary LNW / Wales
+(Rockcliffe Hall)"	179	56	188	40	Y *	Y	Y	N	N	N	N	N	
+London-North-Western-North	0975	20	NW3001	CNH3	"Route Boundary LNW / Wales
+(Rockcliffe Hall) – Holyhead"	188	40	263	56	Y *	N	N	N	N	N	N	N	
+London-North-Western-North	0975	21	NW3003	CHW1	Chester East Jn – Acton Grange Jn	0	24	16	19	Y *	Y	N	N	N	N	N	N	

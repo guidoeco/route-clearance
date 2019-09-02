@@ -1,0 +1,20 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge								Notes
+Scotland	1091	1			W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+Scotland	1091	2	SC193	Welsh's Bridge Jn – Rose Street Jn	Y	Y	Y	N	N	N	N	N	
+Scotland	1091	3	SC193	Welsh's Bridge Jn – Inverness Harbour	Y	Y	Y	N	N	N	N	N	
+Scotland	1091	4	SC195	Aberdeen to Elgin	Y *	Y	S1	N	N	N	N	N	"S1The following combinations are permitted:
+2590 high x 2500 wide box, on KFA
+wagon
+2770 high x 2500 wide box, on IKA wagon
+2896 wide x 2500 wide box, on FLA
+wagon
+2590 wide x 2600 wide box, on IFA wagon
+Safeway refrigerated box on  IKA wagon
+All Lines"
+Scotland	1091	5	SC195	Elgin – Inverness	Y *	Y	N	N	N	N	N	N	
+Scotland	1091	6	SC197	Kittybrewster – Waterloo Goods (Goods Line)	Y	Y	Y	N	N	N	N	N	
+Scotland	1091	7	SC199	Keith Branch	Y	N	N	N	N	N	N	N	
+Scotland	1091	8	SC201	Alves GF – Burghead (Goods Line)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1091	9	SC203	Inverness – Wick	Y *	Y	Y	N	N	N	N	N	
+Scotland	1091	10	SC205	Dingwall – Kyle of Lochalsh	Y *	Y	N	N	N	N	N	N	
+Scotland	1091	11	SC207	Georgemas Junction – Thurso	Y *	Y	Y	N	N	N	N	N	

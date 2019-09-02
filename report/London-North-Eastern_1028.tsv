@@ -1,0 +1,32 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	Notes
+London-North-Eastern	1028	1	LN760	HAC	Firbeck Jn – Harworth Colliery	11	20	14	21	N	N	N	N	N	N	N	N	N	N	"Line out of use (temporarily) until 09 May
+2015
+NC/G1/2011/LNE/STNC/002"
+London-North-Eastern	1028	2	LN762	YDS	"St Catherines Jn – Decoy South Jn (St
+Catherines Curve)"	15	17	15	71	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	3	LN764	UDS	Low Ellers Curve Jn – Potteric Carr Jn	15	55	16	56	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	4	LN766	HJB	"Bentley Jn – Hexthorpe Jn (Doncaster
+Avoiding Line)"	3	24	0	00	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1028	5	LN768	PSE	"Route Boundary (LN3273) (Mansfield)
+– Shireoaks East Jn"	143	00	154	30	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1028	6	LN772	SWP	Warsop Jn – Shirebrook Jn	0	00	0	45	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	7	LN774	BAC2	Barrow Hill North Jn – Seymour Jn SB	149	53	152	21	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	8	LN774	BAC3	"Seymour Jn SB – Oxcroft Disposal
+Point"	155	06	0	78	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	9	LN776	HLF1	all Lane Jn – Change of ELR	0	44	0	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	10	LN776	HLF2	hange of ELR – Foxlow Jn	150	47	150	64	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	11	LN778	BOC1	Seymour Jn – Bolsover	7	51	5	21	N	N	N	N	N	N	N	N	N	N	"Line out of use between Site of former
+Markham Colliery Jn and Bolsover
+NC/G1/2010/LNE/020V"
+London-North-Eastern	1028	12	LN782	SHW	Woodend Jn – Shireoaks West Jn	153	71	154	36	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	13	LN784	HIM	igh Marnham – Thoresby Colliery Jn	27	48	17	16	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	14	LN784	HIM	Thoresby Colliery Jn – Warsop Jn	17	16	10	59	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	15	LN784	HIM	Warsop Jn – Shirebrook South Jn	10	59	10	19	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	16	LN784	HIM	"hirebrook South Jn – Shirebrook East
+Jn"	10	19	9	72	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1028	17	LN786	BEC	"Boughton Jn – Network Rail Boundary
+(Bevercotes Colliery)"	0	00	4	22	N	N	N	N	N	N	N	N	N	N	"Line out of use from 01m 0ch to Network
+Rail Boundary (Bevercotes Colliery)
+LN213/PJ1037"
+London-North-Eastern	1028	18	LN788	TYC	"horesby Colliery Jn – Thoresby
+Colliery"	0	00	0	42	N	N	N	N	N	N	N	N	N	N	

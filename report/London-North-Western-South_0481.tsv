@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	313	315	317	319	321	322	323	325	350	360	Notes
+London-North-Western-South	0481	1	MD560	WOP	"ater Orton West Jn – Park Lane
+Change of ELR"	35	15	36	04	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	2	MD560	CBR2	"ark Lane Change of ELR  – Park
+Lane Jn"	36	04	36	15	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	3	MD565	CBR1	Castle Bromwich Jn – Park Lane Jn	0	55	0	00	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	4	MD565	CBR2	ark Lane Jn – Ryecroft Jn	36	04	47	48	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	5	MD570	LSS	Landor Street Jn – St Andrews Jn	40	60	41	18	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	6	MD570	SKN	St Andrews Jn – Bordesley Jn	41	18	41	44	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	7	MD570	SKN	"Bordesley Jn – Kings Norton Jn (Camp
+Hill Lines)"	41	44	46	77	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	8	MD575	SAG	St Andrews Jn – Grand Jn	0	00	0	52	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	9	MD580	LEL	Lifford East Jn – Lifford West Jn	46	11	46	36	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	10	MD701	MCJ1	"ondon Marylebone – Neasden South
+Jn (Change of Mileage)"	205	77	200	65	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	11	MD701	NAJ1	"Neasden South Jn (Change of
+Mileage) – Northolt Jn"	6	30	0	00	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	12	MD701	NAJ2	Northolt Jn – Princes Risborough Jn	0	00	24	50	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	13	MD701	NAJ2	"Princes Risborough Jn – Site of
+Former Ashendon Jn (Change of
+Mileage)"	24	50	33	69	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	14	MD701	NAJ3	"Site of Former Ashendon Jn (Change
+of Mileage) – Aynho Jn"	0	00	18	35	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	15	MD705	ANL	"oute Boundary (GW110) (Greenford
+West Jn) – Northolt Jn (South Ruislip)"	8	60	10	15	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	16	MD710	MCJ1	"easden South Jn – Network Rail
+Boundary (LUL) (Harrow-on-the-Hill
+South Jn)"	200	66	197	05	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	17	MD712	MCJ2	"etwork Rail Boundary (LUL)
+(Amersham, Mantles Wood) –
+Aylesbury Jn"	25	21	38	08	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	18	MD712	MCJ2	Aylesbury Jn – Aylesbury	38	08	38	13	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	19	MD715	NJN	"easden South Jn – Route Boundary
+(EA1360) (Neasden Jn)"	6	30	6	51	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0481	20	MD720	NAJ2	"Princes Risborough – Change of
+Mileage (Princes Risborough Jn)"	24	40	24	48	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	21	MD720	PRA	"Change of Mileage (Princes
+Risborough Jn) – Aylesbury Jn"	42	31	49	35	N	N	N	N	N	N	N	H	N	N	
+London-North-Western-South	0481	22	MD725	MCJ2	Aylesbury – Aylesbury Vale Parkway	38	13	40	38	N	N	N	N	N	N	N	H	N	N	

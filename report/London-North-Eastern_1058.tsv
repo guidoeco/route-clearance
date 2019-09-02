@@ -1,0 +1,37 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1058	1	LN180	SNW	Sleaford West Jn –  Sleaford North Jn	1	34	3	42	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	2	LN185	ABE1	"Allington West Jn –  Site of Former
+Barkston East Jn"	0	00	4	08	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1058	3	LN185	GRS1	"Barkston East Jn – Site of Former
+Honington Jn"	110	12	112	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1058	4	LN185	GRS2	"Site of Former Honington Jn – Sleaford
+West Jn"	112	00	120	29	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1058	5	LN185	GRS2	Sleaford West Jn – Sleaford East Jn	120	29	121	21	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	6	LN185	GRS2	"Sleaford East Jn – Site of Former Boston
+Sleaford Line Jn"	121	21	137	06	Y	Y	R1	N	N	N	N	"R110mph Heckington Up Main
+platform with deflated suspension"
+London-North-Eastern	1058	7	LN185	GRS3	"Site of Former Boston Sleaford Line Jn –
+Boston"	106	70	107	24	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1058	8	LN185	GRS3	Boston – Site of Former Firsby East Jn	107	24	122	22	R1	R1	R1	N	N	N	N	"R15mph Bridge No.6 (Bellwater Drain)
+Up line at 118m 56ch"
+London-North-Eastern	1058	9	LN185	GRS4	Site of Former Firsby East Jn - Skegness	0	28	9	17	Y	Y	R1	N	N	N	N	"R1Prohibited Skegness platforms 3, 6
+and 7"
+London-North-Eastern	1058	10	LN190	ACD	"Allington East Jn – Allington North Jn
+(Allington Chord)"	0	00	0	25	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1058	11	LN195	NOG1	"ottingham Branch Jn – Route Boundary
+(LN3635) (Rectory Jn SB)"	106	08	111	60	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	12	LN200	NOB3	Wrawby Jn – Pelham Street Jn	12	55	41	26	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1058	13	LN206	NOB1	"Route Boundary (LN3625) (Nottingham
+East Jn) – Coulson Change of  ELR"	16	02	32	00	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	14	LN206	NOB2	Coulson Change of  ELR – Boultham Jn	32	00	32	40	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	15	LN206	NOB2	Boultham Jn – West Holmes Jn	32	40	32	70	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	16	LN210	NSE	"Newark Crossing South Jn – Newark
+Crossing East Jn"	0	00	0	21	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	17	LN215	BHP	Boultham Jn – Pyewipe Jn	0	00	0	65	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	18	LN220	BCB	Bessacarr Jn – Black Carr Jn	115	72	116	44	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	19	LN235	FWR1	ossington Colliery Jn – End of Line	152	12	151	69	N	N	N	N	N	N	N	
+London-North-Eastern	1058	20	LN235	FWR2	ossington Colliery – End of Line	153	31	151	69	N	N	N	N	N	N	N	
+London-North-Eastern	1058	21	LN600	ECM2	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	22	LN600	ECM3	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	23	LN600	ECM4	olton Jn – Colton North Jn	182	79	183	65	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1058	24	LN600	ECM4	olton North Jn – York Station	183	65	188	40	Y	Y	Y	N	N	N	Y	

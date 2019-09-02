@@ -1,0 +1,37 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	170	172	180	185	220	221	222	Notes
+London-North-Eastern	1007	1	LN809	BTJ	"Shepcote Lane West Jn –  Tinsley
+Yard East End"	161	24	160	52	N	N	N	N	N	N	N	
+London-North-Eastern	1007	2	LN810	SEL	"Shepcote Lane West Jn – Tinsley
+South Jn"	161	24	161	63	N	N	N	N	N	N	N	
+London-North-Eastern	1007	3	LN812	BLJ	"Shepcote Lane East Jn – Broughton
+Lane Jn"	161	20	161	67	N	N	N	N	N	N	N	
+London-North-Eastern	1007	4	LN816	BEW	Beighton Jn – Woodhouse Jn	48	06	46	56	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1007	5	LN818	HCD	Holmes Jn – Rotherham Central Jn	0	00	0	62	Y	N	N	Y	Y	Y	N	
+London-North-Eastern	1007	6	LN824	SKM	Moorthorpe Jn – South Kirkby Jn	0	57	0	05	Y	N	N	Y	Y	Y	Y	
+London-North-Eastern	1007	7	LN826	PED5	South Yorkshire Jn – Mexborough Jn	22	57	15	64	Y	N	E	Y	Y	Y	Y	
+London-North-Eastern	1007	8	LN826	SJM2	"Mexborough Jn – Site of Former
+Mexborough North Jn"	15	64	14	78	Y	N	E	Y	Y	Y	Y	
+London-North-Eastern	1007	9	LN826	SJM1	"Site of Former Mexborough North Jn –
+Swinton Jn South"	167	15	166	56	Y	N	E	Y	Y	Y	Y	
+London-North-Eastern	1007	10	LN828	WME	Mexborough Jn – Aldwarke Jn	10	17	7	26	Y	N	N	Y	Y	Y	Y	
+London-North-Eastern	1007	11	LN830	WME	Aldwarke Jn – Woodburn Jn	7	25	0	00	Y	N	N	Y	Y	Y	Y	
+London-North-Eastern	1007	12	LN832	SJB	Doncaster, Bridge Jn – St. James Jn	22	54	22	38	N	N	N	N	N	N	N	
+London-North-Eastern	1007	13	LN836	DOL1	"oncaster Marshgate Jn – Hare Park
+Jn"	156	28	171	70	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	14	LN836	DOL1	"are Park Jn – Site of Former West
+Riding Jn"	171	70	175	32	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	15	LN836	DOL2	"Site of Former West Riding Jn –
+Copley Hill West Jn"	175	32	184	65	Y	N	R1	Y	Y	Y	Y	"R15mph Wakefield Westgate Down platform loop with
+deflated suspension"
+London-North-Eastern	1007	16	LN836	DOL2	"Copley Hill West Jn – Whitehall West
+Jn"	184	65	185	25	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	17	LN836	DOL2	Whitehall West Jn – Whitehall East Jn	185	25	185	28	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	18	LN836	DOL2	hitehall East Jn – Leeds	185	28	185	70	Y	N	R1	Y	Y	Y	Y	R1Prohibited Leeds platform 2 with deflated suspension
+London-North-Eastern	1007	19	LN836	HUL4	Leeds – Neville Hill East Jn	20	50	18	25	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1007	20	LN838	LEH1	Armley Jn – Site of Former Pannal Jn	0	12	14	60	N	N	Y	"R1
+R2
+R3"	Y	Y	N	"R115mph Burley Park Down platform
+R230mph Horsforth Up platform
+R330mph Weeton Down platform"
+London-North-Eastern	1007	21	LN838	LEH2	"Site of Former Pannal Jn – Site of
+Former Crimple Jn"	14	60	15	20	N	N	Y	Y	Y	Y	N	

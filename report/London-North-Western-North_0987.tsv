@@ -1,0 +1,22 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	Gauge	Notes							
+London-North-Western-North	0987	1								W6A	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Western-North	0987	2	NW9901	SKW1	"oute Boundary (LN922) (Gargrave) –
+ettle Jn"	230	00	234	44	Y *	Y	N	N	N	N	N	N	
+London-North-Western-North	0987	3	NW9901	SAC	Settle Jn – Petteril Bridge Jn	234	44	307	12	Y *	Y	N	N	N	N	N	N	
+London-North-Western-North	0987	4	NW9901	NEC2	etteril Bridge Jn – London Road Jn	59	26	59	45	Y	Y	N	N	N	N	N	N	
+London-North-Western-North	0987	5	NW9901	NEC2	ondon Road Jn – Carlisle South Jn	59	45	60	02	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0987	6	NW9903	SKW1	"Settle Jn – Change of ELR (Site of former
+ennington Jn)"	234	44	249	44	Y *	N	N	N	N	N	N	N	
+London-North-Western-North	0987	7	NW9903	SJC	"Change of ELR (Site of former
+ennington Jn) – Change of ELR (Site of
+ormer Carnforth East Jn)"	9	45	0	31	Y *	N	N	N	N	N	N	N	
+London-North-Western-North	0987	8	NW9903	CEC	"Change of ELR (Site of Former
+Carnforth East Jn) – Carnforth Station
+Jn"	0	25	0	04	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0987	9	NW9907	WAR	ppleby North Jn – Appleby West Jn	277	27	277	56	Y	N	N	N	N	N	N	N	Line Not in Regular Use
+London-North-Western-North	0987	10	NW9907	EDE	"Network Rail Boundary (Warcop) – End
+of line"	11	03	11	46	Y	N	N	N	N	N	N	N	Line Not in Regular Use
+London-North-Western-North	0987	11	NW9909	NEC2	"Route Boundary (LN682) (Scotby) –
+Petteril Bridge Jn"	58	00	59	26	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0987	12	NW9911	NGD	"ondon Road Jn – Bog Jn (Newcastle
+oods lines)"	0	00	0	25	Y *	Y	Y	Y	Y	Y	Y	Y	

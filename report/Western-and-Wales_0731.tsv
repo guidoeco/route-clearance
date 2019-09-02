@@ -1,0 +1,46 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 MOD	MK3 DVT	MK3 DVT MOD	MK4	Notes
+Western-and-Wales	0731	1	GW628	"TUR/
+CWR"	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	N	N	N	N	N	N	N	
+Western-and-Wales	0731	2	GW628	FRY	"Turnchapel Branch Jn – Plymouth
+Friary"	245	17	245	40	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0731	3	GW637	DAC	"St Budeaux Jn – Buffer Stops (Beyond
+Bere Alston)"	227	22	219	75	Y	Y	N	N	N	N	N	
+Western-and-Wales	0731	4	GW637	CAL	Bere Alston Jn – Gunnislake	0	02	4	40	Y	Y	N	N	N	N	N	
+Western-and-Wales	0731	5	GW640	LIL	Liskeard – Coombe Jn	8	67	6	75	Y	Y	N	N	N	N	N	
+Western-and-Wales	0731	6	GW640	LOO	Coombe Jn – Looe	6	52	0	19	Y	Y	N	N	N	N	N	
+Western-and-Wales	0731	7	GW640	LOO	Coombe Jn – Coombe No.2 GF	6	52	6	66	Y	Y	N	N	N	N	N	
+Western-and-Wales	0731	8	GW642	LOO	"Coombe No.2 GF – Network Rail
+Boundary (Moorswater)"	6	66	7	20	N	N	N	N	N	N	N	
+Western-and-Wales	0731	9	GW650	LOF	"Lostwithiel – Network Rail Boundary
+(Carne Point)"	277	54	281	59	Y	Y	N	N	N	N	N	
+Western-and-Wales	0731	10	GW660	PAR	Par Loop Jn – St Blazey Jn	281	57	282	16	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0731	11	GW660	NEW	St Blazey Jn – Newquay	282	16	302	49	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0731	12	GW672	SDS	Burngullow Jn – Drinnick Mill	288	26	291	31	Y	Y	N	N	N	N	N	
+Western-and-Wales	0731	13	GW672	SDS	Drinnick Mill – Parkandillack	291	31	293	52	Y	Y	N	N	N	N	N	
+Western-and-Wales	0731	14	GW680	"FAL1-
+3"	Penwithers Jn – Falmouth	301	25	312	46	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0731	15	GW690	SIV	St Erth – St Ives	321	02	325	13	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0731	16	GW700	BAG2	"Gloucester Barnwood Jn – Horton
+Road Jn"	92	21	92	75	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0731	17	GW700	"SWM
+2"	"Horton Road Jn – Route Boundary
+Wales"	113	61	129	00	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0731	18	GW700	"SWM
+2"	"Route Boundary Wales – Severn
+Tunnel Jn"	129	00	149	14	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0731	19	GW710	"NO
+ELR"	"Llanwern Works East – Llanwern
+Works West via BSS (Corus
+Infrastructure)"	153	08	156	03	N	N	N	N	N	N	N	
+Western-and-Wales	0731	20	GW720	EUB	"Network Rail Boundary (Uskmouth) –
+East Usk Jn"	3	07	0	00	N	N	N	N	N	N	N	
+Western-and-Wales	0731	21	GW730	SHL	Severn Bridge Jn – Craven Arms Jn	0	11	20	01	Y	Y	Y	N	N	Y	N	
+Western-and-Wales	0731	22	GW730	SHL	Craven Arms Jn – Shelwick Jn	20	01	49	26	Y	Y	Y	N	N	Y	N	
+Western-and-Wales	0731	23	GW730	SHL	"Shelwick Jn – Site of former
+Rotherwas Jn"	49	26	52	19	Y	Y	Y	N	N	Y	N	
+Western-and-Wales	0731	24	GW730	HDC	"Site of former Rotherwas Jn – Site of
+former Red Hill Jn"	0	00	1	74	Y	Y	Y	N	N	Y	N	
+Western-and-Wales	0731	25	GW730	HNL1	"Site of former Red Hill Jn – Maindee
+West Jn"	1	74	41	66	Y	Y	Y	N	N	Y	N	
+Western-and-Wales	0731	26	GW731	WSJ2	"Route Boundary (MD801) (Madeley
+Jn) – Abbey Foregate Jn"	170	46	171	15	Y	Y	Y	Y	N	Y	N	

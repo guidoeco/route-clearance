@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	Notes
+London-North-Western-South	0517	1	MD435	GSJ2	Smethwick Jn – Stourbridge North Jn	133	32	141	06	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	2	MD440	GSJ1	alton Jn – Smethwick Jn	3	64	4	08	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	3	MD445	SJS	Stourbridge Jn – Stourbridge Town	142	16	142	78	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	4	MD450	OWW	tourbridge North Jn – Round Oak	142	15	146	13	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	5	MD455	KWD	Kingswinford Jn – Network Rail Boundary	144	33	145	60	8	N	N	N	N	N	N	"Line out of use
+NME/2005/LNW284"
+London-North-Western-South	0517	6	MD460	SJT1	"Kineton MOD Branch – Burton Dassett
+(MOD Kineton)"	22	60	25	60	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	7	MD501	DBP1	"Route Boundary (LN3501) (London Road
+Jn) – Kingsbury Jn"	23	30	29	39	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	8	MD501	DBP2	Kingsbury Jn – Water Orton East Jn	29	39	33	22	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	9	MD501	DBP3	"Water Orton East Jn (Change of Mileage)
+– Landor Street Jn"	34	43	40	60	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	10	MD501	DBP3	Landor Street Jn – Proof House Jn	40	60	41	51	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	11	MD545	KJW	"Kingsbury Jn – Whitacre Jn (Change of
+Mileage)"	29	39	31	69	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	12	MD555	NWO	"uneaton North Junction – Lmit of
+Electrification"	10	18	10	00	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	13	MD555	NWO	"imit of Electrification – Whitacre West
+Junction"	10	00	0	00	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	14	MD555	DBP3	Whitacre West Jn – Water Orton East Jn	31	69	34	43	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	15	MD560	WOP	"ater Orton West Jn – Park Lane Chang
+of ELR"	35	15	36	04	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	16	MD560	CBR2	ark Lane Change of ELR  – Park Lane J	36	04	36	15	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	17	MD565	CBR1	Castle Bromwich Jn – Park Lane Jn	0	55	0	00	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	18	MD565	CBR2	ark Lane Jn – Ryecroft Jn	36	04	47	48	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	19	MD570	LSS	Landor Street Jn – St Andrews Jn	40	60	41	18	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	20	MD570	SKN	St Andrews Jn – Bordesley Jn	41	18	41	44	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	21	MD570	SKN	"Bordesley Jn – Kings Norton Jn (Camp Hi
+Lines)"	41	44	46	77	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	22	MD575	SAG	St Andrews Jn – Grand Jn	0	00	0	52	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	23	MD580	LEL	Lifford East Jn – Lifford West Jn	46	11	46	36	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0517	24	MD701	MCJ1	"ondon Marylebone – Neasden South Jn
+(Change of Mileage)"	205	77	200	65	8	Y	Y	Y	Y	Y	Y	

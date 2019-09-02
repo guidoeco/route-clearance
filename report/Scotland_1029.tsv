@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	58	Notes
+Scotland	1029	1	SC007	EGS2	Midcalder Jn – Holytown Jn	23	11	1	27	"8
+R1"	Y	Y	Y	Y	Y	Y	Y	"R1RA Change
+STNC NC/G1/2010/ICP-RA/SC012 applies until
+30/09/2014"
+Scotland	1029	2	SC009	LNK	Lanark – Lanark Jn	2	45	0	03	5	Y	N	N	N	N	N	N	
+Scotland	1029	3	SC011	WWD	Law Jn – Holytown Jn	84	08	89	66	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	4	SC011	EGS2	Holytown Jn – Mossend East Jn	1	27	0	40	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	5	SC011	EGS1	Mossend East Jn – Uddingston Jn	3	63	0	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	6	SC013	SHR	Wishaw Central Jn – Shieldmuir Jn	86	63	87	43	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	7	SC015	MDN	"Mossend East Jn – Mossend North Jn
+(North Curve)"	0	40	0	06	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	8	SC017	MDE	"Mossend East Jn – Mossend South Jn
+(East Curve)"	0	31	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	9	SC019	MDW	"Mossend South Jn – Mossend West Jn
+(West Curve)"	91	08	91	50	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	10	SC021	COS2	Coltness – Change of ELR	0	09	0	00	10	N	Y	Y	Y	Y	Y	Y	
+Scotland	1029	11	SC021	COS1	Change of ELR – Garriongill Jn	14	15	15	29	10	N	Y	Y	Y	Y	Y	Y	
+Scotland	1029	12	SC023	HMN1	Motherwell – Change of ELR	0	08	1	44	7	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	13	SC023	HMN2	Change of ELR – Newton, Hamilton Jn	6	61	0	00	7	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	14	SC024	LRK	Larkhall – Haughhead Jn	3	00	0	00	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	15	SC025	ARG1	"Rutherglen Central Jn – Bridgeton Yard
+North End"	0	00	0	43	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	16	SC025	ARG2	"Bridgeton Yard North End – Exhibition
+Centre"	0	86	4	03	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	17	SC025	ARG2	"Exhibition Centre – Finnieston East Jn
+(Down line)"	4	03	4	41	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	18	SC025	ARG2	"Exhibition Centre – Finnieston West Jn
+(Up line)"	4	03	4	74	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	19	SC027	RNC	"Rutherglen West Jn – Rutherglen North Jn
+(West Curve)"	0	00	0	29	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	20	SC029	CLY	Larkfield Jn – Terminus Jn	101	01	101	62	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	21	SC029	BRD	"Terminus Jn – Shields Jn via Through
+Terminus lines"	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1029	22	SC029	CLY	Terminus Jn – Shields Jn	101	62	102	16	10	Y	Y	Y	Y	Y	Y	Y	

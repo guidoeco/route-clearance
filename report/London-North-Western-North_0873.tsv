@@ -1,0 +1,36 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT MOD)	MK4	Notes
+London-North-Western-North	0873	1	NW3001	CNH1	"Limit of Electrification (Crewe
+Steelworks) – Chester East Jn"	159	55	178	66	Y	Y	Y	Y	N	Y	Y	
+London-North-Western-North	0873	2	NW3001	CNH2	"Chester East Jn – Change of ELR
+(Windmill Lane Tunnel)"	178	66	179	56	Y	Y	Y	Y	N	Y	Y	
+London-North-Western-North	0873	3	NW3001	CNH3	"Change of ELR (Windmill Lane
+Tunnel) – Route Boundary LNW /
+Wales"	179	56	188	40	Y	Y	Y	Y	N	Y	Y	
+London-North-Western-North	0873	4	NW3001	CNH3	"Route Boundary LNW / Wales -
+Holyhead"	188	40	263	56	Y	Y	Y	Y	N	Y	Y	
+London-North-Western-North	0873	5	NW3003	CHW1	Chester East Jn – Acton Grange Jn	0	24	16	19	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0873	6	NW3005	WSJ2	"Route Boundary (GW731) (Crewe Jn)
+– Route Boundary Wales / LNW
+including ‘Up & Down’ loop Wrexham
+General ELR WDB1"	199	00	202	60	Y	Y	Y	Y	N	Y	Y	
+London-North-Western-North	0873	7	NW3005	WSJ2	"Route Boundary Wales / LNW  -
+Saltney Jn"	202	60	212	06	Y	Y	Y	Y	N	Y	Y	
+London-North-Western-North	0873	8	NW3007	WDB1	"Wrexham Central – Wrexham
+Exchange Jn"	0	16	0	68	Y	Y	N	N	N	N	N	
+London-North-Western-North	0873	9	NW3007	WDB1	"Wrexham Exchange Jn – Change of
+RA at 13m 20ch (South end of
+Hawarden Bridge)"	0	68	13	20	Y	Y	N	N	N	N	N	
+London-North-Western-North	0873	10	NW3007	WDB1	"Change of RA at 13m 20ch (South
+end of Hawarden Bridge) – Change of
+ELR"	13	20	13	33	Y	Y	N	N	N	N	N	
+London-North-Western-North	0873	11	NW3007	"WDB2
+/3"	"Change of ELR - Route Boundary
+Wales / LNW"	14	15	11	00	Y	Y	N	N	N	N	N	
+London-North-Western-North	0873	12	NW3007	WDB3	"Route Boundary Wales / LNW
+Bidston Dee Jn"	11	00	0	08	Y	Y	N	N	N	N	N	
+London-North-Western-North	0873	13	NW3009	CVS	Chester North Jn – Chester South Jn	0	36	0	13	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0873	14	NW3011	CRR1	Chester West Jn – Hooton South Jn	0	16	7	68	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0873	15	NW3013	HHJ	"Hooton South. Jn – Ellesmere Port
+(Limit of DC electrification)"	0	02	3	44	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0873	16	NW3013	HHJ	"Ellesmere Port (Limit of DC
+electrification) – Helsby Jn"	3	44	8	67	Y	Y	Y	N	N	N	Y	

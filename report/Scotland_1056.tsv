@@ -1,0 +1,76 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+Scotland	1056	1	SC131	HST	"Connection to Smithy Lye Through Line
+– Shields Jn"	2	00	2	35	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1056	2	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	5	N	N	N	N	N	N	Y	
+Scotland	1056	3	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	6	N	N	N	N	N	Y	Y	
+Scotland	1056	4	SC136	HYD	Hyndland North Jn – Hyndland West Jn	0	00	0	16	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1056	5	SC141	WHL	"Craigendoran Jn –
+Crianlarich Jn"	0	01	36	30	5	N	"R1
+R2
+R3
+R4
+R5"	"R1
+R2
+R3
+R4
+R5"	N	N	"R6
+R7"	Y	"R110mph over bridge 26 (9m 52ch)
+R220mph over bridge 30 (11m 38ch)
+R320mph over bridge 97 (30m 50ch)
+R420mph over bridge 108 (33m 14ch)
+R5Double Heading prohibited except for providing assistance
+and then at only 10mph over the above structures
+R615mph Garelochhead Down platform
+R7Double Heading permitted (or combination of Classes
+66/73) running light or hauling passenger coaching stock,
+or for providing assistance and then at only 10mph over
+the above structures."
+Scotland	1056	6	SC141	WHL	Crianlarich Jn – Fort William	36	30	99	37	5	N	"R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+R13"	"R1
+R2
+R3
+R4
+R5
+R6
+R7
+R8
+R9
+R10
+R11
+R12
+R13"	N	N	"R14
+R15"	Y	"R1   40mph over bridge 116 (36m 39ch)
+R220mph over bridge 117 (36m 44ch)
+R330mph over bridge 131 (39m 65ch)
+R420mph over bridge 149 (45m 03ch)
+R520mph over bridge 151 (45m 43ch)
+R620mph over bridge 197 (61m 39ch)
+R720mph over bridge 201 (63m 50ch)
+R830mph over bridge 203 (64m 64ch)
+R920mph over bridge 259 (76m 29ch)
+R10  Double Heading prohibited except for providing assistance
+and then at only 10mph over the above structures
+R11 40mph between Horseshoe viaduct (46m 00ch) and
+Rannoch (64m 54ch)
+R12 40mph between Rannoch (65m 56ch) and Fersit Tunnel
+(74m 39ch)
+R13 40mph between Tulloch  (82m 39ch) and Fort William (99m
+00ch)
+R14 Prohibited Fort William platform 2 & loading back 20m
+nearest bufferstops
+R15 Double Heading permitted (or combination of Classes
+66/73) running light or hauling passenger coaching stock, or
+for providing assistance and then at only 10mph over the
+above structures."
+Scotland	1056	7	SC143	OBN1	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	5	N	N	N	N	N	Y	Y	

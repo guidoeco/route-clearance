@@ -1,0 +1,42 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Scotland	1069	1	SC059	AYR5	"Change of ELR (Barassie Jn) – Change of
+ELR (Between Troon and Prestwick
+International Airport)"	0	00	2	15	10	Y	Y	Y	Y	Y	Y	
+Scotland	1069	2	SC059	AYR6	"Change of ELR (Between Troon and
+Prestwick International Airport) – Falkland
+Jn"	35	05	38	73	10	Y	Y	Y	Y	Y	Y	
+Scotland	1069	3	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	8	Y	Y	Y	R1	R1	R1	R1Prohibited between Newton Jn and Ayr
+Scotland	1069	4	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	8	R1	R1	N	N	N	N	"R1Prohibited between between Townhead
+Sidings reversing points and Dalrymple Jn"
+Scotland	1069	5	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	5	N	N	N	N	N	N	
+Scotland	1069	6	SC059	STR2	"Change of ELR (Girvan) – Change of ELR
+(Betweeen Challoch LC and Dunragit SB
+& LC)"	0	00	30	67	5	N	N	N	N	N	N	
+Scotland	1069	7	SC059	STR3	"Change of ELR (Betweeen Challoch LC
+and Dunragit SB & LC) – Change of ELR
+(Stranraer Yard GF)"	46	54	53	05	5	N	N	N	N	N	N	
+Scotland	1069	8	SC059	STR4	"Change of ELR (Stranraer Yard GF) –
+End of Line"	53	05	54	05	5	N	N	N	N	N	N	
+Scotland	1069	9	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	10	N	N	Y	N	N	N	
+Scotland	1069	10	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	10	N	N	Y	N	N	N	
+Scotland	1069	11	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	9	N	N	Y	N	N	N	
+Scotland	1069	12	SC063	CND2	"Cardonald North Jn – Deanside (Goods
+Line)"	0	36	1	54	9	N	N	Y	N	N	N	
+Scotland	1069	13	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	7	N	N	Y	N	N	N	
+Scotland	1069	14	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	"7
+R1"	N	N	Y	N	N	N	"R1RA Change
+STNC NC/G1/2010/ICP-RA/SC006 applies until
+30/09/2014"
+Scotland	1069	15	SC065	GOU2	Bishopton – Gourock	112	60	126	58	"5
+R1"	N	N	N	N	N	N	"R1RA Change
+STNC NC/G1/2010/ICP-RA/SC006 applies until
+30/09/2014"
+Scotland	1069	16	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	5	N	N	N	N	N	N	
+Scotland	1069	17	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	10	N	N	Y	N	N	N	
+Scotland	1069	18	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	10	N	N	Y	N	N	N	
+Scotland	1069	19	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	5	N	N	N	N	N	N	
+Scotland	1069	20	SC077	ARH	"Ardrossan South Beach – Adrossan
+Harbour"	30	44	31	35	10	N	N	Y	N	N	N	
+Scotland	1069	21	SC079	HUN	"Hunterston – Hunterston Low Level Sdgs
+(Goods Line)"	0	00	0	36	10	N	N	Y	N	N	N	
+Scotland	1069	22	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	10	N	N	Y	N	N	N	

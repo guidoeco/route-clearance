@@ -1,0 +1,47 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
+Western-and-Wales	0690	1	GW560	SWY	"Heywood Road Jn – Westbury North
+Jn"	94	45	95	33	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	2	GW560	WEY	"Westbury North Jn – Fairwood Jn via
+Westbury"	109	49	111	18	E	Y	Y	Y	Y	N	N	Y	R1	"R1 Prohibited Westbury Down Reception line
+between signal W202 and points 858"
+Western-and-Wales	0690	3	GW570	WEY	"Clink Road Jn – Blatchbridge Jn via
+Frome"	114	44	116	52	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	4	GW572	FNS2	Frome North Jn – Change of ELR	0	00	2	38	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0690	5	GW572	WQL	"Change of ELR – Network Rail
+Boundary (Mendip Rail - Whatley
+Quarry)"	2	38	2	40	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0690	6	GW580	ESB	"East Somerset Jn – Network Rail
+Boundary (East Somerset Railway -
+Cranmore East)"	0	11	5	48	E	Y	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0690	7	GW600	SWB	"Wootton Bassett Jn – Stoke Gifford Jn
+No.1"	83	07	111	79	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0690	8	GW600	SWB	"Stoke Gifford Jn No.1 – Patchway Jn
+No.2"	111	79	112	68	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0690	9	GW600	BSW	"Patchway Jn No.2 – Route Boundary
+Wales"	5	61	9	12	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0690	10	GW600	BSW	"Route Boundary – Ableton Lane
+Tunnel (GW900)"	9	12	10	51	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0690	11	GW606	DAC	Cowley Bridge Jn – Crediton SB	173	50	179	26	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	12	GW606	NDN	"Crediton SB – End of Line
+(Barnstaple)"	179	26	211	31	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	13	GW608	DAC	"Crediton SB – Network Rail Boundary
+(Dartmoor Railway - Coleford)"	179	26	183	79	E	Y	Y	Y	Y	N	N	N	N	
+Western-and-Wales	0690	14	GW610	BAE2	"Route Boundary (SW115) (Honiton) –
+Exeter St Davids Jn"	164	30	172	04	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	15	GW611	EMT	Exmouth Jn – Exmouth	0	01	9	32	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	16	GW618	MOB	"Newton Abbott East Jn – End of Line
+(Beyond Heathfield)"	0	14	4	07	N	N	N	Y	N	N	N	N	N	
+Western-and-Wales	0690	17	GW620	TOR	"Newton Abbott West Jn – Paignton
+Crossover Ground Frame"	214	43	222	25	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	18	GW628	SUT1	Laira Jn – Speedway Jn	244	02	244	30	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	19	GW628	PLO	Lipson Jn – Speedway Jn	0	00	0	22	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	20	GW628	SUT1	Speedway Jn – Mount Gould Jn	244	30	244	43	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	21	GW628	SUT2	Mount Gould Jn – Former Friary Jn	244	41	244	60	N	N	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0690	22	GW628	FRY	"Former Friary Jn – Turnchapel Branch
+Jn"	244	60	245	17	N	N	Y	Y	Y	N	N	R1	R1	"R1Prohibited beyond Class 158 stop board
+(245m 13 ch) (A maximum of 3 x 158/9
+car lengths can be accommodated)"
+Western-and-Wales	0690	23	GW628	"TUR/
+CWR"	Turnchapel Branch Jn – Buffer Stops	0	00	0	78	N	N	N	R1	N	N	N	N	N	"R1Prior to operation the method of working
+shall be agreed with the local
+Infrastructure Manager’s operations team"

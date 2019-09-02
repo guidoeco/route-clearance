@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1059	1	LN600	ECM5	York Station – Birtley Jn	0	00	75	26	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	2	LN600	ECM5	"Birtley Jn – Low Fell Jn (including via
+Tyne Yard)"	75	26	77	37	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	3	LN600	ECM5	"Low Fell Jn – King Edward Bridge South
+Jn"	77	37	79	42	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	4	LN600	ECM5	"King Edward Bridge South Jn –
+Newcastle West Jn"	79	42	80	05	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	5	LN600	ECM6	ewcastle West Jn – Newcastle	80	05	80	16	Y	Y	R1	N	N	N	R1	"R1Prohibited Newcastle Station
+platforms 5, 6, 7, 8, 9, 10, 11 and
+12"
+London-North-Eastern	1059	6	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	Y	Y	R1	N	N	N	R1	"R1Prohibited Newcastle Station
+platforms 5, 6, 7, 8, 9, 10, 11 and
+12"
+London-North-Eastern	1059	7	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	8	LN600	ECM7	"eaton South Jn – Route Boundary
+(SC147) (Prestonpans Jn)"	1	65	69	67	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	9	LN618	HOS	"Holgate Jn –  Skelton Jn via York Yard
+South"	0	00	1	54	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	10	LN620	KEB	"King Edward Bridge East Jn – King
+Edward Bridge North Jn (East Curve)"	0	00	0	13	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	11	LN622	NEN1	Newcastle Forth Jn – Forth Banks	0	11	0	73	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1059	12	LN624	REB4	"Northallerton Castle Hills Jn – Network
+Rail Boundary (Wensleydale Railway)"	0	04	0	18	N	N	N	N	N	N	N	
+London-North-Eastern	1059	13	LN626	LEN2	"Northallerton High Jn –  Northallerton
+East Jn"	0	00	0	36	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	14	LN627	LLP1	"Longlands Jn (Down Line) –
+Boroughbridge Road LC"	28	58	29	72	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	15	LN627	LLP3	"Longlands Jn (Up Line) – Boroughbridge
+Road LC"	0	69	0	00	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	16	LN627	LLP2	"Boroughbridge Road LC – Northallerton
+East Jn"	42	21	42	79	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	17	LN627	LEN3	Northallerton East Jn – Billingham Jn	42	79	63	69	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	18	LN627	LEN3	Billingham Jn – Ryhope Grange Jn	63	69	87	63	Y	Y	Y	N	N	N	R1	"R1Prohibited Hartlepool Bay and Up
+(disused) platforms"
+London-North-Eastern	1059	19	LN627	LEN3	"Ryhope Grange Jn – Sunderland South
+Jn"	87	63	89	56	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1059	20	LN627	LEN3	Sunderland South Jn – Boldon East Jn	89	56	94	63	R1	R1	Y	N	N	N	Y	R130mph maximum speed

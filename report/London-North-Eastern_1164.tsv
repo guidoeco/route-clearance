@@ -1,0 +1,39 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge	Notes							
+London-North-Eastern	1164	1			W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1164	2	LN682	Norwood Jn – Carlisle South Jn	1  *	S2	N	N	N	N	N	N	"S1Freight vehicles conforming to the
+W6a profile are permitted, EXCEPT
+IFA-S IFA-U wagons
+S2The following combinations are
+permitted:
+2438 h x 2438 w box on FEA  wagons
+All lines
+2667 h x 2500 w box on FKA  wagons
+All Lines
+2665 h x 2550 w (S21) on FKA
+wagons Up Line
+2675 h x 2550 w box on KFA  wagons
+Up Line"
+London-North-Eastern	1164	3	LN682	Carlisle South Jn – Carlisle North Jn		Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1164	4	LN684	Low Fell Jn – Norwood Jn		Y	Y	N	N	N	N	N	
+London-North-Eastern	1164	5	LN694	"Benton North Jn – Morpeth North Jn via
+Bedlington"		Y	Y	N	N	N	N	N	
+London-North-Eastern	1164	6	LN696	Hepscott Jn – Morpeth Jn		Y	Y	N	N	N	N	N	
+London-North-Eastern	1164	7	LN700	Butterwell North Branch		N	N	N	N	N	N	N	
+London-North-Eastern	1164	8	LN702	Bedlington North – Lynemouth Alcan		Y	Y	N	N	N	N	N	
+London-North-Eastern	1164	9	LN704	Bates Branch		-	-	-	-	-	-	-	Line 'Out of Use'
+London-North-Eastern	1164	10	LN706	West Sleekburn Jn – North Blyth		N	N	N	N	N	N	N	
+London-North-Eastern	1164	11	LN708	Winning Jn – Marchey's House Jn		N	N	N	N	N	N	N	
+London-North-Eastern	1164	12	LN724	"Holgate Jn – Skelton Jn (avoiding York
+station)"		Y	Y	Y	N	N	N	N	Duplicate of LN618
+London-North-Eastern	1164	13	LN736	Cleethorpes – Grimsby Docks		N	N	N	N	N	N	N	
+London-North-Eastern	1164	14	LN736	Grimsby Docks – Marsh Jn		Y	N	N	N	N	N	N	
+London-North-Eastern	1164	15	LN736	Marsh Jn – Wrawby Jn		Y	Y	N	N	N	N	N	
+London-North-Eastern	1164	16	LN736	Wrawby Jn – West Burton East Jn		Y	Y	N	N	N	N	N	
+London-North-Eastern	1164	17	LN736	"West Burton East Jn – Thrumpton West
+Jn"		Y	N	N	N	N	N	N	
+London-North-Eastern	1164	18	LN736	"Thrumpton West Jn – Manton Colliery
+Jn"		Y	Y	Y	N	N	N	N	
+London-North-Eastern	1164	19	LN736	Manton Colliery Jn – Branclliffe East Jn		Y	Y	N	N	N	N	N	
+London-North-Eastern	1164	20	LN736	Brancliffe East Jn – Woodburn Jn		N	N	N	N	N	N	N	
+London-North-Eastern	1164	21	LN736	Nunnery Curve		Y	Y	N	N	N	N	N	
+London-North-Eastern	1164	22	LN736	Nunnery Main Line Jn – Nunnery Jn		Y	Y	Y	Y	Y	Y	Y	

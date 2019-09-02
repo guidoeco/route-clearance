@@ -1,0 +1,31 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Scotland	1002	1	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	R1	R1	R1	N	N	N	N	"R1Prohibited when overhead line
+equipment is energised"
+Scotland	1002	2	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N	N	
+Scotland	1002	3	SC063	CND2	Cardonald North Jn – Deanside (Goods Line)	0	36	1	54	N	N	N	N	N	N	N	
+Scotland	1002	4	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	Y	Y	Y	N	N	N	N	
+Scotland	1002	5	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	Y	Y	Y	N	N	N	N	
+Scotland	1002	6	SC065	GOU2	Bishopton – Gourock	112	60	126	58	Y	Y	Y	N	N	N	N	
+Scotland	1002	7	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	Y	Y	Y	N	N	N	N	
+Scotland	1002	8	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	Y	Y	Y	N	N	N	N	
+Scotland	1002	9	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	Y	Y	Y	N	N	N	N	
+Scotland	1002	10	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	Y	Y	Y	N	N	N	N	
+Scotland	1002	11	SC077	ARH	Ardrossan South Beach – Adrossan Harbour	30	44	31	35	Y	Y	Y	N	N	N	N	
+Scotland	1002	12	SC079	HUN	"Hunterston – Hunterston Low Level Sdgs
+(Goods Line)"	0	00	0	36	N	N	N	N	N	N	N	
+Scotland	1002	13	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	Y	Y	Y	N	N	N	N	
+Scotland	1002	14	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	N	N	N	N	N	N	N	
+Scotland	1002	15	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	N	Y	Y	N	N	N	N	
+Scotland	1002	16	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	N	N	N	N	N	N	N	
+Scotland	1002	17	SC089	KCH2	Change of ELR – Killoch Colliery (Goods Line)	0	00	3	43	N	N	N	N	N	N	N	
+Scotland	1002	18	SC091	WAT	Dalrymple Jn – Chalmerston (Goods Line)	43	53	52	70	N	N	N	N	N	N	N	
+Scotland	1002	19	SC093	SCM1	Motherwell – Mossend South	89	51	91	08	Y	Y	Y	N	N	N	Y	
+Scotland	1002	20	SC093	SCM2	Mossend South  – Whifflet North Jn	91	08	94	05	Y	Y	Y	N	N	N	N	
+Scotland	1002	21	SC093	SCM3	"Whifflet North Jn – Gartsherrie South Jn (Limit
+of OLE)"	94	05	95	64	Y	Y	Y	N	N	N	N	
+Scotland	1002	22	SC093	SCM3	"Gartsherrie South Jn (Limit of OLE) –
+Greenhill Lower Jn"	95	64	106	63	Y	Y	Y	N	N	N	N	
+Scotland	1002	23	SC097	SYE	"Whifflet South Jn – Sunnyside Jn (Goods
+Line)"	9	63	8	43	EH	EH	EH	N	N	N	N	
+Scotland	1002	24	SC099	RSL2	Whifflet North Jn – Change of ELR	0	00	0	34	Y	Y	Y	N	N	N	N	
+Scotland	1002	25	SC099	RSL1	Change of ELR – Langloan Jn	6	59	6	34	Y	Y	Y	N	N	N	N	

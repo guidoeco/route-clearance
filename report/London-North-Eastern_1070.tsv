@@ -1,0 +1,20 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1070	1	LN920	AWP	Anlaby Road Jn –  West Parade North Jn	0	00	0	24	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1070	2	LN922	TJC3	Whitehall West Jn – Skipton	195	57	221	01	Y	Y	Y	N	N	N	"R1
+R2"	"R130mph Shipley platform 2
+R240mph Bingley Down platform"
+London-North-Eastern	1070	3	LN922	TJC3	"kipton – Site of Former Skipton North
+n Change of ELR"	221	21	221	68	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1070	4	LN922	SKW1	"Site of Former Skipton North Jn Change
+f ELR – Route Boundary (NW9901)
+Settle Jn)"	221	68	230	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1070	5	LN924	ILK1	Apperley Jn – Burley in Wharfedale	202	03	208	02	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1070	6	LN924	ILK2	Burley in Wharfedale – Ilkley	208	02	211	20	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1070	7	LN926	GUE2	ockfield Jn – Esholt Jn	3	41	0	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1070	8	LN928	SBF	"Shipley East Jn – Bradford Forster
+quare"	205	54	208	50	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1070	9	LN930	SKS1	"Skipton Middle – Site of Former Embsay
+n"	222	68	220	64	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1070	10	LN930	SKS2	"Site of Former Embsay Jn – Network
+ail Boundary (Tilcon Siding)"	0	00	6	50	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1070	11	LN932	BIB	Shipley South Jn – Shipley West Jn	0	00	0	17	Y	Y	Y	N	N	N	N	

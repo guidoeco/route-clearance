@@ -1,0 +1,27 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector escription	M	Ch	M	Ch	357	357 OD	365	377	378	379	380	387	508	599	700	Notes
+London-North-Eastern	1050	1	LN914	HBS	"West Parade North Jn – Walton Street
+n"	0	72	1	29	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	2	LN914	HBS	Walton Street Jn – Seamer West Jn	1	29	50	43	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	3	LN916	HJS	essle Road – Springbank North Jn	0	00	1	38	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	4	LN916	HJS	"pringbank North Jn – Network Rail
+oundary"	1	38	5	62	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	5	LN918	SPW	"Springbank North Jn – Walton Street
+n"	1	54	1	29	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	6	LN920	AWP	"Anlaby Road Jn –  West Parade North
+n"	0	00	0	24	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	7	LN922	TJC3	Whitehall West Jn – Skipton	195	57	221	01	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	8	LN922	TJC3	"Skipton – Site of former Skipton North
+n Change of ELR"	221	21	221	68	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	9	LN922	SKW1	"Site of former Skipton North Jn
+hange of ELR – Route Boundary
+NW9901) (Settle Jn)"	221	68	230	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	10	LN924	ILK1	Apperley Jn – Burley in Wharfedale	202	03	208	02	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	11	LN924	ILK2	Burley in Wharfedale – Ilkley	208	02	211	20	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	12	LN926	GUE2	ockfield Jn – Esholt Jn	3	41	0	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	13	LN928	SBF	"Shipley East Jn – Bradford Forster
+quare"	205	54	208	50	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	14	LN930	SKS1	"kipton Middle – Site of former
+mbsay Jn"	222	68	220	64	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	15	LN930	SKS2	"Site of former Embsay Jn – Network
+ail Boundary (Tilcon Siding)"	0	00	6	50	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1050	16	LN932	BIB	Shipley South Jn – Shipley West Jn	0	00	0	17	N	N	N	N	N	N	N	N	N	N	N	

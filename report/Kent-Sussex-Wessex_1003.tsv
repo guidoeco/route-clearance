@@ -1,0 +1,36 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	442	444	450	455	456	458	508	700	Notes
+Kent-Sussex-Wessex	1003	1	SW115	BAE1	"Salisbury Tunnel Jn – Fisherton Short
+Mile Change of Mileage"	82	36	83	72	R1	N	N	N	N	N	N	N	"R1Prohibited with shoegear fitted
+between Salisbury and Fisherton Short
+Mile Change of Mileage"
+Kent-Sussex-Wessex	1003	2	SW115	BAE2	"Fisherton Short Mile Change of
+Mileage – Wilton Jn"	84	00	85	37	R1	N	N	N	N	N	N	N	R1Prohibited with shoegear fitted
+Kent-Sussex-Wessex	1003	3	SW115	BAE2	Wilton Jn – Gillingham	85	37	105	23	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1003	4	SW115	BAE2	Gillingham – Yeovil Jn	105	23	122	48	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1003	5	SW115	BAE2	"Yeovil Jn – Route Boundary (GW610)
+(Exeter St Davids Jn)"	122	48	164	30	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1003	6	SW120	PAA1	Pirbright Jn – Ash Vale Jn	29	39	32	30	N	Y	Y	E	Y	Y	N	N	
+Kent-Sussex-Wessex	1003	7	SW120	PAA1	Ash Vale Jn – Change of ELR	32	30	36	75	N	Y	Y	E	R1	Y	N	N	R130mph Aldershot platform 2
+Kent-Sussex-Wessex	1003	8	SW120	PAA2	"Change of ELR – Connection to
+Farnham Depot"	39	22	42	70	N	Y	Y	E	R1	Y	N	N	R130mph Farnham platform 1
+Kent-Sussex-Wessex	1003	9	SW120	PAA2	Connection to Farnham Depot – Alton	42	70	49	13	N	Y	Y	N	Y	Y	N	N	
+Kent-Sussex-Wessex	1003	10	SW125	BKE	"Route Boundary GW500 (Southcote
+Jn) – Basingstoke"	37	76	51	39	"R1
+R2"	N	N	N	N	N	N	N	"R1Prohibited Basingstoke platform 5
+R2Prohibited with shoegear fitted"
+Kent-Sussex-Wessex	1003	11	SW130	ECR	Eastleigh East Jn – Romsey	73	35	80	47	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1003	12	SW135	ETF	Eastleigh West Jn – Fareham	73	42	84	21	Y	Y	Y	Y	Y	R1	Y	N	R1Class 458/5 only
+Kent-Sussex-Wessex	1003	13	SW140	SDP1	St Denys – Change of ELR	1	59	14	15	Y	Y	Y	Y	Y	R1	Y	N	R1Class 458/5 only
+Kent-Sussex-Wessex	1003	14	SW140	SDP2	Change of ELR – Fareham	84	10	84	21	Y	Y	Y	Y	Y	R1	Y	N	R1Class 458/5 only
+Kent-Sussex-Wessex	1003	15	SW140	SDP2	Fareham – Quay Viaduct	84	21	84	77	Y	Y	Y	Y	Y	R1	Y	N	R1Class 458/5 only
+Kent-Sussex-Wessex	1003	16	SW140	SDP2	Quay Viaduct – Cosham	84	77	90	06	Y	Y	Y	Y	Y	R1	Y	N	R1Class 458/5 only
+Kent-Sussex-Wessex	1003	17	SW140	SDP2	Cosham – Cosham Jn	90	06	90	43	Y	Y	Y	Y	Y	R1	Y	N	R1Class 458/5 only
+Kent-Sussex-Wessex	1003	18	SW140	SDP2	Cosham Jn – Portcreek Jn	90	43	91	01	Y	Y	Y	Y	Y	R1	Y	N	R1Class 458/5 only
+Kent-Sussex-Wessex	1003	19	SW140	FJJ	Cosham Jn – Farlington Jn	90	43	91	14	Y	Y	Y	N	N	R1	Y	N	R1Class 458/5 only
+Kent-Sussex-Wessex	1003	20	SW145	SOY	"Northam Jn – Canute Road LC
+(AOCL) (Eastern Docks)"	78	15	79	02	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1003	21	SW150	RTJ1	Redbridge Jn – Romsey Jn	23	32	18	16	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1003	22	SW150	RTJ2	Romsey Jn – Salisbury Tunnel Jn	80	35	96	05	R1	N	N	N	N	N	N	N	"R1OPPOS applies between Laverstock
+South Jn and Salisbury Tunnel Jn"
+Kent-Sussex-Wessex	1003	23	SW155	TTF	Totton – Marchwood	82	43	86	10	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1003	24	SW155	TTF	Marchwood – Fawley GF	86	10	91	42	N	N	N	N	N	N	N	N	

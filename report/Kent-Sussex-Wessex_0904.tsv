@@ -1,0 +1,34 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	Notes
+Kent-Sussex-Wessex	0904	1	SO240	BME2	Sandwich  – Minster South	86	46	82	21	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	2	SO240	MSW	Minster South Jn – Minster West Jn	82	12	81	64	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	3	SO240	BME1	Minster South Jn – Minster East Jn	0	23	0	00	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	4	SO250	BSF	"Battersea Pier Jn  – Connection to
+Battersea Reversible"	0	71	1	18	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	5	SO250	BSF	"Connection to Battersea Reversible –
+Stewarts Lane Jn"	1	18	1	36	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	6	SO250	BSF	Stewarts Lane Jn – Factory Jn	1	36	1	61	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	7	SO250	BSP1	"Battersea Pier Jn – Connection to
+Stewarts Lane Up and Down lines (via
+Battersea Reversible)"	0	71	1	33	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	8	SO250	BSP1	"Connection to Stewarts Lane Up and
+Down lines (via Battersea Reversible)
+– Longhedge  Jn (via Battersea
+Reversible)"	1	33	1	66	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	9	SO250	BSP2	Longhedge Jn – Pouparts Jn	1	66	2	19	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	10	SO250	FLL2	"Longhedge Jn – Route Boundary
+(SW100) (Ludgate Jn)"	1	66	1	77	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	11	SO250	CKL	Longhedge Jn – Latchmere Jn No.3	1	66	2	39	8	Y	Y	N	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	12	SO250	SCC	"Latchmere Jn No.3 – Route Boundary
+(SW100) (West London Jn)"	3	45	3	30	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	13	SO250	CKL	"Latchmere Jn No.3 – Latchmere Jn
+No.1 [Duplicated in SW220]"	2	39	2	50	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	14	SO250	WLL	"Latchmere Jn No.1 – Latchmere Jn
+No.2 [Duplicated in SW220]"	0	63	0	68	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	15	SO250	CJL	"Latchmere Jn No.2 – Route Boundary
+(SW100) (Ludgate Jn)"	0	68	0	47	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	16	SO250	WLL	"Latchmere Jn No.2 – Kensington
+Olympia [Duplicated in SW220]"	0	71	3	42	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	17	SO250	WLL	"Kensington Olympia – Northbound
+AC/DC changeover"	3	42	5	16	8	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	0904	18	SO250	WLL	"Northbound AC/DC changeover –
+Southbound AC/DC changeover"	5	16	5	43	8	Y	Y	Y	Y	Y	Y	Y	

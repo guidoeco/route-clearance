@@ -1,0 +1,29 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge								Notes
+Scotland	1084	1			W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+Scotland	1084	2	SC067	Wemyss Bay Jn – Wemyss Bay	Y *	Y	N	N	N	N	N	N	
+Scotland	1084	3	SC069	"Containerbase Jn – Greenock CPA Terminal
+(Goods Line) (OOU)"	–	–	–	–	–	–	–	–	"Not Network Rail infrastructure.
+Line 'Out of Use'"
+Scotland	1084	4	SC073	Kilwinning Jn – Largs	Y *	Y	Y	Y	N	N	N	N	
+Scotland	1084	5	SC075	Misk to Stevenston (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1084	6	SC077	Ardrossan South Beach to Adrossan Harbour	Y *	N	N	N	N	N	N	N	
+Scotland	1084	7	SC079	"Hunterston – Hunterston Low Level Sdgs
+(Goods Line)"	Y	N	N	N	N	N	N	N	
+Scotland	1084	8	SC081	Byrehill Jn – Dubbs Jn	Y	Y	N	N	N	N	N	N	
+Scotland	1084	9	SC083	Snodgrass - Bogside (Goods Line) (OOU)	–	–	–	–	–	–	–	–	Line Out of Use
+Scotland	1084	10	SC085	Ayr Harbour – Newton Jn (Goods Line)	Y	Y	N	N	N	N	N	N	
+Scotland	1084	11	SC087	Newton Jn – Mauchline (Goods Line)	Y	Y	N	N	N	N	N	N	
+Scotland	1084	12	SC089	Annbank – Killoch Colliery (Goods Line)	Y	N	N	N	N	N	N	N	
+Scotland	1084	13	SC091	Dalrymple Jn – Chalmerston (Goods Line)	Y	N	N	N	N	N	N	N	
+Scotland	1084	14	SC093	Motherwell – Coatbridge FLT	Y *	Y	Y	Y	N	Y	N	N	
+Scotland	1084	15	SC093	Coatbridge FLT – Garnqueen North Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1084	16	SC093	Garnqueen North Jn – Greenhill Lower Jn	Y *	Y	Y	Y	N	N	N	N	
+Scotland	1084	17	SC097	Whifflet South Jn – Sunnyside Jn (Goods Line)	Y	Y	Y	N	N	N	N	N	
+Scotland	1084	18	SC099	Whifflet North Jn – Rutherglen East Jn	Y *	Y	Y	Y	N	N	N	N	
+Scotland	1084	19	SC101	Coatbridge Jn – Langloan Jn	Y	Y	Y	Y	N	N	N	N	
+Scotland	1084	20	SC103	Garnqueen North Jn – Cowlairs West Jn	Y *	Y	Y	Y	N	N	N	N	
+Scotland	1084	21	SC105	Gartsherrie South Jn – Gartcosh Jn	Y	Y	Y	Y	N	R1	N	N	"R1W10 prohibited EXCEPT for
+use of Coatbridge FLT
+Headshunt Line"
+Scotland	1084	22	SC106	"Sighthill West Jn – Cowlairs South Jn (Chord
+Line)"	Y	N	N	N	N	N	N	N	

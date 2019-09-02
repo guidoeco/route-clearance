@@ -1,0 +1,32 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD )	MK3 DVT	MK3 DVT (MOD )	MK4	Notes
+Scotland	1008	1	SC171	ECN2	Dundee Central Jn – Dundee	58	69	59	14	Y	Y	Y	N	N	N	N	
+Scotland	1008	2	SC173	CWH1	"Inverkeithing Central Jn – Change of ELR
+(Cowdenbeath)"	13	21	22	76	Y	Y	Y	N	N	N	N	
+Scotland	1008	3	SC173	CWH2	"Change of ELR (Cowdenbeath) – Change of
+ELR (Lochgelly)"	0	00	0	70	Y	Y	Y	N	N	N	N	
+Scotland	1008	4	SC173	CWH3	"Change of ELR (Lochgelly) – Thornton West
+Jn"	27	00	34	62	Y	Y	Y	N	N	N	N	
+Scotland	1008	5	SC173	TNW	Thornton West Jn – Thornton North Jn	0	70	0	00	Y	Y	Y	N	N	N	N	
+Scotland	1008	6	SC175	RHD2	Rosyth Dockyard – Change of ELR	1	21	1	00	N	N	N	N	N	N	N	
+Scotland	1008	7	SC175	RHD1	"Change of ELR – Inverkeithing South Jn
+(Goods Line)"	1	00	0	02	N	N	N	N	N	N	N	
+Scotland	1008	8	SC176	IGE	"Inverkeithing North Jn – Inverkeithing East Jn
+(Inverkeithing Curve)"	0	33	0	00	E	E	E	N	N	N	N	
+Scotland	1008	9	SC177	MTL1	Thornton North Jn – Change of ELR	0	11	4	65	N	N	N	N	N	N	N	
+Scotland	1008	10	SC177	MTL2	"Change of ELR – Methill Power Station
+(Goods Line)"	7	34	6	48	N	N	N	N	N	N	N	
+Scotland	1008	11	SC178	CWH3	Thornton South Jn – Thornton West Jn	35	38	34	62	Y	Y	Y	N	N	N	N	
+Scotland	1008	12	SC181	CDC1	Ladybank Jn – Change of ELR	0	03	14	10	Y	Y	Y	N	N	N	N	
+Scotland	1008	13	SC181	CDC2	Change of ELR – Hilton Jn	44	18	45	66	Y	Y	Y	N	N	N	N	
+Scotland	1008	14	SC183	SAA	Stirling Middle Jn – Change of ELR	0	00	8	14	Y	Y	Y	N	N	N	N	
+Scotland	1008	15	SC183	KNE1	Change of ELR – Longannet	0	00	5	62	Y	Y	Y	N	N	N	N	
+Scotland	1008	16	SC183	KNE1	Longannet – Change of ELR	5	62	14	14	Y	Y	Y	N	N	N	N	
+Scotland	1008	17	SC183	KNE2	Change of ELR – Charlestown Jn	14	14	15	39	Y	Y	Y	N	N	N	N	
+Scotland	1008	18	SC189	CRE	Westfield – Change of Mileage	28	77	33	04	N	N	N	N	N	N	N	
+Scotland	1008	19	SC189	CRE	Change of Mileage – Redford Jn (Goods Line)	33	28	33	45	N	N	N	N	N	N	N	
+Scotland	1008	20	SC191	ECN2	Dundee Central Jn – Dundee	58	69	59	14	Y	Y	Y	N	N	N	N	
+Scotland	1008	21	SC191	ECN2	Dundee – Camperdown Jn	59	14	59	77	Y	Y	Y	N	N	N	N	
+Scotland	1008	22	SC191	ECN3	"Camperdown Jn – Change of ELR (Arbroath
+SB)"	0	21	17	17	Y	Y	Y	N	N	N	N	
+Scotland	1008	23	SC191	ECN4	"Change of ELR (Arbroath SB) – Change of
+ELR (Montrose)"	17	55	33	28	Y	Y	Y	N	N	N	N	

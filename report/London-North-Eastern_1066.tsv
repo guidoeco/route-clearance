@@ -1,0 +1,36 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1066	1	LN838	HAY2	"Harrogate – Site of Former Starbeck
+North Jn"	20	38	18	60	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1066	2	LN838	HAY1	"Site of Former Starbeck North Jn –
+Skelton Jn"	18	60	1	50	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1066	3	LN840	TJC3	"Leeds Engine Shed Jn –  Whitehall East
+Jn"	195	20	195	52	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	4	LN842	CJS	Thorpe Marsh Jn – Applehurst Jn	163	76	163	27	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1066	5	LN842	CJS	Applehurst Jn – Skellow Jn	163	27	160	59	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1066	6	LN842	SKA	Skellow Jn – Adwick Jn	0	61	0	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1066	7	LN844	JCA	Applehurst Jn – Joan Croft Jn	0	49	0	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1066	8	LN846	CJS	Carcroft Jn – Skellow Jn	160	08	160	59	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1066	9	LN848	HPC	Hare Park Jn – Crofton West Jn	171	70	173	22	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	10	LN850	WWK	"Wakefield Westgate South Jn –
+Wakefield Kirkgate West Jn"	0	00	0	26	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	11	LN852	LBE1	"Holbeck Jn – Site of Former Laisterdyke
+East Jn"	0	02	6	49	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	12	LN852	LBE2	"Site of Former Laisterdyke East Jn – Site
+of Former Laisterdyke West Jn"	190	24	190	60	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	13	LN852	LBE3	"Site of Former Laisterdyke West Jn –
+Site of Former Hammerton Street Jn"	190	60	191	30	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	14	LN852	LBE4	"Site of Former Hammerton Street Jn –
+Mill Lane Jn"	191	30	191	75	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	15	LN852	MRB	Mill Lane Jn – Bradford Interchange	40	01	40	27	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	16	LN854	MVN2	"Route Boundary (NW7001) (Hall Royd
+Jn) – Turners Lane Jn"	22	62	48	33	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	17	LN854	MVN2	"Turners Lane Jn – Site of Former Goose
+Hill Jn"	48	33	50	31	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	18	LN854	TJC3	Site of Former Goose Hill Jn – Altofts Jn	184	56	186	00	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	19	LN854	NOC	Altofts Jn – Sherburn Jn	23	57	13	20	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	20	LN854	NOC	herburn Jn – Colton Jn	13	20	5	41	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	21	LN854	ECM4	olton Jn – Holgate Jn	182	79	188	07	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	22	LN854	ECM4	olgate Jn – York	188	07	188	40	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	23	LN854	ECM5	ork – Skelton Jn	0	00	1	50	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1066	24	LN858	MRB	Milner Royd Jn – Mill Lane Jn	29	20	40	01	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1066	25	LN859	GRD	reetland Jn – Dryclough Jn	1	11	0	00	Y	Y	Y	N	N	N	N	

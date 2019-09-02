@@ -1,0 +1,36 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	58	59	60	66	67	68	70	73	97/3	Notes
+London-North-Western-South	0524	1	MD345	BJW2	Ryecroft Jn – Change of Mileage	6	76	6	79	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	2	MD345	RRN1	"Change of Mileage – Cannock Change of
+ELR"	0	00	7	20	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	3	MD345	RRN2	"Cannock Change of ELR – Route
+Boundary (NW1004) (Rugeley North Jn)"	7	20	14	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	4	MD350	BJW3	Anglesea Sidings – Lichfield City Jn	12	15	16	47	8	N	N	N	N	N	N	N	N	N	"Line out of use
+NC/G1/2005/LN296"
+London-North-Western-South	0524	5	MD355	LTV	"Lichfield South Jn – Lichfield Trent Valley
+Jn (Chord Line)"	0	22	0	02	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	6	MD360	WDJ	Walsall, Pleck Jn – Darlaston Jn	1	16	0	15	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	7	MD365	PJW	"Portobello Jn – Wolverhampton Crane
+Street Jn"	0	04	1	59	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	8	MD401	DCL	"Route Boundary (GW200) (Heyford) –
+Aynho Jn"	75	00	81	13	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	9	MD401	DCL	Aynho Jn – Leamington Spa North Jn	81	13	106	25	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	10	MD401	DCL	"Leamington Spa North Jn – Tyseley South
+Jn"	106	25	125	73	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	11	MD401	"BCV/D
+CL"	Tyseley South Jn – Small Heath South Jn	125	73	126	59	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	12	MD401	BCV	Small Heath South Jn – Bordesley Jn	126	59	128	11	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	13	MD405	LSC1	"Leamington Spa North Jn – Milverton
+Change of ELR"	106	25	107	06	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	14	MD405	LSC2	"Milverton Change of ELR – Coventry
+South Jn"	0	00	8	45	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	15	MD410	CNN	Coventry North Jn – Nuneaton South Jn	0	00	9	53	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	16	MD415	HSA	Hatton Station Jn – Bearley Jn	18	12	12	48	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	17	MD415	HSA	"Bearley Jn – Stratford Upon Avon (End of
+Headshunt)"	12	48	8	63	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	18	MD420	HHW	Hatton North Jn – Hatton West Jn	18	25	17	62	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	19	MD425	TSB	Tyseley South Jn – Bearley Jn	0	00	17	71	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	20	MD430	OWW	"Route Boundary (GW370) (Droitwich Spa)
+– Kidderminster"	130	40	135	46	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	21	MD430	OWW	Kidderminster – Stourbridge North Jn	135	46	142	51	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0524	22	MD435	DCL	"Small Heath South Jn – Site of Former
+Handsworth Jn"	126	59	132	47	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	

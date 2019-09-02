@@ -1,0 +1,40 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1065	1	LN806	CHR	"Route Boundary (LN3201) (Tapton Jn) –
+Masborough Jn"	146	64	162	24	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	2	LN807	MAS	Dore South Jn – Dore West Jn	153	73	154	16	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	3	LN808	DWS	Dore Station Jn – Dore West Jn	0	60	0	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	4	LN808	MAS	"Dore West Jn – Route Boundary
+(NW9001) (Chinley North Jn)"	154	16	154	20	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	5	LN809	BTJ	"Shepcote Lane West Jn –  Tinsley Yard
+East End"	161	24	160	52	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	6	LN810	SEL	"Shepcote Lane West Jn – Tinsley South
+Jn"	161	24	161	63	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	7	LN812	BLJ	"Shepcote Lane East Jn – Broughton
+Lane Jn"	161	20	161	67	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	8	LN816	BEW	Beighton Jn – Woodhouse Jn	48	06	46	56	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	9	LN818	HCD	Holmes Jn – Rotherham Central Jn	0	00	0	62	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	10	LN824	SKM	Moorthorpe Jn – South Kirkby Jn	0	57	0	05	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	11	LN826	PED5	South Yorkshire Jn – Mexborough Jn	22	57	15	64	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1065	12	LN826	SJM2	"Mexborough Jn – Site of Former
+Mexborough North Jn"	15	64	14	78	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1065	13	LN826	SJM1	"Site of Former Mexborough North Jn –
+Swinton Jn South"	167	15	166	56	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1065	14	LN828	WME	Mexborough Jn – Aldwarke Jn	10	17	7	26	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	15	LN830	WME	Aldwarke Jn – Woodburn Jn	7	25	0	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	16	LN832	SJB	Doncaster, Bridge Jn – St. James Jn	22	54	22	38	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1065	17	LN836	DOL1	oncaster Marshgate Jn – Hare Park Jn	156	28	171	70	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1065	18	LN836	DOL1	"are Park Jn – Site of Former West
+Riding Jn"	171	70	175	32	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1065	19	LN836	DOL2	"Site of Former West Riding Jn – Copley
+Hill West Jn"	175	32	184	65	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1065	20	LN836	DOL2	Copley Hill West Jn – Whitehall West Jn	184	65	185	25	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1065	21	LN836	DOL2	Whitehall West Jn – Whitehall East Jn	185	25	185	28	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1065	22	LN836	DOL2	hitehall East Jn – Leeds	185	28	185	70	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1065	23	LN836	HUL4	Leeds – Neville Hill East Jn	20	50	18	25	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1065	24	LN838	LEH1	Armley Jn – Site of Former Pannal Jn	0	12	14	60	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1065	25	LN838	LEH2	"Site of Former Pannal Jn – Site of
+Former Crimple Jn"	14	60	15	20	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1065	26	LN838	LEH3	Site of Former Crimple Jn – Harrogate	15	20	17	24	Y	Y	Y	N	N	N	Y	

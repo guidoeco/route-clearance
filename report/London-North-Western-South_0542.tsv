@@ -1,0 +1,50 @@
+Route	page	seq	Line of route	ine of Route/Sector escription	Gauge	Notes								
+London-North-Western-South	0542	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12		
+London-North-Western-South	0542	2	MD570	"altley (Landor Street Junction) –
+ings Norton Junction (Camp Hill
+ines)"	Y *	Y	R1	N	N	N	N	N	R1	"8 prohibited between Bordesley Junction and
+ings Norton Junction"
+London-North-Western-South	0542	3	MD575	"t Andrews Junction – Grand
+unction"	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0542	4	MD580	"ifford East Junction – Lifford West
+unction"	Y	Y	N	N	N	N	N	N		
+London-North-Western-South	0542	5	MD701	"ondon Marylebone – Aynho
+unction via Wycombe and
+icester"	Y *	R1	N	N	N	N	N	N	R1	"7 prohibited between London Marylebone and
+easden South Junction"
+London-North-Western-South	0542	6	MD705	"reenford West Junction – South
+uislip"	Y *	Y	Y	N	N	N	N	N		
+London-North-Western-South	0542	7	MD710	"easden South Junction – Harrow-
+n-the-Hill South Junction (LUL/NR
+oundary)"	Y *	N	N	N	N	N	N	N		
+London-North-Western-South	0542	8	MD712	"mersham (LUL/NR Boundary
+25m 20ch]) – Aylesbury"	Y	R1	R1	N	N	N	N	N	R1	"7 and W8 prohibited between Mantles Wood [25m
+0ch] and Aylesbury Junction."
+London-North-Western-South	0542	9	MD715	"easden South Junction –
+easden Junction"	Y	Y	N	N	N	N	N	N		
+London-North-Western-South	0542	10	MD720	"rinces Risborough Junction –
+ylesbury Junction"	Y	Y	N	N	N	N	N	N		
+London-North-Western-South	0542	11	MD725	"ylesbury – Claydon L&NE
+unction"	Y	R1	R1	N	N	N	N	N	R1	"8 prohibited between former Calvert Junction and
+laydon L&NE Junction.  W7 W8 15mph at Bridge
+o. 179 [42m 76ch] on Single Line"
+London-North-Western-South	0542	12	MD735	"enbigh Hall South – Swanbourne
+idings"	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0542	13	MD735	laydon L&NE Junction – Bicester	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0542	14	MD740	"lyover Junction (Summit) – Fenny
+tratford Bletchley Flyover
+unction"	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0542	15	MD801	"olverhampton North Junction –
+onnington Junction"	Y *	N	N	N	N	N	N	N		
+London-North-Western-South	0542	16	MD801	"onnington Junction – Abbey
+oregate (Exclusive) [170m 46ch]"	Y *	Y	R1	N	N	N	N	N	R1	"The following combinations are permitted, up to:
+2591(h) x 2500(w) on FCA/FYA, KFA wagons
+2595(h) x 2500(w) on FKA,IKA wagons
+15mph UP Line
+Bridge WSJ2-405[ 161m 15ch]"
+London-North-Western-South	0542	17	MD801	"onnington Junction – Donnington
+T&WDC boundary)"	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0542	18	MD805	"ushbury (Oxley) Junction –
+tafford Road Junction"	Y	N	N	N	N	N	N	N		
+London-North-Western-South	0542	19	MD810	"adeley Junction – Ironbridge e-on
+ower Station"	Y	N	N	N	N	N	N	N		

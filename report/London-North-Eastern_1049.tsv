@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	357	357 OD	365	377	378	379	380	387	508	599	700	Notes
+London-North-Eastern	1049	1	LN888	FKW	"Knottingley West Jn – Ferrybridge
+North Jn"	2	71	2	27	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	2	LN889	KWS	Shaftholme Jn – Haywood Jn	68	75	67	66	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	3	LN892	PEF	"Pontefract East Jn – Ferrybridge South
+Jn"	3	06	2	38	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	4	LN894	KES	"Knottingley South Jn – Knottingley
+East Jn"	0	00	0	20	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	5	LN896	DRA1	"Drax Branch Jn – Drax Power Station
+(NR Boundary)"	0	00	4	16	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	6	LN898	HUL4	Neville Hill East Jn – Micklefield Jn	18	25	10	63	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	7	LN898	HUL4	"Micklefield Jn – Micklefield Change of
+ELR"	10	63	10	60	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	8	LN898	HUL3	"Micklefield Change of ELR –
+Gascoigne Wood Jn"	10	60	6	27	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	9	LN898	HUL3	Gascoigne Wood Jn – Selby West Jn	6	27	0	36	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	10	LN898	HUL3	Selby West Jn – Selby South Jn	0	36	0	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	11	LN898	HUL2	"Selby South Jn – Site of former Barlby
+Jn"	31	12	30	40	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	12	LN898	HUL1	"Site of former Barlby Jn – Anlaby Road
+Jn"	30	40	0	73	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	13	LN898	HUL1	Anlaby Road Jn – Hull	0	73	0	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	14	LN900	HUE	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	15	LN902	CFM	"Micklefield Jn – Church Fenton North
+Jn"	15	62	10	31	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	16	LN904	HSC	"Hambleton South Jn – Hambleton
+West Jn"	174	10	175	33	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	17	LN906	HNC	"Hambleton East Jn –   Hambleton
+North Jn"	3	34	4	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	18	LN908	SEC	Selby West Jn – Canal Jn	0	00	0	32	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	19	LN910	TCW1	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	20	LN910	TCW1	Selby Canal Jn – Selby South Jn	173	59	174	11	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	21	LN912	TJG1	"Thorne Jn – Thorne North Change of
+ELR"	7	69	9	09	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	22	LN912	TJG2	"Thorne North Change of ELR –
+Gilberdyke Jn"	14	06	0	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1049	23	LN914	HBS	"West Parade Jn – West Parade North
+Jn"	0	25	0	72	N	N	N	N	N	N	N	N	N	N	N	

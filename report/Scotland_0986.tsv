@@ -1,0 +1,42 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	314	318	320	322	325	334	350	380	390	Notes
+Scotland	0986	1	SC029	CLY	Larkfield Jn – Terminus Jn	101	01	101	62	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0986	2	SC029	BRD	"Terminus Jn – Shields Jn via Through
+Terminus lines"	101	62	102	16	Y	Y	Y	Y	Y	Y	E	Y	Y	
+Scotland	0986	3	SC029	CLY	Terminus Jn – Shields Jn	101	62	102	16	Y	Y	Y	Y	Y	Y	E	Y	Y	
+Scotland	0986	4	SC031	GSW	"Route Boundary (NW4031) (Gretna Jn)
+– Old Route boundary (109m 00ch
+between Eastriggs and Annan)"	115	40	109	00	N	N	N	N	H	N	N	N	H	
+Scotland	0986	5	SC031	GSW	"Old Route boundary (109m 00ch
+between Eastriggs and Annan) –
+Change of ELR"	109	0	33	44	N	N	N	N	"H
+R1"	N	N	"EH
+R2"	H	"R1Prohibited Kilmarnock platforms 1, 2
+(Bay platforms) and 4
+R2Prohibited Old Route Boundary (109m
+00ch between Eastriggs and Annan) and
+Klmarnock"
+Scotland	0986	6	SC031	GBK	Change of ELR – Muirhouse South Jn	23	44	1	18	N	N	N	N	"H
+R1"	N	N	N	H	"R1Prohibited Barrhead platform 3 (Bay
+platform)"
+Scotland	0986	7	SC031	MEN2	"Muirhouse South Jn – Muirhouse
+Central Jn"	0	00	0	15	N	N	N	N	H	N	Y	Y	H	
+Scotland	0986	8	SC031	MEN1	Muirhouse Central Jn – Eglinton St Jn	0	19	0	70	Y	Y	Y	Y	Y	Y	Y	Y	"R1
+R2"	"R1Prohibited between Muirhouse Central
+Jn and Muirhouse North Jn unless loco
+hauled
+R2Permitted between Muirhouse North Jn
+and Eglinton St Jn under own power"
+Scotland	0986	9	SC031	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0986	10	SC031	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	Y	Y	Y	Y	Y	Y	Y	Y	R1	"R1Prohibited Glasgow Central platforms 3,
+4, 5, 6, 7, 8, 12, 13 and 14"
+Scotland	0986	11	SC035	KSH	"Bank Jn – Network Rail Boundary
+(Connel Park LC) / Knockshinnoch"	54	05	55	28	N	N	N	N	N	N	N	N	N	
+Scotland	0986	12	SC036	GNN	"Greenburn Jn – Greenburn Open Cast
+(Goods Line)"	0	00	0	55	N	N	N	N	N	N	N	N	N	
+Scotland	0986	13	SC037	RIC1	Kay Park Jn – Bellfield	0	00	1	06	N	N	N	N	N	N	N	N	N	
+Scotland	0986	14	SC037	RIC2	Bellfield – Riccarton (Goods Line)	2	20	1	75	N	N	N	N	N	N	N	N	N	
+Scotland	0986	15	SC039	BAK	Kilmarnock – Barassie	0	05	7	56	N	N	N	N	H	N	N	"E
+R1"	N	R1Prohibited Kilmarnock platform 3
+Scotland	0986	16	SC045	EKE	East Kilbride – Busby Jn	7	60	0	40	N	N	N	N	N	N	N	N	N	
+Scotland	0986	17	SC047	LFS2	Muirhouse South Jn – Change of ELR	1	19	0	61	N	N	N	N	H	N	N	N	N	
+Scotland	0986	18	SC047	LFS1	Change of ELR – Larkfield Jn	101	17	101	01	N	N	N	N	H	N	N	N	N	

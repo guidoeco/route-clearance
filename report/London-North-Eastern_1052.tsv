@@ -1,0 +1,40 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector escription	M	Ch	M	Ch	317	319	321	322	325	377	380	387	390	700	Notes
+London-North-Eastern	1052	1	LN3140	BBM	"Route Boundary (MD140) (Bedford
+t. Johns) – Bedford Station Jn"	16	07	16	50	N	EH	N	N	H	N	N	E	N	E	
+London-North-Eastern	1052	2	LN3140	SPC1	"edford Station Jn – Bedford Station
+Via Up and Down Bletchley line)"	49	60	49	65	N	E	N	N	H	"E
+R1"	N	N	N	N	"R1For access to Jowett
+Sidings"
+London-North-Eastern	1052	3	LN3201	SPC1	"t Pancras platforms 1, 2, 3 and 4 -
+ricklewood"	0	12	5	09	Y	Y	Y	Y	H	Y	N	Y	N	R1	"R1Prohibited St Pancras -
+Kentish Town Jn"
+London-North-Eastern	1052	4	LN3201	SPC1	"ricklewood – Change of ELR
+Bedford)"	5	09	50	00	Y	Y	Y	Y	H	Y	N	Y	N	R1	"R1Prohibited on the Up
+Hendon and Down Hendon
+between Cricklewood South
+Jn - Silkstream Jn"
+London-North-Eastern	1052	5	LN3201	SPC2	"hange of ELR (Bedford) – Change
+f ELR (Wellingborough)"	50	00	64	78	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1052	6	LN3201	SPC3	"hange of ELR (Wellingborough) –
+hange of ELR (Wigston South Jn)"	64	78	95	38	N	N	N	N	H	N	N	N	N	N	
+London-North-Eastern	1052	7	LN3201	SPC4	"hange of ELR (Wigston South Jn) –
+hange of ELR (Leicester )"	95	38	98	73	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1052	8	LN3201	SPC5	"hange of ELR (Leicester) –
+eicester"	98	73	99	07	N	N	N	N	H	N	N	N	"EH
+R1"	N	"R1Prohibited Leicester
+platform 4"
+London-North-Eastern	1052	9	LN3201	SPC5	eicester – Ratcliffe Jn	99	07	118	34	N	N	N	N	H	N	N	N	"EH
+R1"	N	"R1Prohibited Leicester
+platform 4"
+London-North-Eastern	1052	10	LN3201	SPC5	"atcliffe Jn – Change of ELR
+Ratcliffe)"	118	34	118	60	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1052	11	LN3201	SPC6	"hange of ELR (Ratcliffe) – Change
+f ELR (Spondon)"	118	60	126	27	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1052	12	LN3201	SPC7	"hange of ELR (Spondon) – London
+oad Jn"	126	27	128	23	N	N	N	N	H	N	N	N	EH	N	
+London-North-Eastern	1052	13	LN3201	SPC8	ondon Road Jn – Derby Jn	127	54	128	08	N	N	N	N	H	N	EH	N	"EH
+R1
+R2"	N	"R1Prohibited Derby platform 4
+R25mph Derby platform 3"
+London-North-Eastern	1052	14	LN3201	SPC8	"erby Jn – Former Clay Cross South
+n"	128	08	147	69	N	N	N	N	H	N	N	N	N	N	

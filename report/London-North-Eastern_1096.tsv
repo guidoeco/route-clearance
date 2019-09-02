@@ -1,0 +1,32 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	RA	37/5	37/7 37/9	43	47/2	47/4	47/7	56	57	58	59	Notes
+London-North-Eastern	1096	1	LN600	ECM5	ow Fell Jn – King Edward Bridge South Jn	77	37	79	42	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	2	LN600	ECM5	"ing Edward Bridge South Jn – Newcastle
+est Jn"	79	42	80	05	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	3	LN600	ECM6	ewcastle West Jn – Newcastle	80	05	80	16	9	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1	"1Prohibited Newcastle platforms 9,
+10 11 and 12"
+London-North-Eastern	1096	4	LN600	ECM7	ewcastle – Newcastle East Jn	0	00	0	14	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	5	LN600	ECM7	ewcastle East Jn – Heaton South Jn	0	14	1	65	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	6	LN600	ECM7	"eaton South Jn – Route Boundary (SC147)
+Prestonpans Jn)"	1	65	69	67	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	7	LN618	HOS	olgate Jn –  Skelton Jn via York Yard South	0	00	1	54	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	8	LN620	KEB	"King Edward Bridge East Jn – King Edward
+ridge North Jn (East Curve)"	0	00	0	13	9	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	9	LN622	NEN1	ewcastle Forth Jn – Forth Banks	0	11	0	73	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	10	LN624	REB4	"Northallerton Castle Hills Jn – Network Rail
+oundary (Wensleydale Railway)"	0	04	0	18	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	11	LN626	LEN2	orthallerton High Jn –  Northallerton East Jn	0	00	0	36	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	12	LN627	LLP1	"onglands Jn (Down Line) – Boroughbridge
+oad LC"	28	58	29	72	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	13	LN627	LLP3	"onglands Jn (Up Line) – Boroughbridge
+oad LC"	0	69	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	14	LN627	LLP2	"oroughbridge Road LC – Northallerton East
+n"	42	21	42	79	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	15	LN627	LEN3	Northallerton East Jn – Billingham Jn	42	79	63	69	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	16	LN627	LEN3	Billingham Jn – Ryhope Grange Jn	63	69	87	63	8	R1	R1	R1	R1	R1	R1	R1	R1	R1	R1	"1Prohibited Hartlepool Down Bay
+platform 3"
+London-North-Eastern	1096	17	LN627	LEN3	yhope Grange Jn – Sunderland South Jn	87	63	89	56	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	18	LN627	LEN3	Sunderland South Jn – Boldon East Jn	89	56	94	63	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	19	LN627	LEN3	Boldon East Jn – Boldon West Jn	94	63	95	16	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	20	LN627	LEN3	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	21	LN627	LEN3	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1096	22	LN627	LEN3	ark Lane Jn – High Level Bridge Jn	100	65	101	33	8	Y	Y	Y	Y	Y	Y	Y	Y	Y	Y	

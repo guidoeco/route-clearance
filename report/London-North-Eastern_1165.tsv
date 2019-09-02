@@ -1,0 +1,40 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge	Notes							
+London-North-Eastern	1165	1			6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1165	2	LN736	"West Burton East Jn to West Burton
+West Jn East End Reception &
+Departure Lines"		Y	N	N	N	N	N	N	
+London-North-Eastern	1165	3	LN736	"West Burton East Jn – West Burton
+West Jn West End Reception &
+Departure Lines"		Y	N	N	N	N	N	N	
+London-North-Eastern	1165	4	LN738	Great Coates No. 1 – Union Dock		Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1165	5	LN740	"Grimsby, Marsh West Jn – Humber
+Road Jn"		Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1165	6	LN740	"Immingham East Jn – Immingham
+NR/ABP Boundary [ 106m 50ch ]"		Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1165	7	LN741	Habrough Jn – Ulceby South Jn		Y	Y	N	N	N	N	N	
+London-North-Eastern	1165	8	LN742	Killingholme – Brocklesby Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1165	9	LN744	Ulceby North Jn – Barton On Humber	*	N	N	N	N	N	N	N	
+London-North-Eastern	1165	10	LN746	Cottam Power Station Branch		N	N	N	N	N	N	N	
+London-North-Eastern	1165	11	LN748	"Retford Western Jn – Thrumpton West
+Jn"		Y	Y	Y	N	N	N	N	
+London-North-Eastern	1165	12	LN750	Woodburn Jn – Deepcar	*	N	N	N	N	N	N	N	
+London-North-Eastern	1165	13	LN752	Wrawby Jn – Marshgate Jn	*	Y	Y	N	N	N	N	N	
+London-North-Eastern	1165	14	LN754	Scunthorpe Foreign Ore Branch		N	N	N	N	N	N	N	
+London-North-Eastern	1165	15	LN756	Scunthorpe Trent Jn – Roxby		Y	Y	N	N	N	N	N	
+London-North-Eastern	1165	16	LN758	"Brancliffe East Jn – St Catherine's Jn [
+14m 62ch ]"		Y	Y	R1	R1	R1	R1	R1	"R1PROHIBITED Brancliffe East Jn
+and Dinnington Jn"
+London-North-Eastern	1165	17	LN758	"St Catherine's Jn  [ 14m 62ch ] – Low
+Ellers Curve Jn [ 15m 55ch ]"		Y	Y	Y	N	N	N	N	
+London-North-Eastern	1165	18	LN758	"Low Ellers Curve Jn [15m 55ch] – Kirk
+Sandall Jn"		N	N	N	N	N	N	N	
+London-North-Eastern	1165	19	LN758	Maltby Colliery Branch		N	N	N	N	N	N	N	
+London-North-Eastern	1165	20	LN760	Firbeck Jn –– Harworth Colliery		N	N	N	N	N	N	N	
+London-North-Eastern	1165	21	LN762	"St. Catherines Jn – Decoy South Jn
+(St. Catherine's Curve)"		Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1165	22	LN764	Low Ellers Curve		Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1165	23	LN766	"Bentley Jn – Hexthorpe Jn (Doncaster
+Avoiding Line)"	*	Y	Y	N	N	N	N	N	
+London-North-Eastern	1165	24	LN768	"Mansfield Woodhouse – Shireoaks
+East Jn"	*	N	N	N	N	N	N	N	
+London-North-Eastern	1165	25	LN772	Warsop Jn – Shirebrook Jn		N	N	N	N	N	N	N	

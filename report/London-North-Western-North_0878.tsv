@@ -1,0 +1,34 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT MOD)	MK4	Notes
+London-North-Western-North	0878	1	NW5013	DJO2	"Change of Mileage (Site of Former
+Crowthorne Jn) – Change of Mileage
+(Site of Former Ashton Moss South
+Jn)"	0	53	1	19	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	2	NW5013	AMJ	"Change of Mileage (Site of Former
+Ashton Moss South Jn) – Ashton
+Moss North Jn"	0	00	0	40	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	3	NW5015	HAJ	Hadfield – Dinting East Jn	12	61	12	00	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	4	NW5015	HAJ	Dinting East Jn – Dinting West Jn	12	00	11	66	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	5	NW5015	HAJ	Dinting West Jn – Hyde Jn	11	66	6	16	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	6	NW5015	HAJ	Hyde Jn – Guide Bridge West Jn	6	16	5	10	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	7	NW5015	HAJ	"Guide Bridge West Jn – Guide Bridge
+Station Jn"	5	10	4	73	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	8	NW5015	HAJ	"Guide Bridge Station Jn – Ashburys
+East Jn"	4	73	1	56	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	9	NW5015	HAJ	Ashburys East Jn – Ashburys West Jn	1	56	1	36	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	10	NW5015	HAJ	Ashburys West Jn – Ardwick Jn	1	36	0	40	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	11	NW5017	DSD	Dinting South Jn – Dinting East Jn	0	72	1	05	Y	Y	N	N	N	N	N	
+London-North-Western-North	0878	12	NW5019	GDW	Glossop – Dinting South Jn	0	01	0	72	Y	Y	N	N	N	N	N	
+London-North-Western-North	0878	13	NW5019	GDW	Dinting South Jn – Dinting West Jn	0	72	1	05	Y	Y	N	N	N	N	N	
+London-North-Western-North	0878	14	NW5021	SAJ	"Stalybridge Jn – Guide Bridge West
+Jn"	2	08	0	04	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	15	NW6001	COL	"Manchester Piccadilly East Jn –
+Castlefield Jn"	188	48	189	67	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	16	NW6001	COL	Castlefield Jn – Ordsall Lane Jn	189	67	190	28	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	17	NW6001	OLW	"Ordsall Lane Jn – Windsor Bridge
+South Jn"	190	28	191	01	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	18	NW6001	MVE1	"Windsor Bridge South Jn – Windsor
+Bridge North Jn"	1	55	1	66	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	19	NW6001	MVE1	"Windsor Bridge North Jn – Bolton
+West Jn"	1	66	10	55	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	20	NW6001	MVE2	Bolton West Jn – Lostock Jn	10	55	13	39	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0878	21	NW6001	MVE2	Lostock Jn – Euxton Jn	13	39	25	31	Y	Y	Y	N	N	N	Y	

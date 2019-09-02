@@ -1,0 +1,36 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	170	172	180	185	220	221	222	Notes
+London-North-Eastern	1010	1	LN860	MVN2	"Heaton Lodge East Jn – Thornhill
+LNW Jn"	37	47	39	72	Y	N	Y	Y	Y	Y	N	
+London-North-Eastern	1010	2	LN860	MDL1	Thornhill LNW Jn – Copley Hill East Jn	32	16	42	03	Y	N	Y	Y	Y	Y	N	
+London-North-Eastern	1010	3	LN861	BBW	Bradley Jn – Bradley Wood Jn	0	00	1	17	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1010	4	LN862	PED2	"Barnsley Station Jn – Site of Former
+Barnsley Jn"	6	43	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1010	5	LN862	PED1	"Site of Former Barnsley Jn – Site of
+Former Huddersfield Jn"	29	13	28	37	N	N	N	N	N	N	N	
+London-North-Eastern	1010	6	LN862	PEH	"Site of Former Huddersfield Jn –
+Lockwood"	13	42	1	18	N	N	N	N	N	N	N	
+London-North-Eastern	1010	7	LN862	PEH	Lockwood – Springwood Jn	1	18	0	40	N	N	N	N	N	N	N	
+London-North-Eastern	1010	8	LN862	MVL3	Springwood Jn – Huddersfield	0	40	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1010	9	LN864	DRS1	"Dewsbury Railway Street – Change of
+Mileage"	0	10	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1010	10	LN864	DRS1	"Change of Mileage – Dewsbury East
+Jn"	0	27	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1010	11	LN868	SHB	"Wincobank Jn – Site of Former Quarry
+Jn"	161	52	173	48	R1	N	N	N	Y	Y	Y	"R150mph inflated suspension and 30mph with deflated
+suspension Down Line Chapeltown Station"
+London-North-Eastern	1010	12	LN868	PED2	"Site of Former Quarry Jn – Barnsley
+Station Jn"	7	50	6	43	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1010	13	LN868	BAH2	"Barnsley Station Jn – Site of Former
+Crigglestone Jn"	52	58	45	56	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1010	14	LN868	CHS	"Site of former Crigglestone Jn –
+Horbury Jn"	1	53	0	00	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1010	15	LN870	CTL	"Wakefield Turners Lane – Calder
+Bridge Jn"	0	50	0	00	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1010	16	LN872	TJC3	Altofts Jn – Hunslet South Jn	185	73	193	40	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1010	17	LN872	TJC3	Hunslet South Jn – Engine Shed Jn	193	40	195	20	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1010	18	LN872	ELN	Engine Shed Jn – Leeds West Jn	195	20	195	53	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1010	19	LN874	MEW2	Methley Jn – Whitwood Jn	1	12	0	01	Y	N	Y	Y	Y	Y	N	
+London-North-Eastern	1010	20	LN875	CPM2	Castleford West Jn – Cutsyke Jn	0	00	0	61	E	N	Y	N	Y	Y	N	
+London-North-Eastern	1010	21	LN875	CPM1	Cutsyke Jn – Pontefract West Jn	59	02	56	42	E	N	Y	N	Y	Y	N	
+London-North-Eastern	1010	22	LN876	BOO	Castleford East Jn – Ledston	6	17	4	43	N	N	N	N	N	N	N	
+London-North-Eastern	1010	23	LN878	SHG	Sherburn Jn – Gascoigne Wood Jn	13	20	14	30	N	N	Y	Y	Y	Y	N	

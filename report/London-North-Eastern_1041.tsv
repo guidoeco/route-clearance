@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	357	357 OD	365	377	378	379	380	387	508	599	700	Notes
+London-North-Eastern	1041	1	LN662	HNB	Ryhope Grange – Hendon	0	00	1	53	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	2	LN664	BNW	Boldon East Jn – Boldon North Jn	0	00	0	20	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	3	LN666	BGE	Boldon West Jn – Boldon North Jn	0	00	0	32	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	4	LN666	GLT	oldon North Jn – Tyne Dock	0	32	1	26	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	5	LN670	JAW1	"Pelaw Jn – Network Rail Boundary
+(Shell Mex Depot Jarrow)"	0	09	3	36	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	6	LN672	FEP	Wardley – Pelaw Jn	19	70	20	75	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	7	LN674	HLK	"High Level Bridge Jn – Greensfield Jn
+(West Curve)"	0	00	0	21	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	8	LN676	PLG1	"Park Lane Jn – Site of former High
+Street Jn"	100	65	101	15	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	9	LN676	PLG2	"Site of former High Street Jn –
+Greensfield Jn"	0	00	0	21	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	10	LN676	HLK	"Greensfield Jn – King Edward Bridge
+South Jn"	0	16	0	48	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	11	LN678	DAE1	"Darlington North Jn – Site of former
+Parkgate Jn"	44	36	44	64	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	12	LN678	DAE1	"Site of former Parkgate Jn – Shildon
+SB"	0	00	8	29	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	13	LN678	DAE2	Shildon SB – Bishop Auckland	8	29	11	23	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	14	LN682	NEC1	"King Edward Bridge South Jn –
+Norwood Jn"	0	48	1	71	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	15	LN682	NEC1	"Norwood Jn – Site of former Blaydon
+East Jn"	1	71	5	28	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	16	LN682	NEC2	"Site of former Blaydon East Jn – Route
+Boundary (NW9909) (Petteril Bridge
+Jn)"	3	78	58	00	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	17	LN684	NLF	Low Fell Jn – Limit of Electrification	0	00	1	26	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	18	LN684	NLF	Limit of Electrification – Norwood Jn	1	26	1	42	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	19	LN694	BNE	"Benton North Jn – Site of former
+Earsdon Jn"	0	00	2	53	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	20	LN694	EJM	"Site of former Earsdon Jn – Morpeth
+North Jn"	7	08	20	47	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	21	LN696	HJM	Hepscott Jn –  Morpeth Jn	19	44	20	47	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	22	LN700	BWO2	Butterwell Jn – Signal B1	0	00	0	48	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1041	23	LN702	BWC	"Bedlington North –  Network Rail
+Boundary (Lynemouth Colliery)"	0	00	4	14	N	N	N	N	N	N	N	N	N	N	N	

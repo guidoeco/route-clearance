@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+London-North-Eastern	1183	1	LN678	DAE1	"Site of Former Parkgate Jn – Shildon
+SB"	0	00	8	29	8	R1	"R1Prohibited between Heighington and Newton Aycliffe on the Down
+line"
+London-North-Eastern	1183	2	LN678	DAE2	Shildon SB – Bishop Auckland	8	29	11	23	8	"R1
+R2"	"R1Prohibited Shildon platform (Down line)
+R2Prohibited Shildon platform (Up line)"
+London-North-Eastern	1183	3	LN682	NEC1	"King Edward Bridge South Jn –
+Norwood Jn"	0	48	1	71	8	Y	
+London-North-Eastern	1183	4	LN682	NEC1	"Norwood Jn – Site of Former Blaydon
+East Jn"	1	71	5	28	8	Y	
+London-North-Eastern	1183	5	LN682	NEC2	"Site of Former Blaydon East Jn –
+Route Boundary (NW9909) (Petteril
+Bridge Jn)"	3	78	58	00	8	R1	R1Prohibited through Whitchester Tunnel (Down line)
+London-North-Eastern	1183	6	LN684	NLF	Low Fell Jn – Limit of Electrification	0	00	1	26	8	Y	
+London-North-Eastern	1183	7	LN684	NLF	Limit of Electrification – Norwood Jn	1	26	1	42	8	Y	
+London-North-Eastern	1183	8	LN694	BNE	"Benton North Jn – Site of Former
+Earsdon Jn"	0	00	2	53	8	Y	
+London-North-Eastern	1183	9	LN694	EJM	"Site of Former Earsdon Jn – Morpeth
+North Jn"	7	08	20	47	8	R1	R1Prohibited Bedlington disused platform (Up line)
+London-North-Eastern	1183	10	LN696	HJM	Hepscott Jn – Morpeth Jn	19	44	20	47	8	Y	
+London-North-Eastern	1183	11	LN700	BWO2	Butterwell Jn – Signal B1	0	00	0	48	8	Y	
+London-North-Eastern	1183	12	LN702	BWC	"Bedlington North – Network Rail
+Boundary (Lynemouth Colliery)"	0	00	4	14	8	Y	
+London-North-Eastern	1183	13	LN704	ISC	"Newsham North Jn – Network Rail
+Boundary (Blyth Bates Terminal)"	0	00	0	36	0	Y	
+London-North-Eastern	1183	14	LN706	WSB	West Sleekburn Jn – North Blyth	0	00	3	22	8	Y	
+London-North-Eastern	1183	15	LN708	MWJ	Winning Jn – Marchey's House Jn	0	31	0	00	8	Y	
+London-North-Eastern	1183	16	LN724	HOS	"Holgate Jn – Skelton Jn via York Yard
+South"	0	00	1	54	9	Y	
+London-North-Eastern	1183	17	LN736	MAC3	Cleethorpes – Grimsby Docks	112	40	110	11	8	Y	
+London-North-Eastern	1183	18	LN736	MAC3	Grimsby Docks – Marsh West Jn	110	11	107	69	8	Y	
+London-North-Eastern	1183	19	LN736	MAC3	Marsh West Jn – Wrawby Jn	107	69	94	12	8	Y	
+London-North-Eastern	1183	20	LN736	MAC3	Wrawby Jn – West Burton East Jn	94	12	72	18	8	Y	
+London-North-Eastern	1183	21	LN736	MAC3	"West Burton East Jn – Thrumpton
+West Jn (Up)"	72	18	63	28	8	"R1
+R2"	"R1Prohibited through Clarborough Tunnel (Down line)
+R2Prohibited through Clarborough Tunnel (Up line)"

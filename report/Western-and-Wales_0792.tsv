@@ -1,0 +1,27 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge							Notes
+Western-and-Wales	0792	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12
+Western-and-Wales	0792	2	GW520	"Westbury East Loop Jn – Hawkeridge
+Jn"	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0792	3	GW523	Thingley Jn – Bradford Jn	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0792	4	GW528	"Bristol, North Somerset Jn – Bristol
+West Jn via St. Philips Marsh"	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0792	5	GW530	"Bristol, North Somerset Jn – Dr. Days
+Jn (Rhubarb Loop)"	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0792	6	GW540	Filton Jn – Patchway Jn	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0792	7	GW5401	Filton West Jn – Patchway Jn	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0792	8	GW548	Parson Street Jn – Portbury	Y	Y	Y	Y	N	N	N	N
+Western-and-Wales	0792	9	GW560	"Heywood Road Jn – Fairwood Jn via
+Westbury"	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0792	10	GW570	"Clink Road Jn – Blatchbridge Jn via
+Frome"	Y *	Y	N	N	N	N	N	N
+Western-and-Wales	0792	11	GW572	Frome North Jn – Whatley Quarry	Y	N	N	N	N	N	N	N
+Western-and-Wales	0792	12	GW580	East Somerset Jn – Cranmore	Y	N	N	N	N	N	N	N
+Western-and-Wales	0792	13	GW600	"Wootton Bassett Jn – Stoke Gifford
+Jn No 1 via Badminton"	Y *	Y	Y	N	N	N	N	N
+Western-and-Wales	0792	14	GW600	Stoke Gifford Jn No 1 – Pilning	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0792	15	GW606	Cowley Bridge Jn – Barnstaple	Y *	N	N	N	N	N	N	N
+Western-and-Wales	0792	16	GW608	Crediton – Coleford (Meldon Line)	Y	N	N	N	N	N	N	N
+Western-and-Wales	0792	17	GW610	"Crannaford LC (Inclusive) – Exeter St
+Davids"	Y *	N	N	N	N	N	N	N
+Western-and-Wales	0792	18	GW611	Exmouth Jn – Exmouth	Y *	N	N	N	N	N	N	N
+Western-and-Wales	0792	19	GW618	Newton Abbott East Jn – Heathfield	Y	N	N	N	N	N	N	N

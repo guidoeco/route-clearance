@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector escription	M	Ch	M	Ch	165	166	168	170	171	172	175	180	220	221	Notes
+London-North-Western-South	0463	1	MD101	LEC1	ondon Euston – Camden Jn DC Lines	0	00	1	36	N	N	N	N	N	"R1
+R2"	Y	N	Y	T	"R1    Prohibited Euston platform 17
+R2Prohibited Euston platform 3 when
+laden"
+London-North-Western-South	0463	2	MD101	LEC1	"amden Jn DC Lines – Camden Jn
+NLL)"	1	36	1	51	N	N	N	N	N	Y	Y	N	Y	T	
+London-North-Western-South	0463	3	MD101	LEC1	"amden Jn – West London Jn
+Willesden)"	1	51	5	23	"E
+R1"	N	N	N	N	Y	Y	N	Y	T	R1Route prohibited to Class 165/1
+London-North-Western-South	0463	4	MD101	LLG	"est London Jn (Willesden) – Sudbury
+n (Willesden Relief Lines)"	0	12	2	03	"E
+R1"	N	E	N	N	Y	Y	R2	Y	Y	"R1Route prohibited to Class 165/1
+R2For access to Wembley Yard"
+London-North-Western-South	0463	5	MD101	LEC1	"est London Jn (Willesden) –
+arlesden Jn"	5	23	6	01	"E
+R1"	N	E	N	N	Y	Y	N	Y	T	R1Route prohibited to Class 165/1
+London-North-Western-South	0463	6	MD101	LEC1	arlesden Jn – Watford South Jn	6	01	17	06	"E
+R1"	N	E	N	N	Y	Y	N	Y	T	R1Route prohibited to Class 165/1
+London-North-Western-South	0463	7	MD101	LEC1	atford South Jn – Bletchley South Jn	17	06	46	41	"E
+R1"	N	E	N	N	R2	Y	N	Y	T	"R1Route prohibited to Class 165/1
+R2ECS only between Watford Junction
+and Bletchley Jn"
+London-North-Western-South	0463	8	MD101	LEC1	"letchley South Jn – Bletchley
+platforms 1-5) – Denbigh Hall South
+n"	46	41	47	52	"E
+R1"	N	E	N	N	E	Y	N	Y	T	R1Route prohibited to Class 165/1
+London-North-Western-South	0463	9	MD101	LEC1	"enbigh Hall South Jn – Hanslope
+orth Jn"	47	52	56	66	"E
+R1"	N	E	"E
+R2"	N	E	Y	N	Y	T	"R1Route prohibited to Class 165/1
+R2Prohibited between Denbigh Hall
+South Jn and Wolverton Works"
+London-North-Western-South	0463	10	MD101	LEC1	anslope North Jn – Hillmorton Jn	56	66	81	28	"E
+R1"	N	E	Y	N	"E
+R2"	Y	N	Y	T	"R1Route prohibited to Class 165/1
+R2Route prohibited to Class 172/2 and
+172/3"

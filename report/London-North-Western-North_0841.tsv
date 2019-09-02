@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	165	168	170	175	180	185	220	221	222	Notes
+London-North-Western-North	0841	1	NW9003	CYC	"Chinley East Jn – Chinley South Jn (Chord
+Line)"	168	32	167	56	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	2	NW9005	CNB1	Chinley North Jn – Chinley South Jn	168	39	167	56	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	3	NW9005	CNB1	"Chinley South Jn – Change of Mileage
+(Site of Former Peak Forest Jn)"	167	56	161	05	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	4	NW9005	CNB2	"Change of Mileage (Site of Former Peak
+Forest Jn) – Change of Mileage (Site of
+Former Buxton Jn)"	0	00	0	28	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	5	NW9005	CNB3	"Change of Mileage (Site of Former Buxton
+Jn) – Buxton SB"	161	15	164	52	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	6	NW9005	CNB4	Buxton SB – Buxton Sidings	164	52	164	73	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	7	NW9007	TTA1	New Mills South Jn – Marple Wharf Jn	172	17	177	23	N	N	Y	N	N	Y	N	N	N	
+London-North-Western-North	0841	8	NW9007	TTA1	Marple Wharf Jn – Romiley Jn	177	23	178	33	N	N	Y	N	N	Y	N	N	N	
+London-North-Western-North	0841	9	NW9007	TTA1	"Romiley Jn – Brinnington (Change of
+Mileage)"	178	33	181	00	N	N	Y	N	N	Y	N	N	N	
+London-North-Western-North	0841	10	NW9007	TTA2	"Brinnington (Change of Mileage) –
+Ashburys East Jn"	42	77	46	24	N	N	Y	N	N	Y	N	N	N	
+London-North-Western-North	0841	11	NW9009	MRH	Marple Wharf Jn – Rose Hill Buffer Stop	11	02	9	78	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	12	NW9011	RYH1	Romiley Jn – Woodley Jn	178	33	179	44	N	N	N	N	N	Y	N	N	N	
+London-North-Western-North	0841	13	NW9011	RYH2	Woodley Jn – Hyde Jn	8	74	6	16	N	N	N	N	N	R1	N	N	N	R15mph Hyde North Down platform
+London-North-Western-North	0841	14	NW9013	WJP1	Woodley Jn – Bredbury Sidings	40	53	39	58	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	15	NW9017	"NMC1/
+2"	Hazel Grove High Level Jn – Cheadle Jn	177	40	181	71	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	16	NW9017	WJP1	Cheadle Jn – Northenden Jn	35	64	33	52	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	17	NW9019	BUX	Buxton – Brigg’s Sidings	0	00	4	70	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	18	NW9021	BEJ	Buxton – Hazel Grove East Jn	19	09	2	35	N	N	N	N	N	N	N	N	N	
+London-North-Western-North	0841	19	NW9901	SKW1	"Route Boundary (LN922) (Gargrave) –
+Settle Jn"	230	00	234	44	N	N	N	N	N	R1	Y	Y	N	"R1Prohibited between Route Boundary (LN922)
+(Gargrave) and Hellifield"
+London-North-Western-North	0841	20	NW9901	SAC	Settle Jn – Petteril Bridge Jn	234	44	307	12	N	N	N	N	N	Y	Y	Y	N	
+London-North-Western-North	0841	21	NW9901	NEC2	Petteril Bridge Jn – London Road Jn	59	26	59	45	N	N	N	N	N	Y	Y	Y	N	
+London-North-Western-North	0841	22	NW9901	NEC2	London Road Jn – Carlisle South Jn	59	45	60	02	N	N	N	N	N	Y	Y	Y	N	
+London-North-Western-North	0841	23	NW9903	SKW1	"Settle Jn – Change of Mileage
+(Wennington)"	234	44	249	44	N	N	N	N	N	N	N	N	N	

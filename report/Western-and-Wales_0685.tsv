@@ -1,0 +1,40 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
+Western-and-Wales	0685	1	GW103	MLN1	Paddington – Old Oak Common West	00	05	03	20	E	N	N	E	N	N	N	"E
+R1"	"E
+R1"	"1Prohibited Paddington platforms 1, 2
+and 4"
+Western-and-Wales	0685	2	GW103	MLN1	"Old Oak Common West – Acton East
+Jn"	3	20	4	07	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0685	3	GW103	MLN1	Acton East Jn – West Ealing Jn	4	07	6	54	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0685	4	GW103	MLN1	West Ealing Jn – Hanwell Jn	6	54	7	19	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0685	5	GW103	MLN1	"Hanwell Jn – Heathrow Airport Jn
+(Down Main)"	7	19	11	15	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0685	6	GW103	MLN1	"Heathrow Airport Jn (Down Main) –
+Stockley Bridge Jn (Limit of
+Electrification)"	11	15	12	09	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0685	7	GW103	MLN1	"Stockley Bridge Jn (Limit of
+Electrification) – Slough"	12	09	18	36	E	E	E	E	E	E	E	"E
+R1"	"E
+R1"	"R1Prohibited West Drayton Up / Down
+Goods line platform"
+Western-and-Wales	0685	8	GW103	MLN1	Slough – Maidenhead Jn	18	36	24	24	E	E	E	E	E	E	E	"E
+R1"	"E
+R1"	R1Prohibited Twyford platform 5
+Western-and-Wales	0685	9	GW103	MLN1	Maidenhead Jn – Henley Branch Jn	24	24	31	04	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0685	10	GW103	MLN1	Henley Branch Jn – Reading New Jn	31	04	35	40	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0685	11	GW103	MLN1	Reading New Jn – Westbury Line Jn	35	40	36	17	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0685	12	GW103	RLL	"Reading East Jn - Route Boundary
+(SW210 ) (Reading Southern Jn)"	35	61	35	38	N	N	N	E	N	N	N	E	E	
+Western-and-Wales	0685	13	GW103	MLN1	Westbury Line Jn – Reading West Jn	36	17	36	78	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0685	14	GW103	MLN1	Reading West Jn – Didcot East Jn	36	78	52	66	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0685	15	GW103	MLN1	Didcot East Jn – Chester Line Jn	52	66	53	12	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0685	16	GW103	MLN1	Chester Line Jn – Foxhall Jn	53	12	53	55	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0685	17	GW103	MLN1	Foxhall Jn – Uffington	53	55	66	39	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0685	18	GW105	MLN1	Uffington – Swindon Jn	66	39	77	36	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0685	19	GW105	MLN1	Swindon Jn – Wootton Bassett Jn	77	36	83	07	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0685	20	GW105	MLN1	Wootton Bassett Jn – Thingley Jn	83	07	96	10	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0685	21	GW105	MLN1	Thingley Jn – North Somerset Jn	96	10	117	46	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0685	22	GW105	MLN1	North Somerset Jn – Feeder Bridge Jn	117	46	117	50	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0685	23	GW105	MLN1	Feeder Bridge Jn – Bristol East Jn	117	50	118	02	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0685	24	GW105	MLN1	Bristol East Jn – Bristol West Jn	118	02	118	58	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0685	25	GW105	MLN1	Bristol West Jn – Parson Street Jn	118	58	120	28	E	Y	Y	Y	Y	N	N	Y	Y	

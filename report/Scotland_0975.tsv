@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
+Scotland	0975	1	SC101	RCB	Coatbridge Jn – Langloan Jn	7	03	6	34	Y	Y	Y	Y	Y	
+Scotland	0975	2	SC103	CBD1	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	Y	N	N	N	N	
+Scotland	0975	3	SC103	CBD2	Gartcosh Jn – Change of ELR	97	09	103	41	Y	N	N	Y	Y	
+Scotland	0975	4	SC103	SGN	Change of ELR – Cowlairs West Jn	0	61	-0	20	Y	N	N	Y	Y	
+Scotland	0975	5	SC105	GHE	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	Y	N	N	Y	Y	
+Scotland	0975	6	SC106	PNS	"Sighthill West Jn – Cowlairs South Jn
+(Chord Line)"	0	30	0	00	Y	N	N	Y	Y	
+Scotland	0975	7	SC107	ECM9	"Waverley East End – Edinburgh
+Waverley"	0	21	0	00	Y	N	Y	Y	Y	
+Scotland	0975	8	SC107	EGM4	"Edinburgh Waverley – Waverley West
+End (South Lines)"	0	00	0	15	Y	N	Y	Y	Y	
+Scotland	0975	9	SC107	ECN1	"Edinburgh Waverley – Waverley West
+End (North Lines)"	0	00	0	15	Y	N	Y	Y	Y	
+Scotland	0975	10	SC107	EGM3	"Waverley West End – Haymarket (South
+Lines)"	0	15	1	19	Y	N	Y	Y	Y	
+Scotland	0975	11	SC107	ECN2	"Waverley West End – Haymarket (North
+Lines)"	0	15	1	19	Y	N	Y	Y	Y	
+Scotland	0975	12	SC107	EGM2	"Haymarket – Haymarket East Jn (South
+Lines)"	46	02	45	72	Y	N	Y	Y	Y	
+Scotland	0975	13	SC107	ECN2	"Haymarket – Haymarket East Jn (North
+Lines)"	1	19	1	29	Y	N	Y	Y	Y	
+Scotland	0975	14	SC107	EGM2	"Haymarket East Jn – Haymarket Central
+Jn (South Lines)"	45	72	45	35	Y	N	Y	Y	Y	
+Scotland	0975	15	SC107	ECN2	"Haymarket East Jn – Haymarket Central
+Jn (North Lines)"	1	29	1	66	Y	N	Y	Y	Y	
+Scotland	0975	16	SC107	EGM2	"Haymarket Central Jn – Haymarket West
+Jn (South Lines)"	45	35	44	73	Y	N	Y	Y	Y	
+Scotland	0975	17	SC107	ECN2	"Haymarket Central Jn – Haymarket West
+Jn (North Lines)"	1	66	2	41	Y	N	Y	Y	Y	
+Scotland	0975	18	SC107	EGM1	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	Y	N	R1	Y	Y	"R1Prohibited between Polmont Jn and
+Cowlairs West Jn"
+Scotland	0975	19	SC107	EGM1	"Cowlairs West Jn – Glasgow Queen
+Street"	1	67	0	00	Y	N	N	Y	Y	
+Scotland	0975	20	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	Y	N	Y	Y	Y	

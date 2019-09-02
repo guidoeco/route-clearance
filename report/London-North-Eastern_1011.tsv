@@ -1,0 +1,41 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	170	172	180	185	220	221	222	Notes
+London-North-Eastern	1011	1	LN880	YMS	"York (platforms 4 & 5) – Scarborough
+(platforms 1 to 5)"	0	00	42	06	R1	N	N	R4	N	N	"R2
+R3"	"R1Prohibited Scarborough platforms 3 and 5
+R25mph Scarborough platform 5
+R3Prohibited Scarborough platform 5 with deflated
+suspension
+R4Prohibited Scarborough Platform 5"
+London-North-Eastern	1011	2	LN880	YMS	"York (Platform 2 and maintenance
+sidings) – Connection to Up line"	0	0	0	15	N	N	N	Y	N	N	Y	
+London-North-Eastern	1011	3	LN882	WAG1	"Wakefield Kirkgate West Jn – Calder
+Bridge Jn"	47	43	48	28	Y	N	R1	Y	R2	R2	Y	"15mph Wakefield Kirkgate platform 3 with deflated
+suspension
+2Prohibited Wakefield Kirkgate platform 3 when
+laden.  Must use up Goole Line (reversible)"
+London-North-Eastern	1011	4	LN882	WAG1	Calder Bridge Jn – Crofton West Jn	48	28	49	40	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1011	5	LN882	WAG1	Crofton West Jn – Knottingley West Jn	49	40	58	20	E	N	Y	"E
+R1
+R2"	Y	Y	Y	"R1Prohibited between Crofton East Jn and Knottingley
+West Jn
+R2Prohibited with deflated suspension"
+London-North-Eastern	1011	6	LN882	WAG1	nottingley West Jn – Engine Shed Jn	58	20	73	52	N	N	Y	N	N	N	Y	
+London-North-Eastern	1011	7	LN882	WAG2	"ngine Shed Jn – Goole Potters
+range Jn"	0	64	0	00	N	N	Y	N	N	N	Y	
+London-North-Eastern	1011	8	LN884	OAJ	"akenshaw South Jn – Oakenshaw
+n."	49	41	48	76	N	N	N	N	N	N	N	
+London-North-Eastern	1011	9	LN886	TJC3	onk Bretton – Oakenshaw South Jn	176	22	181	75	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1011	10	LN886	OSC	"akenshaw South Jn – Crofton East
+n"	181	75	183	04	N	N	N	N	Y	Y	Y	
+London-North-Eastern	1011	11	LN888	CJS	tainforth Jn – Thorpe Marsh Jn	166	70	163	76	N	N	N	Y	N	N	N	
+London-North-Eastern	1011	12	LN888	HTM	horpe Marsh Jn – Haywood Jn	69	56	67	66	N	N	N	N	N	N	N	
+London-North-Eastern	1011	13	LN888	KWS	aywood Jn – Knottingley West Jn	67	66	58	20	E	N	Y	N	Y	Y	Y	
+London-North-Eastern	1011	14	LN888	FKW	"nottingley West Jn – Ferrybridge
+orth Jn"	2	71	2	27	N	N	Y	N	Y	Y	Y	
+London-North-Eastern	1011	15	LN889	KWS	haftholme Jn – Haywood Jn	68	75	67	66	N	N	Y	N	Y	Y	Y	
+London-North-Eastern	1011	16	LN892	PEF	"ontefract East Jn – Ferrybridge South
+n"	3	06	2	38	N	N	Y	N	N	N	Y	
+London-North-Eastern	1011	17	LN894	KES	"nottingley South Jn – Knottingley
+ast Jn"	0	00	0	20	N	N	N	N	N	N	N	
+London-North-Eastern	1011	18	LN896	DRA1	"rax Branch Jn – Drax Power Station
+NR Boundary)"	0	00	4	16	N	N	N	N	N	N	N	

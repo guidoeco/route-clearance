@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	37/7 37/9	43	47/2	47/4	47/7	56	57	58	Notes
+London-North-Western-North	0909	1	NW5009	CMD1	"Kidsgrove Jn – Macclesfield Hibel
+Road (Change of ELR )"	13	68	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	2	NW5009	MCH	"Macclesfield Hibel Road (Change of
+ELR) – Cheadle Hulme North Jn"	9	37	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	3	NW5010	SCQ1	Glebe Street Jn – Change of Mileage	20	08	20	33	6	N	N	N	N	N	N	N	N	Line out of use
+London-North-Western-North	0909	4	NW5010	SCQ1	"Change of Mileage – Change of
+Mileage (Site of Former Milton Jn)"	0	00	3	51	6	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
+London-North-Western-North	0909	5	NW5010	SCQ2	"Change of Mileage (Site of Former
+Milton Jn) – Change of Mileage (Site
+of Former Leek Brook Jn)"	0	00	6	65	6	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
+London-North-Western-North	0909	6	NW5010	SCQ3	"Change of Mileage (Site of Former
+Leek Brook Jn) – Caldon Quarry"	0	00	8	01	6	N	N	N	N	N	N	N	N	Line leased to Moorland & City Railways Ltd
+London-North-Western-North	0909	7	NW5011	HNS	"Heaton Norris Jn – Guide Bridge
+Station Jn"	0	00	4	73	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	8	NW5012	NSS	"Route Boundary (LN3505) (North
+Stafford Jn) – Stoke Jn"	1	40	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	9	NW5013	DJO1	"Denton Jn – Change of Mileage (Site
+of Former Crowthorne Jn)"	4	10	5	28	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	10	NW5013	DJO2	"Change of Mileage (Site of Former
+Crowthorne Jn) – Change of Mileage
+(Site of Former Ashton Moss South
+Jn)"	0	53	1	19	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	11	NW5013	AMJ	"Change of Mileage (Site of Former
+Ashton Moss South Jn) – Ashton
+Moss North Jn"	0	00	0	40	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	12	NW5015	HAJ	Hadfield – Dinting East Jn	12	61	12	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	13	NW5015	HAJ	Dinting East Jn – Dinting West Jn	12	00	11	66	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	14	NW5015	HAJ	Dinting West Jn – Hyde Jn	11	66	6	16	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	15	NW5015	HAJ	Hyde Jn – Guide Bridge West Jn	6	16	5	10	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	16	NW5015	HAJ	"Guide Bridge West Jn – Guide Bridge
+Station Jn"	5	10	4	73	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	17	NW5015	HAJ	"Guide Bridge Station Jn – Ashburys
+East Jn"	4	73	1	56	8	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Western-North	0909	18	NW5015	HAJ	Ashburys East Jn – Ashburys West Jn	1	56	1	36	8	Y	Y	Y	Y	Y	Y	Y	Y	

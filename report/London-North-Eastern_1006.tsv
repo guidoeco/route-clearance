@@ -1,0 +1,31 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	170	172	180	185	220	221	222	Notes
+London-North-Eastern	1006	1	LN802	WKC	"Welbeck Colliery Jn – Network Rail
+Boundary (RJB)"	0	00	2	63	N	N	N	N	N	N	N	
+London-North-Eastern	1006	2	LN804	TJC1	"Route Boundary (LN3201) (Tapton Jn) –
+Dore South Jn"	146	64	153	71	Y	N	E	N	Y	Y	Y	
+London-North-Eastern	1006	3	LN804	TJC1	Dore South Jn – Sheffield Station	153	71	158	40	Y	N	E	R1	Y	Y	Y	R1Prohibited between Dore South Jn and Dore Station Jn
+London-North-Eastern	1006	4	LN804	TJC1	"Sheffield Station – Nunnery Main Line
+Jn"	158	40	158	77	Y	N	E	Y	Y	Y	Y	
+London-North-Eastern	1006	5	LN804	TJC1	"Nunnery Main Line Jn – Site of Former
+Grimesthorpe Jn"	158	77	160	47	Y	N	E	Y	Y	Y	Y	
+London-North-Eastern	1006	6	LN804	TJC2	"Site of Former Grimesthorpe Jn – Site of
+Masborough South Jn"	160	47	163	74	Y	N	E	Y	Y	Y	Y	
+London-North-Eastern	1006	7	LN804	TJC3	"Site of Former Masborough South Jn –
+Swinton Jn South"	161	77	166	56	Y	N	E	Y	Y	Y	Y	
+London-North-Eastern	1006	8	LN804	SMJ1	Swinton Jn South – Swinton Jn North	166	56	167	03	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1006	9	LN804	SMJ1	"Swinton Jn North – Site of Former Wath
+Curve Jn"	167	03	168	64	Y	N	N	Y	Y	Y	Y	
+London-North-Eastern	1006	10	LN804	SMJ2	"Site of Former Wath Curve Jn –
+Ferrybridge South Jn"	17	15	2	38	R1	N	N	R1	Y	Y	Y	"R1Prohibited between Moorthorpe Jn and Ferrybridge
+South Jn"
+London-North-Eastern	1006	11	LN804	SMJ2	"Ferrybridge South Jn – Site of Former
+Burton Salmon Jn"	2	38	0	00	N	N	Y	N	Y	Y	Y	
+London-North-Eastern	1006	12	LN804	SMJ3	"Site of Former Burton Salmon Jn –
+Milford Jn"	16	69	15	07	N	N	Y	N	Y	Y	Y	
+London-North-Eastern	1006	13	LN804	MGW	Milford Jn – Gascoigne Wood SB	7	65	6	27	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1006	14	LN806	CHR	"Route Boundary (LN3201) (Tapton Jn) –
+Masborough Jn"	146	64	162	24	Y	N	N	N	Y	Y	Y	
+London-North-Eastern	1006	15	LN807	MAS	Dore South Jn – Dore West Jn	153	73	154	16	Y	N	N	Y	Y	Y	Y	
+London-North-Eastern	1006	16	LN808	DWS	Dore Station Jn – Dore West Jn	0	60	0	00	Y	N	N	Y	Y	Y	Y	
+London-North-Eastern	1006	17	LN808	MAS	"Dore West Jn – Route Boundary
+(NW9001) (Chinley North Jn)"	154	16	154	20	Y	N	N	Y	Y	Y	Y	

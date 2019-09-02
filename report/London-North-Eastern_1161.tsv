@@ -1,0 +1,26 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge	Notes							
+London-North-Eastern	1161	1			W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1161	2	LN618	"Holgate Jn – Skelton Jn (avoiding York
+station)"	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1161	3	LN620	"King Edward Bridge East Jn – King
+Edward Bridge North Jn"	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1161	4	LN622	Forth Branch	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1161	5	LN624	"Northallerton, Castle Hills Jn – Castle
+Hills West GF"	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1161	6	LN626	"Northallerton High Jn – Northallerton
+East Jn"	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1161	7	LN627	"Northallerton, Longlands Jn –
+Billingham Jn"	Y *	Y	Y	R1	R1	R1	R1	R1	"R1Between Eaglescliffe South Jn and
+Stockton Cut only"
+London-North-Eastern	1161	8	LN627	Billingham Jn – Ryhope Grange	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1161	9	LN627	Ryhope Grange – Boldon East Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1161	10	LN627	Boldon East Jn – Boldon West Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1161	11	LN627	Boldon West Jn – Park Lane Jn	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1161	12	LN627	Park Lane Jn – Newcastle East Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1161	13	LN627	"Dawdon Junction – Seaham Harbour
+(NR Limit) [1m 36ch]"	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1161	14	LN628	South Hylton – Sunderland South Jn	Y *	-	-	-	N	-	N	-	Nexus Metro Trains
+London-North-Eastern	1161	15	LN629	Pelaw Metro Jn – Pelaw South Jn	Y *	-	-	-	N	-	N	-	Nexus Metro Trains
+London-North-Eastern	1161	16	LN630	Pelaw North Jn – Pelaw Metro Jn	Y *	-	-	-	N	-	N	-	Nexus Metro Trains
+London-North-Eastern	1161	17	LN631	"Darlington South Jn – Eaglescliffe
+South Jn"	Y *	Y	Y	Y	Y	Y	Y	Y	

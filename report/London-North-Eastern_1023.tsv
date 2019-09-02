@@ -1,0 +1,37 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	Notes
+London-North-Eastern	1023	1	LN185	GRS3	"Site of former Boston Sleaford Line Jn
+– Boston"	106	70	107	24	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	2	LN185	GRS3	Boston – Site of former Firsby East Jn	107	24	122	22	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	3	LN185	GRS4	"Site of former Firsby East Jn -
+Skegness"	0	28	9	17	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	4	LN190	ACD	"Allington East Jn – Allington North Jn
+(Allington Chord)"	0	00	0	25	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	5	LN195	NOG1	"ottingham Branch Jn – Route
+Boundary (LN3635) (Rectory Jn SB)"	106	08	111	60	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	6	LN200	NOB3	Wrawby Jn – Pelham Street Jn	12	55	41	26	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	7	LN206	NOB1	"Route Boundary (LN3625) (Nottingham
+East Jn) – Coulson Change of  ELR"	16	02	32	00	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	8	LN206	NOB2	"Coulson Change of  ELR – Boultham
+Jn"	32	00	32	40	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	9	LN206	NOB2	Boultham Jn – West Holmes Jn	32	40	32	70	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	10	LN210	NSE	"Newark Crossing South Jn – Newark
+Crossing East Jn"	0	00	0	21	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	11	LN215	BHP	Boultham Jn – Pyewipe Jn	0	00	0	65	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	12	LN220	BCB	Bessacarr Jn – Black Carr Jn	115	72	116	44	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	13	LN235	FWR1	ossington Colliery Jn – End of Line	152	12	151	69	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	14	LN235	FWR2	ossington Colliery – End of Line	153	31	151	69	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1023	15	LN600	ECM2	Shaftholme Jn – Temple Hirst Jn	160	16	169	16	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1023	16	LN600	ECM3	Temple Hirst Jn – Colton Jn	169	16	182	79	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1023	17	LN600	ECM4	olton Jn – Colton North Jn	182	79	183	65	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1023	18	LN600	ECM4	olton North Jn – York Station	183	65	188	40	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1023	19	LN600	ECM5	York Station – Birtley Jn	0	00	75	26	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1023	20	LN600	ECM5	"Birtley Jn – Low Fell Jn (including via
+Tyne Yard)"	75	26	77	37	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1023	21	LN600	ECM5	"Low Fell Jn – King Edward Bridge
+South Jn"	77	37	79	42	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1023	22	LN600	ECM5	"King Edward Bridge South Jn –
+Newcastle West Jn"	79	42	80	05	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1023	23	LN600	ECM6	ewcastle West Jn – Newcastle	80	05	80	16	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1023	24	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	R1	Y	Y	R1	Y	N	Y	Y	Y	N	"R1Prohibited Newcastle platforms 3, 5, 6,
+9, 10 and 11"
+London-North-Eastern	1023	25	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	N	Y	Y	N	Y	N	Y	Y	Y	N	

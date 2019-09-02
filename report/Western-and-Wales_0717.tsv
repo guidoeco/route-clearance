@@ -1,0 +1,36 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	325	332	360	387	Notes
+Western-and-Wales	0717	1	GW370	OWW	"Droitwich Spa – Route Boundary
+(MD430) (Kidderminster)"	126	21	130	40	H	N	N	N	
+Western-and-Wales	0717	2	GW401	BAG2	"Route Boundary (MD306)
+(Ashchurch) – Gloucester Barnwood
+Jn (Change of ELR)"	77	40	92	21	H	N	N	N	
+Western-and-Wales	0717	3	GW401	CHL	"Gloucester Barnwood Jn (Change of
+ELR) – Gloucester Yard Jn (Change
+of ELR)"	92	21	93	08	H	N	N	N	
+Western-and-Wales	0717	4	GW401	BGL1	"Gloucester Yard Jn (Change of ELR)
+– Change of ELR"	93	08	94	10	H	N	N	N	
+Western-and-Wales	0717	5	GW401	BGL2	Change of ELR – Standish Jn	94	60	99	69	H	N	N	N	
+Western-and-Wales	0717	6	GW401	BGL2	"Standish Jn – Yate South Jn (Change
+of ELR)"	99	69	120	03	H	N	N	N	
+Western-and-Wales	0717	7	GW401	YAT	"Yate South Jn (Change of ELR) –
+Westerleigh Jn"	120	03	121	28	H	N	N	N	
+Western-and-Wales	0717	8	GW425	"SAW/S
+SS"	"Berkeley Road Jn – Sharpness
+(Network Rail Boundary)"	0	04	3	69	N	N	N	N	
+Western-and-Wales	0717	9	GW430	THO	Yate Middle Jn – Tytherington	0	00	6	24	H	N	N	N	
+Western-and-Wales	0717	10	GW440	BGL2	Yate South Jn – Westerleigh Yard	120	03	122	65	N	N	N	N	
+Western-and-Wales	0717	11	GW450	FEC	"Stoke Gifford Jn No.1 – Change of
+ELR"	111	79	113	01	H	N	N	N	
+Western-and-Wales	0717	12	GW450	BSW	Change of ELR – Bristol East Jn	4	50	0	26	H	N	N	N	
+Western-and-Wales	0717	13	GW4501	AFR	"Stoke Gifford Jn No.2 – Hallen Marsh
+Jn (Change of ELR)"	112	05	118	42	H	N	N	N	
+Western-and-Wales	0717	14	GW4501	AMB	"Hallen Marsh Jn (Change of ELR) –
+Holesmouth Jn"	14	38	14	60	H	N	N	N	
+Western-and-Wales	0717	15	GW4501	AMB	"Holesmouth Jn – Avonmouth (Bristol
+Bulk Handling Terminal)"	14	60	15	40	N	N	N	N	
+Western-and-Wales	0717	16	GW451	FWC	Filton Jn No 2 – Filton West Jn No.2	4	66	5	41	H	N	N	N	
+Western-and-Wales	0717	17	GW454	AMB	"Severn Beach – St Andrews Jn
+(Change of ELR)"	11	64	16	00	H	N	N	N	
+Western-and-Wales	0717	18	GW454	CNX	"St Andrews Jn (Change of ELR) –
+Narroways Hill Jn"	9	32	2	03	H	N	N	N	
+Western-and-Wales	0717	19	GW480	SWM1	Swindon Jn – Standish Jn	77	36	106	74	H	N	N	N	

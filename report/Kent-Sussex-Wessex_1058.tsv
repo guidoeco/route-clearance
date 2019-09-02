@@ -1,0 +1,34 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Kent-Sussex-Wessex	1058	1	SW105	BML1	Eastleigh West Jn – St Denys	73	42	77	10	8	Y	
+Kent-Sussex-Wessex	1058	2	SW105	BML1	St Denys – Northam Jn	77	10	78	15	8	Y	
+Kent-Sussex-Wessex	1058	3	SW105	BML2	Northam Jn – Worgret Jn	78	15	121	77	8	R1	R1Prohibited Bournmouth Servicing platform (Middle Siding 3)
+Kent-Sussex-Wessex	1058	4	SW105	FUR	"Worgret Jn – Network Rail Boundary
+(Swanage Railway)"	126	30	129	55	8	Y	
+Kent-Sussex-Wessex	1058	5	SW105	BML2	Worgret Jn – Dorchester Jn	121	77	136	15	8	Y	
+Kent-Sussex-Wessex	1058	6	SW105	BML3	Dorchester Jn – Weymouth	162	14	168	63	8	Y	
+Kent-Sussex-Wessex	1058	7	SW110	WPH1	Woking Jn – Guilford	24	62	30	27	8	Y	
+Kent-Sussex-Wessex	1058	8	SW110	WPH1	Guilford – Shalford Jn	30	27	31	42	8	"R1
+R2"	"R1Prohibited between Guildford South Jn and Shalford Jn on the Down
+line
+R2Prohibited between Guildford South Jn and Shalford Jn on the Up
+line"
+Kent-Sussex-Wessex	1058	9	SW110	WPH1	Shalford Jn – Haslemere	31	42	42	79	8	Y	
+Kent-Sussex-Wessex	1058	10	SW110	WPH1	Haslemere – Havant Jn	42	79	66	17	8	"R1
+R2"	"R1Prohibited Liphook platform 1 (Up line)
+R2Prohibited between Petersfield and Rowlands Castle on the Up line"
+Kent-Sussex-Wessex	1058	11	SW110	TBH2	"Route Boundary (Sussex SO250)
+(Barnham) – Havant Jn [Duplicated on
+SO520]"	35	35	37	25	8	Y	
+Kent-Sussex-Wessex	1058	12	SW110	WPH2	"Havant Jn – Farlington Jn [Duplicated
+on SO520]"	37	24	40	33	8	Y	
+Kent-Sussex-Wessex	1058	13	SW110	WPH2	"Farlington Jn – Portcreek Jn
+[Duplicated on SO520]"	40	33	41	03	8	Y	
+Kent-Sussex-Wessex	1058	14	SW110	WPH2	"Portcreek Jn – Blackfriars Jn
+[Duplicated on SO520]"	41	03	44	50	8	R1	"R1Prohibited between Fratton and Blackfriars Jn on the Up and Down
+Fratton line"
+Kent-Sussex-Wessex	1058	15	SW110	PAS	"Blackfriars Jn – Portsmouth and
+Southsea Low Level  [Duplicated on
+SO520]"	44	26	44	50	8	Y	
+Kent-Sussex-Wessex	1058	16	SW110	WPH2	"Blackfriars Jn – Portsmouth and
+Southsea High Level  [Duplicated on
+SO520]"	44	26	44	50	7	Y	

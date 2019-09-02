@@ -1,0 +1,18 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+Scotland	1050	1	SC059	AYR5	"Change of ELR (Barassie Jn) – Change
+of ELR (Between Troon and Prestwick
+International Airport)"	0	00	2	15	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1050	2	SC059	AYR6	"Change of ELR (Between Troon and
+Prestwick International Airport) –
+Falkland Jn"	35	05	38	73	10	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1050	3	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1050	4	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	8	Y	Y	Y	Y	Y	Y	Y	
+Scotland	1050	5	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	5	N	N	N	N	N	N	R1	R1Prohibited if fitted with roof horns
+Scotland	1050	6	SC059	STR2	"Change of ELR (Girvan) – Change of
+ELR (Betweeen Challoch LC and
+Dunragit SB & LC)"	0	00	30	67	5	N	N	N	N	N	N	R1	R1Prohibited if fitted with roof horns
+Scotland	1050	7	SC059	STR3	"Change of ELR (Betweeen Challoch LC
+and Dunragit SB & LC) – Change of
+ELR (Stranraer Yard GF)"	46	54	53	05	5	N	N	N	N	N	N	R1	R1Prohibited if fitted with roof horns
+Scotland	1050	8	SC059	STR4	"Change of ELR (Stranraer Yard GF) –
+End of Line"	53	05	54	05	5	N	N	N	N	N	N	R1	R1Prohibited if fitted with roof horns

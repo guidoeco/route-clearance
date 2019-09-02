@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	Notes
+London-North-Eastern	1026	1	LN678	DAE1	"Site of former Parkgate Jn – Shildon
+SB"	0	00	8	29	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	2	LN678	DAE2	Shildon SB – Bishop Auckland	8	29	11	23	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	3	LN682	NEC1	"King Edward Bridge South Jn –
+Norwood Jn"	0	48	1	71	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	4	LN682	NEC1	"Norwood Jn – Site of former Blaydon
+East Jn"	1	71	5	28	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	5	LN682	NEC2	"Site of former Blaydon East Jn – Route
+Boundary (NW9909) (Petteril Bridge
+Jn)"	3	78	58	00	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	6	LN684	NLF	Low Fell Jn – Limit of Electrification	0	00	1	26	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	7	LN684	NLF	Limit of Electrification – Norwood Jn	1	26	1	42	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	8	LN694	BNE	"Benton North Jn – Site of former
+Earsdon Jn"	0	00	2	53	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	9	LN694	EJM	"Site of former Earsdon Jn – Morpeth
+North Jn"	7	08	20	47	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	10	LN696	HJM	Hepscott Jn –  Morpeth Jn	19	44	20	47	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	11	LN700	BWO2	Butterwell Jn – Signal B1	0	00	0	48	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1026	12	LN702	BWC	"Bedlington North –  Network Rail
+Boundary (Lynemouth Colliery)"	0	00	4	14	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1026	13	LN704	ISC	"Newsham North Jn – Network Rail
+Boundary (Blyth Bates Terminal)"	0	00	0	36	N	N	N	N	N	N	N	N	N	N	"Line out of use
+NME/2010/LNE/006 and NME/2010/LNE009"
+London-North-Eastern	1026	14	LN706	WSB	West Sleekburn Jn – North Blyth	0	00	3	22	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1026	15	LN708	MWJ	Winning Jn – Marchey's House Jn	0	31	0	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1026	16	LN724	HOS	"Holgate Jn –  Skelton Jn via York Yard
+South"	0	00	1	54	Y	Y	Y	Y	Y	N	Y	Y	H	N	
+London-North-Eastern	1026	17	LN736	MAC3	Cleethorpes – Grimsby Docks	112	40	110	11	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	18	LN736	MAC3	Grimsby Docks – Marsh West Jn	110	11	107	69	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	19	LN736	MAC3	Marsh West Jn – Wrawby Jn	107	69	94	12	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	20	LN736	MAC3	Wrawby Jn – West Burton East Jn	94	12	72	18	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	21	LN736	MAC3	"West Burton East Jn –  Thrumpton
+West Jn (Up)"	72	18	63	28	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	22	LN736	MAC3	"Thrumpton West Jn (Up) – Manton
+Wood"	63	28	58	54	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	23	LN736	MAC3	Manton Wood – Brancliffe East Jn	58	54	53	57	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1026	24	LN736	MAC3	Brancliffe East Jn – Woodburn Jn	53	57	42	29	N	N	N	N	N	N	N	N	H	N	

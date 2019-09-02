@@ -1,0 +1,34 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	170	180	185	220	221	Notes
+Scotland	0973	1	SC059	AYR1	Cook St – Shields Jn	0	19	1	00	E	N	E	Y	Y	
+Scotland	0973	2	SC059	AYR1	"Shields Jn – Change of ELR (Paisley
+Gilmour Street)"	1	00	6	53	N	N	N	Y	Y	
+Scotland	0973	3	SC059	AYR2	"Change of ELR (Paisley Gilmour Street)
+– Change of ELR (Brown Street
+crossover)"	6	73	7	00	N	N	N	Y	Y	
+Scotland	0973	4	SC059	AYR3	"Change of ELR (Brown Street
+crossover) – Change of ELR (Dalry)"	7	00	23	00	N	N	N	Y	Y	
+Scotland	0973	5	SC059	AYR4	"Change of ELR (Dalry) – Change of ELR
+(Barassie Jn)"	23	00	33	08	N	N	N	Y	Y	
+Scotland	0973	6	SC059	AYR5	"Change of ELR (Barassie Jn) – Change
+of ELR (Between Troon and Prestwick
+International Airport)"	0	00	2	15	N	N	N	Y	Y	
+Scotland	0973	7	SC059	AYR6	"Change of ELR (Between Troon and
+Prestwick International Airport) –
+Falkland Jn"	35	05	38	73	N	N	N	Y	Y	
+Scotland	0973	8	SC059	AYR6	Falkland Jn – Ayr	38	73	40	49	N	N	N	R1	R1	R1Prohibited between Newton Jn and Ayr
+Scotland	0973	9	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	N	N	N	N	N	
+Scotland	0973	10	SC059	STR1	Dalrymple Jn – Change of ELR (Girvan)	43	53	61	60	N	N	N	N	N	
+Scotland	0973	11	SC059	STR2	"Change of ELR (Girvan) – Change of
+ELR (Betweeen Challoch LC and
+Dunragit SB & LC)"	0	00	30	67	N	N	N	N	N	
+Scotland	0973	12	SC059	STR3	"Change of ELR (Betweeen Challoch LC
+and Dunragit SB & LC) – Change of ELR
+(Stranraer Yard GF)"	46	54	53	05	N	N	N	N	N	
+Scotland	0973	13	SC059	STR4	"Change of ELR (Stranraer Yard GF) –
+End of Line"	53	05	54	05	N	N	N	N	N	
+Scotland	0973	14	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	N	N	E	R1	R1	R1Only for access to / from Shields Depot
+Scotland	0973	15	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	N	N	N	N	N	
+Scotland	0973	16	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	
+Scotland	0973	17	SC063	CND2	"Cardonald North Jn – Deanside (Goods
+Line)"	0	36	1	54	N	N	N	N	N	
+Scotland	0973	18	SC065	GOU1	Paisley (Wallneuk Jn) – Change of ELR	6	34	6	53	N	N	N	N	N	

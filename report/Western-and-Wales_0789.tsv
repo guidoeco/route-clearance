@@ -1,0 +1,31 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge	Notes							
+Western-and-Wales	0789	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
+Western-and-Wales	0789	2	GW110	"Old Oak Common West – South
+Ruislip"	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0789	3	GW117	"Greenford East Jn – Greenford South
+Jn"	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0789	4	GW130	Acton Wells Jn – Acton East	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0789	5	GW174	West Ealing – Greenford West Jn	Y *	Y	Y	N	N	N	N	N	
+Western-and-Wales	0789	6	GW175	"Greenford South Jn – Greenford
+Station"	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0789	7	GW176	Hanwell – Drayton Green Jn	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0789	8	GW178	Southall – Brentford Goods	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0789	9	GW180	"Heathrow Airport Jn – NR Boundary
+[12m 30ch]"	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0789	10	GW182	West Drayton – Colnbrook	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0789	11	GW184	Slough – Windsor & Eton Central	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0789	12	GW185	Maidenhead – Marlow	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0789	13	GW187	"Twyford –
+Henley-on-Thames"	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0789	14	GW190	Reading Spur Jn – Reading New Jn	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0789	15	GW195	"Reading, Southern Jn – Reading East
+Jn (Reading Low Level Line)"	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0789	16	GW200	Didcot – Heyford	Y *	Y	Y	R1	R1	Y	R1	R1	"R1Between Didcot North Jn and
+Oxford North Jn only"
+Western-and-Wales	0789	17	GW220	"Reading, Oxford Road Jn – Reading
+West Jn"	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0789	18	GW225	"Caversham Road Jn – Oxford Road
+Jn (Reading Feeder lines)"	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0789	19	GW240	"Didcot East Jn – Didcot North Jn via
+Avoiding Line"	Y	Y	Y	Y	Y	Y	N	Y	
+Western-and-Wales	0789	20	GW250	Foxhall Jn – Didcot West Curve Jn	Y	Y	Y	N	N	N	N	N	

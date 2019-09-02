@@ -1,0 +1,49 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector escription	M	Ch	M	Ch	165	166	168	170	171	172	175	180	220	221	Notes
+London-North-Western-South	0471	1	MD701	NAJ2	"rinces Risborough Jn – Site of
+ormer Ashendon Jn (Change of
+ileage)"	24	50	33	69	Y	Y	Y	N	N	R1	R2	R2	Y	Y	"R1Route prohibited to Class 172/2 and
+172/3
+R230 mph Haddenham and Thame
+Parkway Up platform"
+London-North-Western-South	0471	2	MD701	NAJ3	"ite of Former Ashendon Jn (Change
+f Mileage) – Aynho Jn"	0	00	18	35	Y	Y	Y	N	N	R1	Y	Y	Y	Y	"R1Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0471	3	MD705	ANL	"oute Boundary (GW110) (Greenford
+est Jn) – Northolt Jn (South Ruislip)"	8	60	10	15	Y	Y	Y	N	N	Y	Y	Y	Y	Y	
+London-North-Western-South	0471	4	MD710	MCJ1	"easden South Jn – Network Rail
+oundary (LUL) (Harrow-on-the-Hill
+outh Jn)"	200	66	197	05	"R1
+R2"	N	Y	N	N	"R3
+R4"	N	N	N	N	"R1Route prohibited to Class 165/1
+R2Prohibited unless fitted with tripcocks
+R3Prohibited from being the leading unit
+between on the LUL section Harrow
+on the Hill and Amersham (9m 13ch
+to 25m 21ch) due to the non fitment
+of tripcocks
+R4Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0471	5	MD712	MCJ2	"etwork Rail Boundary (LUL)
+Amersham, Mantles Wood) –
+ylesbury Jn"	25	21	38	08	"R1
+R2"	N	Y	N	N	"R3
+R4"	N	N	N	N	"R1Route prohibited to Class 165/1
+R2Prohibited on LUL section unless
+fitted with tripcocks
+R3Prohibited from being the leading unit
+on the LUL section between Harrow
+on the Hill and Amersham (9m 13ch
+to 25m 21ch) due to the non fitment
+of tripcocks
+R4Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0471	6	MD712	MCJ2	ylesbury Jn – Aylesbury	38	08	38	13	R1	N	Y	N	N	R2	N	N	N	N	"R1Route prohibited to Class 165/1
+R2Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0471	7	MD715	NJN	"easden South Jn – Route Boundary
+EA1360) (Neasden Jn)"	6	30	6	51	"E
+R1"	N	E	N	N	E	N	N	N	N	R1Route prohibited to Class 165/1
+London-North-Western-South	0471	8	MD720	NAJ2	"rinces Risborough – Change of
+ileage (Princes Risborough Jn)"	24	40	24	48	R1	N	Y	N	N	Y	N	N	N	N	R1Route prohibited to Class 165/1
+London-North-Western-South	0471	9	MD720	PRA	"hange of Mileage (Princes
+isborough Jn) – Aylesbury Jn"	42	31	49	35	R1	N	Y	N	N	Y	N	N	N	N	R1Route prohibited to Class 165/1

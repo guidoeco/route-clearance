@@ -1,0 +1,40 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	Notes
+London-North-Eastern	1024	1	LN600	ECM7	"eaton South Jn – Route Boundary
+(SC147) (Prestonpans Jn)"	1	65	69	67	N	Y	Y	N	Y	N	Y	Y	Y	N	
+London-North-Eastern	1024	2	LN618	HOS	"Holgate Jn –  Skelton Jn via York Yard
+South"	0	00	1	54	Y	Y	Y	Y	Y	N	Y	Y	Y	N	
+London-North-Eastern	1024	3	LN620	KEB	"King Edward Bridge East Jn – King
+Edward Bridge North Jn (East Curve)"	0	00	0	13	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1024	4	LN622	NEN1	Newcastle Forth Jn – Forth Banks	0	11	0	73	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1024	5	LN624	REB4	"Northallerton Castle Hills Jn – Network
+Rail Boundary (Wensleydale Railway)"	0	04	0	18	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1024	6	LN626	LEN2	"Northallerton High Jn –  Northallerton
+East Jn"	0	00	0	36	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1024	7	LN627	LLP1	"Longlands Jn (Down Line) –
+Boroughbridge Road LC"	28	58	29	72	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	8	LN627	LLP3	"Longlands Jn (Up Line) –
+Boroughbridge Road LC"	0	69	0	00	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	9	LN627	LLP2	"Boroughbridge Road LC –
+Northallerton East Jn"	42	21	42	79	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	10	LN627	LEN3	Northallerton East Jn – Billingham Jn	42	79	63	69	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	11	LN627	LEN3	Billingham Jn – Ryhope Grange Jn	63	69	87	63	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	12	LN627	LEN3	"Ryhope Grange Jn – Sunderland
+South Jn"	87	63	89	56	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	13	LN627	LEN3	Sunderland South Jn – Boldon East Jn	89	56	94	63	EH	EH	EH	EH	EH	N	EH	EH	"H
+R1"	N	"R1OPPOS applies between
+Monkwearmouth Jn and East Boldon"
+London-North-Eastern	1024	14	LN627	LEN3	Boldon East Jn – Boldon West Jn	94	63	95	16	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	15	LN627	LEN3	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	16	LN627	LEN3	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	17	LN627	LEN3	Park Lane Jn – High Level Bridge Jn	100	65	101	33	EH	EH	EH	EH	EH	N	EH	EH	H	N	
+London-North-Eastern	1024	18	LN627	LEN3	"High Level Bridge Jn – Newcastle East
+Jn"	101	33	101	59	Y	Y	Y	Y	Y	N	Y	Y	H	N	
+London-North-Eastern	1024	19	LN628	NEK	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1024	20	LN629	PDL	"Pelaw Metro Jn – Network Rail
+Boundary (Metro Operating)"	97	64	98	01	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1024	21	LN630	PUL	"Pelaw Metro Jn – Network Rail
+Boundary (Metro Operating)"	97	64	97	77	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1024	22	LN631	DSN1	"Darlington South Jn – Eaglescliffe
+South Jn"	0	29	8	58	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1024	23	LN632	DSN2	"Stockton Cut Jn – Redcar Change of
+Mileage"	10	13	21	72	N	N	N	N	N	N	N	N	H	N	

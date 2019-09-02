@@ -1,0 +1,37 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Western-and-Wales	0806	1	GW182	STA	"West Drayton Jn  – End of Branch
+(Colnbrook)"	13	31	16	25	8	Y	
+Western-and-Wales	0806	2	GW184	WIN	Slough  – Windsor & Eton Central	18	36	21	19	3	Y	
+Western-and-Wales	0806	3	GW185	WBB	Maidenhead  – Bourne End	24	19	28	55	6	Y	
+Western-and-Wales	0806	4	GW185	MWB	Bourne End GF  – Marlow	0	06	2	54	6	Y	
+Western-and-Wales	0806	5	GW187	HEN	Twyford  – Henley-on-Thames	31	01	35	48	4	Y	
+Western-and-Wales	0806	6	GW190	RNJ	"Route Boundary (SW210) (Reading
+Spur Jn)  – Reading New Jn"	68	00	68	35	8	Y	
+Western-and-Wales	0806	7	GW200	DCL	"Chester Line Jn – Route Boundary
+(MD401) (Heyford)"	53	12	75	00	8	Y	
+Western-and-Wales	0806	8	GW220	RWC	"Reading, Oxford Road Jn  – Reading
+West Jn"	0	43	0	02	8	Y	
+Western-and-Wales	0806	9	GW240	DEC	Didcot East Jn  – Didcot North Jns	52	66	54	00	8	Y	
+Western-and-Wales	0806	10	GW250	DWC	Foxhall Jn  – Didcot West Curve Jn	0	01	0	32	8	Y	
+Western-and-Wales	0806	11	GW260	THA	Kennington Jn  – Morris Cowley	18	45	16	04	7	Y	
+Western-and-Wales	0806	12	GW277	OXD	"Oxford North Jn – Route Boundary
+(MD736) (29m 25ch)"	30	09	29	25	8	Y	
+Western-and-Wales	0806	13	GW300	ABW	Abbotswood Jn  – Norton Jn	0	00	0	62	8	Y	
+Western-and-Wales	0806	14	GW300	OWW	Norton Jn  – Shrub Hill Jn	117	26	120	46	8	Y	
+Western-and-Wales	0806	15	GW300	OWW	Shrub Hill Jn  – Droitwich Spa Jn	120	46	126	21	8	Y	
+Western-and-Wales	0806	16	GW300	STO	Droitwich Spa Jn  – Stoke Works Jn	126	21	130	25	8	Y	
+Western-and-Wales	0806	17	GW310	OWW	Wolvercot Jn  – Norton Jn	66	32	117	26	7	Y	
+Western-and-Wales	0806	18	GW317	OWW	"Honeybourne Stratford Line Junction
+– Start of branch mileage"	102	06	101	31	7	Y	
+Western-and-Wales	0806	19	GW317	STD	"Start of branch mileage  – Long
+Marston"	0	00	2	70	7	Y	
+Western-and-Wales	0806	20	GW340	WAH	"Shrub Hill Jn – Henwick SB (Branch
+Single)"	120	46	121	65	7	Y	
+Western-and-Wales	0806	21	GW340	WAH	Henwick SB – Shelwick Jn	120	46	148	11	7	"R1
+R2
+R3"	"R1Prohibited between Great Malvern and Malvern Wells SB on the
+Down Main line
+R2Prohihited Malvern Link Up platform
+R3Prohibited through Ledbury Tunnel (Up and Down line)"
+Western-and-Wales	0806	22	GW350	BLW	"Worcester Tunnel Jn  – Site of former
+Rainbow Hill Jn Change of ELR"	0	30	0	00	7	Y	

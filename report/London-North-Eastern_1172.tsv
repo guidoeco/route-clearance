@@ -1,0 +1,40 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge	Notes							
+London-North-Eastern	1172	1			W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1172	2	LN904	"Hambleton South Jn – Hambleton West
+Jn"	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1172	3	LN906	"Hambleton East Jn – Hambleton North
+Jn"	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1172	4	LN908	Selby West Jn – Canal Jn	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1172	5	LN910	Temple Hirst Jn – Selby South Jn	Y	Y	Y	R1	N	R1	N	R1	R1Prohibited from Selby South Up sidings
+London-North-Eastern	1172	6	LN912	Thorne Jn – Gilberdyke Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1172	7	LN914	"West Parade Jn (Hull) – West Parade
+North Jn"	S1 *	N	N	N	N	N	N	N	"S1Freight vehicles conforming to the W6a
+profile are permitted, EXCEPT  IFA-S  IFA-
+U wagons"
+London-North-Eastern	1172	8	LN914	"West Parade North Jn – Seamer West
+Jn"	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1172	9	LN916	Hessle Road – Saltend	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1172	10	LN918	Springbank North Jn – Walton Street Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1172	11	LN920	"Anlaby Road Jn – West Parade North
+Jn"	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1172	12	LN922	Whitehall West Jn – Hellifield South Jn	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1172	13	LN924	Apperley Jn – Ilkley	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1172	14	LN926	Dockfield Jn – Esholt Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1172	15	LN928	"Shipley East Jn – Bradford Forster
+Square"	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1172	16	LN930	Skipton Middle Jn – Rylstone	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1172	17	LN932	Shipley South Jn – Shipley West Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1172	18	LN3140	"Bedford St. John's (Exclusive) –
+Bedford Station"	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1172	19	LN3201	St. Pancras – Cricklewood	Y *	R1	R1	N	N	N	N	N	"R1W8 W7 Prohibited EXCEPT Up Hendon,
+Down Hendon between Cricklewood Curve
+Jn and West Hampstead North Jn"
+London-North-Eastern	1172	20	LN3201	Cricklewood – Bedford	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1172	21	LN3201	Bedford – Wellingborough	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1172	22	LN3201	Wellingborough – Wigston Sth Jn	S1 *	N	N	N	N	N	N	N	"S1Freight vehicles conforming to the W6a
+profile are permitted, EXCEPT  IFA-S, IFA-
+U  wagons"
+London-North-Eastern	1172	23	LN3201	Wigston South Jn – Leicester	Y *	Y	R1	R1	N	R1	N	N	"R1PROHIBITED Wigston South Jn to Wigston
+North Jn"
+London-North-Eastern	1172	24	LN3201	Leicester – Ratcliffe Jn	Y	Y	R1	R1	N	R1	N	N	"R1PROHIBITED Sytton South Jn to Ratcliffe
+Jn"

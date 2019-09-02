@@ -1,0 +1,37 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	Mk3 (MOD)	MK3DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Western-South	0498	1	MD401	"BCV/D
+CL"	"Tyseley South Jn – Small Heath South
+Jn"	125	73	126	59	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	2	MD401	BCV	Small Heath South Jn – Bordesley Jn	126	59	128	11	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	3	MD405	LSC1	"Leamington Spa North Jn – Milverton
+Change of ELR"	106	25	107	06	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	4	MD405	LSC2	"Milverton Change of ELR – Coventry
+South Jn"	0	00	8	45	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	5	MD410	CNN	Coventry North Jn – Nuneaton South Jn	0	00	9	53	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0498	6	MD415	HSA	Hatton Station Jn – Bearley Jn	18	12	12	48	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	7	MD415	HSA	"Bearley Jn – Stratford Upon Avon (End
+of Headshunt)"	12	48	8	63	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	8	MD420	HHW	Hatton North Jn – Hatton West Jn	18	25	17	62	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	9	MD425	TSB	Tyseley South Jn – Bearley Jn	0	00	17	71	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	10	MD430	OWW	"Route Boundary (GW370) (Droitwich
+Spa) – Kidderminster"	130	40	135	46	Y	Y	Y	"EH
+R1"	N	R1	N	"R1Prohibited between
+Hartlebury and Route
+Boundary (GW370) (Cutnall
+Green)"
+London-North-Western-South	0498	11	MD430	OWW	Kidderminster – Stourbridge North Jn	135	46	142	51	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	12	MD435	DCL	"Small Heath South Jn – Site of Former
+Handsworth Jn"	126	59	132	47	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	13	MD435	HSJ	"Site of Former Handsworth Jn –
+Smethwick Jn"	132	47	133	32	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	14	MD435	GSJ2	Smethwick Jn – Stourbridge North Jn	133	32	141	06	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0498	15	MD440	GSJ1	Galton Jn – Smethwick Jn	3	64	4	08	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0498	16	MD445	SJS	Stourbridge Jn – Stourbridge Town	142	16	142	78	Y	Y	N	N	N	N	N	
+London-North-Western-South	0498	17	MD450	OWW	Stourbridge North Jn – Round Oak	142	15	146	13	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0498	18	MD455	KWD	"Kingswinford Jn – Network Rail
+Boundary"	144	33	145	60	N	N	N	N	N	N	N	"Line out of use
+NME/2005/LNW284"
+London-North-Western-South	0498	19	MD460	SJT1	"Kineton MOD Branch – Burton Dassett
+(MOD Kineton)"	22	60	25	60	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0498	20	MD501	DBP1	"Route Boundary (LN3501) (London
+Road Jn) – Kingsbury Jn"	23	30	29	39	Y	Y	Y	EH	N	Y	N	

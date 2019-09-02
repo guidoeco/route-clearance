@@ -1,0 +1,47 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	121	150	153	156	158	159	165	Notes
+Kent-Sussex-Wessex	0978	1	SW105	BML2	Northam Jn – Worgret Jn	78	15	121	77	Y	"R1
+R2
+R3
+R4"	"R5
+R6
+R7"	Y	"R8
+R9"	"R8
+R9"	N	"R1Prohibited between Redbridge and
+Worgret Jn on the Down line
+R2Prohibited between Redbridge and
+Worgret Jn on the Up line when laden,
+additionally
+10mph through station platforms
+R3Prohibited with deflated suspension
+R4Prohibited Southampton Central  Down
+Bay Siding and Bay Siding East
+R5Prohibited between Redbridge and
+Worgret Jn
+R620mph Southampton Central platform 1
+R730mph Southampton Central platform 3
+R830mph Totton Up platform
+R920mph Sway Down platform"
+Kent-Sussex-Wessex	0978	2	SW105	FUR	"Worgret Jn  – Network Rail Boundary
+(Swanage Railway)"	126	30	129	55	N	N	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0978	3	SW105	BML2	Worgret Jn – Dorchester Jn	121	77	136	15	Y	"E
+R1
+R2
+R3"	N	Y	Y	Y	N	"R1Prohibited on the Down line
+R210mph through station platforms
+R3Prohibited with deflated suspension"
+Kent-Sussex-Wessex	0978	4	SW105	BML3	Dorchester Jn – Weymouth	162	14	168	63	Y	Y	Y	Y	Y	Y	N	
+Kent-Sussex-Wessex	0978	5	SW110	WPH1	Woking Jn – Guilford	24	62	30	27	Y	N	N	N	"R1
+R2"	"R1
+R2"	"R3
+R4"	"R115mph Worplesdon Up platform 1
+R230mph Worplesdon Down platform 2
+R310mph through Worplesdon
+R4Prohibited Guildford platform 1"
+Kent-Sussex-Wessex	0978	6	SW110	WPH1	Guilford – Shalford Jn	30	27	31	42	Y	N	N	N	Y	Y	Y	
+Kent-Sussex-Wessex	0978	7	SW110	WPH1	Shalford Jn – Haslemere	31	42	42	79	Y	N	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0978	8	SW110	WPH1	Haslemere – Havant Jn	42	79	66	17	Y	N	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0978	9	SW110	TBH2	"Route Boundary (Sussex SO250)
+(Barnham) – Havant Jn [Duplicated on
+SO520]"	35	35	37	25	Y	N	N	N	Y	Y	N	
+Kent-Sussex-Wessex	0978	10	SW110	WPH2	"Havant Jn – Farlington Jn [Duplicated
+on SO520]"	37	24	40	33	Y	Y	N	Y	Y	Y	N	

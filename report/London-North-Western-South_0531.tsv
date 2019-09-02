@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-South	0531	1	MD306	BAG1	"King's Norton Station Jn – King's Norton
+Jn (Change of Mileage)"	47	48	48	02	8	Y	Y	Y	Y	N	N	
+London-North-Western-South	0531	2	MD306	BAG2	"King's Norton Jn (Change of Mileage) –
+Barnt Green Jn"	46	77	51	58	8	Y	Y	Y	Y	N	N	
+London-North-Western-South	0531	3	MD306	BAG2	Barnt Green Jn – Stoke Works Jn	51	58	51	58	8	"H
+R1"	N	Y	N	N	N	"R1Prohibited 52m 40ch to
+Stoke Works Jn"
+London-North-Western-South	0531	4	MD306	BAG2	toke Works Jn – Abbotswood Jn	57	43	68	60	8	N	N	Y	N	N	N	
+London-North-Western-South	0531	5	MD306	BAG2	"Abbotswood Jn – Route Boundary
+(GW401) (Ashchurch)"	68	60	77	40	8	N	N	Y	N	N	N	
+London-North-Western-South	0531	6	MD310	BEA	Barnt Green Jn – Redditch	51	58	56	60	8	Y	Y	Y	Y	N	N	
+London-North-Western-South	0531	7	MD315	SAS	"Stechford South Jn – Stechford North Jn
+(via Up Line)"	-0	20	-0	04	8	Y	Y	Y	Y	N	N	
+London-North-Western-South	0531	8	MD315	SAS	Stechford North Jn – Aston South Jn	-0	04	2	61	8	Y	Y	Y	N	N	N	
+London-North-Western-South	0531	9	MD320	RBS1	"Proof House Jn – Curzon Street Jn
+(Change of Mileage)"	112	19	112	07	8	Y	Y	Y	N	N	N	
+London-North-Western-South	0531	10	MD320	PBJ	"Curzon Street Jn (Change of Mileage) –
+Aston South Jn"	0	00	1	60	8	Y	Y	Y	N	N	N	
+London-North-Western-South	0531	11	MD320	PBJ	Aston South Jn – Aston North Jn	1	60	1	73	8	Y	Y	Y	Y	N	N	
+London-North-Western-South	0531	12	MD320	PBJ	Aston North Jn – Bescot Jn	1	73	8	50	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	13	MD320	PBJ	Bescot Jn – Bushbury Jn	8	50	15	32	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	14	MD325	SSP	Soho South Jn – Perry Barr West Jn	2	71	0	39	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	15	MD325	PBL	Perry Barr West Jn – Perry Barr North Jn	0	29	0	00	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	16	MD330	SCL	Soho East Jn – Soho North Jn	0	00	0	22	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	17	MD335	SSP	Perry Barr West Jn – Perry Barr South Jn	0	39	0	00	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	18	MD340	ALC1	"ston North Jn – Sutton Coldfield Change
+of ELR"	0	00	5	00	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	19	MD340	ALC2	"Sutton Coldfield Change of ELR –
+Lichfield City Jn"	5	00	13	33	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	20	MD340	BJW3	"Lichfield City Jn – Lichfield Trent Valley
+(End of Electrification)"	16	47	18	05	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	21	MD340	BJW3	"Lichfield Trent Valley – Route Boundary
+(LN3340) (Wichnor Jn)"	18	05	19	00	8	H	H	Y	Y	N	Y	
+London-North-Western-South	0531	22	MD345	BJW1	"Bescot Jn – Walsall Pleck Jn (Change of
+Mileage)"	0	00	0	65	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0531	23	MD345	BJW2	"Walsall Pleck Jn (Change of Mileage) –
+Limit of Electrification"	5	42	6	34	8	Y	Y	Y	Y	N	N	
+London-North-Western-South	0531	24	MD345	BJW2	Limit of Electrification – Ryecroft Jn	6	34	6	76	8	H	H	Y	H	N	N	

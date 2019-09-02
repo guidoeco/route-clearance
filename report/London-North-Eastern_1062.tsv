@@ -1,0 +1,40 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1062	1	LN702	BWC	"Bedlington North –  Network Rail
+Boundary (Lynemouth Colliery)"	0	00	4	14	N	N	N	N	N	N	N	
+London-North-Eastern	1062	2	LN704	ISC	"Newsham North Jn – Network Rail
+Boundary (Blyth Bates Terminal)"	0	00	0	36	N	N	N	N	N	N	N	"Line out of use
+NME/2010/LNE/006 and NME/2010/LNE009"
+London-North-Eastern	1062	3	LN706	WSB	West Sleekburn Jn – North Blyth	0	00	3	22	N	N	N	N	N	N	N	
+London-North-Eastern	1062	4	LN708	MWJ	Winning Jn – Marchey's House Jn	0	31	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1062	5	LN724	HOS	"Holgate Jn –  Skelton Jn via York Yard
+South"	0	00	1	54	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1062	6	LN736	MAC3	Cleethorpes – Grimsby Docks	112	40	110	11	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	7	LN736	MAC3	Grimsby Docks – Marsh West Jn	110	11	107	69	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	8	LN736	MAC3	Marsh West Jn – Wrawby Jn	107	69	94	12	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	9	LN736	MAC3	Wrawby Jn – West Burton East Jn	94	12	72	18	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	10	LN736	MAC3	"West Burton East Jn –  Thrumpton West
+Jn (Up)"	72	18	63	28	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	11	LN736	MAC3	Thrumpton West Jn (Up) – Manton Wood	63	28	58	54	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	12	LN736	MAC3	Manton Wood – Brancliffe East Jn	58	54	53	57	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	13	LN736	MAC3	Brancliffe East Jn – Woodburn Jn	53	57	42	29	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	14	LN736	NUJ2	"Woodburn Jn – Site of Former Nunnery
+Jn"	42	29	41	68	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	15	LN736	NUJ1	"Site of Former Nunnery Jn – Nunnery
+Main Line Jn"	159	33	158	77	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	16	LN738	MWN	"reat Coates No. 1 – Network Rail
+Boundary (ABP)"	108	34	108	44	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	17	LN740	MWN	"arsh West Jn – Network Rail Boundary
+(ABP)"	107	69	108	44	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	18	LN740	PYE2	"Network Rail Boundary (ABP) – Site of
+Former Queens Road Jn"	4	33	0	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	19	LN740	PYE1	"Site of  Former Queens Road Jn –
+Immingham East Jn"	106	50	106	31	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	20	LN740	BRI2	Immingham East Jn – Humber Road Jn	106	31	104	05	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	21	LN741	HAU	Habrough – Ulceby South Jn	0	32	1	45	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	22	LN742	KIL2	"Killingholme – Immingham West Change
+of Mileage"	2	70	0	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	23	LN742	KIL1	"Immingham West Change of Mileage –
+Humber Rd Jn"	105	10	104	05	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	24	LN742	BRI2	Humber Rd Jn – Ulceby North Jn	104	05	100	44	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	25	LN742	BRI1	Ulceby North Jn – Brocklesby West Jn	100	44	99	20	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1062	26	LN744	BAR	Ulceby North Jn – Barton on Humber	100	44	110	18	Y	Y	N	N	N	N	N	

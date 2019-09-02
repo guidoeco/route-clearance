@@ -1,0 +1,52 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	165	166	168	170	171	172	175	180	220	221	Notes
+London-North-Western-South	0465	1	MD145	CRC2	"Route Boundary (EA1320) (Camden
+Road West Jn) – Camden Jn (North DC
+lines)"	5	42	5	78	Y	N	N	Y	N	E	N	N	N	E	
+London-North-Western-South	0465	2	MD150	KGW	"Route Boundary (EA1310) (Kensal
+Green Jn) – Willesden Suburban Jn"	5	25	5	36	"E
+R1"	N	E	N	N	R2	N	N	N	N	"R1Route prohibited to Class 165/1
+R2Prohibited to Class 172/2 and 172/3
+when laden"
+London-North-Western-South	0465	3	MD155	KGC	"Route Boundary (EA1310) (Kensal
+Green Jn) – Harlesden Jn"	0	21	1	00	N	N	N	N	N	"E
+R1"	N	E	N	N	"R1Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0465	4	MD160	WMB	"Route Boundary (EA1310) (Willesden
+High Level Jn) – Mitre Bridge Jn"	0	09	0	00	N	N	N	N	N	Y	N	N	N	N	
+London-North-Western-South	0465	5	MD166	WLL	"Route Boundary (SO250) (North Pole Jn)
+– Mitre Bridge Jn"	5	65	5	67	N	N	N	N	Y	Y	N	Y	Y	Y	
+London-North-Western-South	0465	6	MD166	WLL	"Mitre Bridge Jn – West London Jn
+(Willesden)"	5	67	6	19	N	N	N	N	Y	Y	N	Y	Y	Y	
+London-North-Western-South	0465	7	MD166	LLG	"West London Jn (Willesden) – Wembley
+Central Jn (Willesden Relief lines)"	0	12	2	59	"E
+R1"	N	E	N	N	Y	Y	R2	Y	Y	"R1Route prohibited  to Class 165/1
+R2For access to Wembley Yard"
+London-North-Western-South	0465	8	MD167	WLL	"Mitre Bridge Jn – West London Jn
+(Willesden)"	5	67	6	19	N	N	N	N	Y	Y	N	Y	Y	Y	
+London-North-Western-South	0465	9	MD167	WAW	"West London Jn (Willesden) – Route
+Boundary (EA1360) (Acton Wells)"	6	19	6	76	N	N	N	N	Y	N	N	Y	Y	Y	
+London-North-Western-South	0465	10	MD170	ACW	"Route Boundary (EA1360) (Acton Canal
+Wharf Jn) – Willesden Jn"	0	11	0	00	"E
+R1
+R2"	N	E	Y	N	"E
+R3"	Y	Y	Y	Y	"R1Route prohibited to Class 165/1
+R2Prohibited with footsteps fitted.
+R3Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0465	11	MD175	BPH	"Bridge Street LC – Site of Former Bridge
+Street Jn"	4	56	4	29	N	N	N	N	N	N	N	N	N	N	"Line out of use
+NC/G1/2014/LNW443v2"
+London-North-Western-South	0465	12	MD175	BDN	"Site of Former Bridge Street Jn – Site of
+Former Duston North Jn"	0	00	0	18	N	N	N	N	N	N	N	N	N	N	"Line out of use
+NC/G1/2014/LNW443v2"
+London-North-Western-South	0465	13	MD175	NMH	"Site of Former Duston North Jn –
+Northampton South Jn"	0	29	0	65	N	N	N	N	N	N	N	N	N	N	"Line out of use
+NC/G1/2014/LNW443v2"
+London-North-Western-South	0465	14	MD180	RTS	Rugby Trent Valley Jn – New Bilton	0	00	0	79	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0465	15	MD232	NMA	Abbey Jn – Midland Yard Jn	9	60	10	09	N	N	N	Y	N	N	N	N	Y	Y	
+London-North-Western-South	0465	16	MD232	PVS	"Midland Yard Jn – Limit of Electrification
+(Up Direction)"	10	09	10	39	N	N	N	Y	N	N	N	N	Y	Y	
+London-North-Western-South	0465	17	MD232	PVS	"Limit of Electrification (Up Direction) –
+Nuneaton South Change of ELR"	10	39	10	61	N	N	N	Y	N	N	N	N	Y	Y	
+London-North-Western-South	0465	18	MD232	WNS	"Nuneaton South Change of ELR –
+Nuneaton South Jn"	0	00	0	05	N	N	N	Y	N	N	N	N	Y	Y	

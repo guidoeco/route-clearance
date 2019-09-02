@@ -1,0 +1,49 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	314	318	320	322	325	334	350	380	390	Notes
+Scotland	0989	1	SC081	BYL	Byrehill Jn – Dubbs Jn	0	60	0	00	Y	Y	R1	Y	H	Y	N	E	N	R1Prohibited Class 320/4
+Scotland	0989	2	SC085	AYH1	Ayr Harbour – Newton Jn (Goods Line)	0	17	0	00	N	N	N	N	N	N	N	N	N	
+Scotland	0989	3	SC087	ANN	Newton Jn – Mauchline (Goods Line)	39	42	50	16	N	N	N	N	EH	N	N	N	N	
+Scotland	0989	4	SC089	KCH1	Annbank – Change of ELR	43	52	48	73	N	N	N	N	N	N	N	N	N	
+Scotland	0989	5	SC089	KCH2	"Change of ELR – Killoch Colliery
+(Goods Line)"	0	00	3	43	N	N	N	N	N	N	N	N	N	
+Scotland	0989	6	SC091	WAT	"Dalrymple Jn – Chalmerston (Goods
+Line)"	43	53	52	70	N	N	N	N	N	N	N	N	N	
+Scotland	0989	7	SC093	SCM1	Motherwell – Mossend South	89	51	91	08	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0989	8	SC093	SCM2	Mossend South – Whifflet North Jn	91	08	94	05	Y	Y	Y	Y	N	Y	Y	N	N	
+Scotland	0989	9	SC093	SCM3	"Whifflet North Jn – Gartsherrie South Jn
+(Limit of OLE)"	94	05	95	64	Y	Y	Y	Y	H	Y	"R1
+R2
+R3
+R4"	N	N	"R1Prohibited between Coatbridge Central and
+Gartsherrie South Jn (Limit of OLE)
+R2Prohibited Coatbridge Central on the Up and
+Down line with deflated suspension
+R3Prohibited underbridge No.95 Buchanan Street
+on the Down line with delated suspension
+R4Prohibited underbridge No.93 Bank Street on the
+Up line"
+Scotland	0989	10	SC093	SCM3	"Gartsherrie South Jn (Limit of OLE) –
+Greenhill Lower Jn"	95	64	106	63	R2	R2	R2	N	"H
+R1"	R2	N	R2	N	"R115mph Coatbridge Central Down platform
+R2Prohibited between Limit of Electrification
+(Cumbernauld) and Greenhill Lower Jn"
+Scotland	0989	11	SC097	SYE	"Whifflet South Jn – Sunnyside Jn
+(Goods Line)"	9	63	8	43	R1	R1	R1	R1	N	R1	N	N	N	R115mph maximum speed
+Scotland	0989	12	SC099	RSL2	Whifflet North Jn – Change of ELR	0	00	0	34	Y	Y	Y	N	H	Y	Y	Y	N	
+Scotland	0989	13	SC099	RSL1	Change of ELR – Langloan Jn	6	59	6	34	Y	Y	Y	N	H	Y	Y	Y	N	
+Scotland	0989	14	SC099	RCB	Langloan Jn – Rutherglen East Jn	6	34	0	04	Y	Y	Y	N	N	Y	Y	Y	N	
+Scotland	0989	15	SC101	RCB	Coatbridge Jn – Langloan Jn	7	03	6	34	Y	Y	Y	N	H	Y	R1	Y	N	R1Class 350/4 only
+Scotland	0989	16	SC103	CBD1	Garnqueen North Jn – Gartcosh Jn	1	33	0	00	Y	Y	Y	N	H	Y	N	Y	N	
+Scotland	0989	17	SC103	CBD2	Gartcosh Jn – Change of ELR	97	09	103	41	Y	Y	Y	N	H	Y	N	Y	N	
+Scotland	0989	18	SC103	SGN	Change of ELR – Cowlairs West Jn	0	61	-0	20	Y	Y	R1	N	H	Y	N	Y	N	R1Prohibited Class 320/4
+Scotland	0989	19	SC105	GHE	Gartsherrie South Jn – Gartcosh Jn	95	64	97	06	Y	Y	Y	N	H	Y	N	Y	N	
+Scotland	0989	20	SC106	PNS	"Sighthill West Jn – Cowlairs South Jn
+(Chord Line)"	0	30	0	00	Y	Y	R1	N	H	Y	N	Y	N	R1Prohibited Class 320/4
+Scotland	0989	21	SC107	ECM9	"Waverley East End – Edinburgh
+Waverley"	0	21	0	00	Y	Y	Y	Y	Y	Y	E	Y	R1	"R1Prohibited Edinburgh Waverley platforms 1, 3, 4
+and 20"
+Scotland	0989	22	SC107	EGM4	"Edinburgh Waverley – Waverley West
+End (South Lines)"	0	00	0	15	Y	Y	Y	Y	Y	Y	Y	Y	R1	"R1Prohibited Edinburgh Waverley platforms 12, 13
+and 14"
+Scotland	0989	23	SC107	ECN1	"Edinburgh Waverley – Waverley West
+End (North Lines)"	0	00	0	15	Y	Y	Y	Y	Y	Y	N	Y	R1	"R1Prohibited Edinburgh Waverley platforms 1, 15,
+16, 17, 18 and 20"

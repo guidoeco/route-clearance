@@ -1,0 +1,42 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	37/7	37/9	43	47/2	47/4	47/7	56	57	Notes
+Kent-Sussex-Wessex	1029	1	SW210	RDG1	Richmond – Virginia Water	9	57	23	15	8	Y	Y	"R1
+R2
+R3
+R4
+R5"	Y	Y	Y	Y	Y	"R110mph Twickenham Down platform
+R210mph Whitton Down platform
+R320mph Feltham Down platform
+R420mph Virginia Water Down platform
+R520mph Egham Down platform"
+Kent-Sussex-Wessex	1029	2	SW210	RDG1	Virginia Water – Wokingham Jn	23	15	36	35	8	Y	Y	"R1
+R2
+R3
+R4"	Y	Y	Y	Y	Y	"R115mph Sunningdale Down platform
+R220mph Ascot  Down platform
+R3Prohibited Ascot Up line
+R45mph Bracknell Up and Down
+platforms"
+Kent-Sussex-Wessex	1029	3	SW210	RDG2	Wokingham Jn – Reading Spur Jn	61	72	67	76	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	4	SW210	RNJ	"Reading Spur Jn – Route Boundary
+(GW190) (Reading New Jn)"	68	00	67	76	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	5	SW210	RDG2	"Reading Spur Jn – Reading Southern
+Jn"	67	76	68	25	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	6	SW210	RLL	"Route Boundary Western (Reading
+East Main Jn) – Reading Southern Jn"	35	35	0	00	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	7	SW210	RDG2	"Reading Southern Jn – Reading
+platforms 4, 5 and 6"	68	25	68	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	8	SW220	CKL	"Latchmere Jn No.3 – Latchmere Jn
+No.1 [Duplicated in SO250]"	2	39	2	50	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	9	SW220	WLL	"Latchmere Jn No.1 – Latchmere Jn
+No.2 [Duplicated in SO250]"	0	63	0	68	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	10	SW220	WLL	"Latchmere Jn No.2 – Kensington
+Olympia [Duplicated in SO250]"	0	71	3	42	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	11	SW225	PPW	"Point Pleasant Jn – Network Rail
+Boundary (TfL – District Line)"	5	09	5	67	6	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1029	12	SW225	PPW	"Network Rail Boundary (TfL – District
+Line)  – Wimbledon North Jn (TfL
+infrastructure)"	5	67	8	26	6	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	1029	13	SW230	HOU	Barnes – New Kew Jn	7	07	9	34	8	Y	Y	Y	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	14	SW230	NKE2	"New Kew Jn – Route Boundary
+(EA1330) (Kew East Jn)"	9	34	9	64	8	Y	Y	N	Y	Y	Y	Y	Y	
+Kent-Sussex-Wessex	1029	15	SW230	HOU	New Kew Jn – Old Kew Jn	9	34	10	01	8	Y	Y	Y	Y	Y	Y	Y	Y	

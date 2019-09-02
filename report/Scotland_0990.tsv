@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	314	318	320	322	325	334	350	380	390	Notes
+Scotland	0990	1	SC107	EGM3	"Waverley West End – Haymarket
+(South Lines)"	0	15	1	19	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0990	2	SC107	ECN2	"Waverley West End – Haymarket
+(North Lines)"	0	15	1	19	Y	Y	Y	Y	Y	Y	N	Y	Y	
+Scotland	0990	3	SC107	EGM2	"Haymarket – Haymarket East Jn
+(South Lines)"	46	02	45	72	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0990	4	SC107	ECN2	"Haymarket – Haymarket East Jn (North
+Lines)"	1	19	1	29	Y	Y	Y	Y	Y	Y	N	Y	N	
+Scotland	0990	5	SC107	EGM2	"Haymarket East Jn – Haymarket
+Central Jn (South Lines)"	45	72	45	35	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0990	6	SC107	ECN2	"Haymarket East Jn – Haymarket
+Central Jn (North Lines)"	1	29	1	66	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0990	7	SC107	EGM2	"Haymarket Central Jn – Haymarket
+West Jn (South Lines)"	45	35	44	73	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0990	8	SC107	ECN2	"Haymarket Central Jn – Haymarket
+West Jn (North Lines)"	1	66	2	41	Y	Y	R1	Y	H	Y	N	Y	N	R1Prohibited Class 320/4
+Scotland	0990	9	SC107	EGM1	"Haymarket West Jn – Cowlairs West
+Jn"	44	73	1	67	R1	R1	R1	R1	H	R1	N	Y	N	"R1Prohibited between Newbridge Jn and
+Cowlairs West Jn"
+Scotland	0990	10	SC107	EGM1	"Cowlairs West Jn – Glasgow Queen
+Street"	1	67	0	00	N	N	N	N	H	N	N	Y	N	
+Scotland	0990	11	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	N	N	N	N	H	N	N	N	N	
+Scotland	0990	12	SC109	PMT	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	N	N	N	N	H	N	N	N	N	
+Scotland	0990	13	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	N	N	N	N	H	N	N	N	N	
+Scotland	0990	14	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	N	N	N	N	H	N	N	N	N	
+Scotland	0990	15	SC109	GHL	"Greenhill Lower Jn – Greenhill Upper
+Jn"	0	52	0	00	N	N	N	N	H	N	N	N	N	
+Scotland	0990	16	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	N	N	N	N	H	N	N	N	N	
+Scotland	0990	17	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0990	18	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	N	N	N	N	H	N	N	N	N	
+Scotland	0990	19	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	N	N	N	N	H	N	N	N	N	
+Scotland	0990	20	SC115	MRL2	"Maryhill Park Jn – Knightswood North
+Jn"	4	40	5	67	N	N	N	N	H	N	N	N	N	
+Scotland	0990	21	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	N	N	N	N	H	N	N	N	N	

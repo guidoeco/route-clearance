@@ -1,0 +1,43 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	325	332	360	387	Notes
+Western-and-Wales	0724	1	GW900	SWM2	Llandore Jn – Llandeilo Jn	214	62	223	49	H	N	N	N	
+Western-and-Wales	0724	2	GW900	SWM2	Llandeilo Jn – Carmarthen Bridge Jn	223	49	245	32	H	N	N	N	
+Western-and-Wales	0724	3	GW900	SWM2	Carmarthen Bridge Jn – Whitland Jn	245	32	259	01	H	N	N	N	
+Western-and-Wales	0724	4	GW900	SWM2	Whitland Jn – Clarbeston Road Jn	259	01	271	08	H	N	N	N	
+Western-and-Wales	0724	5	GW900	CRL	"Clarbeston Road Jn – Change of ELR
+(Letterston Jn)"	271	08	281	58	H	N	N	N	
+Western-and-Wales	0724	6	GW900	NPF	"Change of ELR (Letterston Jn) –
+Network Rail Boundary (Fishguard
+Harbour)"	283	30	287	52	H	N	N	N	
+Western-and-Wales	0724	7	GW9001	SWA	Landore Jn – Swansea	214	62	216	07	H	N	N	N	
+Western-and-Wales	0724	8	GW906	SWL	"Swansea Loop East Jn – Swansea
+Loop West Jn"	0	53	0	00	H	N	N	N	
+Western-and-Wales	0724	9	GW910	CWL1	Craven Arms Jn – Change of Mileage	20	01	20	12	H	N	N	N	
+Western-and-Wales	0724	10	GW910	CWL2	"Change of Mileage – Site of Former
+Llandovery Jn"	0	00	59	14	H	N	N	N	
+Western-and-Wales	0724	11	GW910	VOT	"Site of Former Llandovery Jn –
+Llandeilo"	29	40	18	07	H	N	N	N	
+Western-and-Wales	0724	12	GW910	LLA	Llandeilo – Pantyffynnon	18	07	10	08	H	N	N	N	
+Western-and-Wales	0724	13	GW910	LLA	Pantyffynnon – Morlais Jn	10	08	3	50	H	N	N	N	
+Western-and-Wales	0724	14	GW910	LLA	Morlais Jn – Llandeilo Jn	3	50	0	00	H	N	N	N	
+Western-and-Wales	0724	15	GW915	GWA	"Gwaun-cae-Gurwen – Former Jn
+(Change of ELR)"	16	41	14	60	N	N	N	N	
+Western-and-Wales	0724	16	GW915	GNT	"Former Jn (Change of ELR) –
+Pantyffynnon"	14	60	10	04	N	N	N	N	
+Western-and-Wales	0724	17	GW930	CAN	"Carmarthen Jn – End of Line (Beyond
+Carmarthen Station)"	245	10	245	65	H	N	N	N	
+Western-and-Wales	0724	18	GW940	"CAN/
+CNW"	"Up Sidings No.2 GF – Carmarthen
+Bridge Jn"	245	43	245	32	H	N	N	N	
+Western-and-Wales	0724	19	GW950	PEM	Whitland Jn – Pembroke RA Change	259	01	284	22	H	N	N	N	
+Western-and-Wales	0724	20	GW950	PEM	"Pembroke RA Change – Pembroke
+Dock"	284	22	286	26	H	N	N	N	
+Western-and-Wales	0724	21	GW960	SWM2	Clarbeston Road – Haverfordwest	271	08	276	08	H	N	N	N	
+Western-and-Wales	0724	22	GW960	SWM2	"Haverfordwest – Change of ELR (Site
+of Former Johnston Jn)"	276	08	280	70	H	N	N	N	
+Western-and-Wales	0724	23	GW960	MIL	"Change of ELR (Site of Former
+Johnston Jn) – Herbranston Jn"	280	70	283	12	H	N	N	N	
+Western-and-Wales	0724	24	GW960	MIL	"Herbranston Jn – End of Line
+(Beyond Milford Haven)"	283	12	284	71	H	N	N	N	
+Western-and-Wales	0724	25	GW970	GOB	"Gulf Oil Branch Jn – Waterston, Gulf
+Oil Refinery"	0	00	2	35	N	N	N	N	
+Western-and-Wales	0724	26	GW980	ERB	Herbrandston Jn – Robeston	0	00	1	18	N	N	N	N	

@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+Scotland	1066	1	SC001	WCM1	"Route Boundary (NW4001) (Gretna Jn) –
+Lockerbie"	12	30	25	66	10	Y	Y	Y	Y	Y	Y	
+Scotland	1066	2	SC001	WCM1	Lockerbie – Law Jn	25	66	84	08	10	Y	Y	Y	Y	Y	Y	
+Scotland	1066	3	SC001	WCM2	"Law Jn – Junction with Coatbridge lines
+(Lesmahagow Jn)"	84	08	89	51	10	Y	Y	Y	Y	Y	Y	
+Scotland	1066	4	SC001	WCM2	"Junction with Coatbridge lines
+(Lesmahagow Jn) – Newton East Jn"	89	51	95	14	"8
+R1"	Y	Y	Y	Y	Y	Y	"R1RA Change
+STNC NC/G1/2010/ICP-RA/SC010 applies until
+30/09/2014"
+Scotland	1066	5	SC001	WCM2	"Newton East Jn – Newton Hamilton Jn
+(SC0023) via South Connecting Line"	95	14	95	47	10	Y	Y	Y	Y	Y	Y	
+Scotland	1066	6	SC001	WCM2	"Newton Kirkhill Jn (SC0023) – Newton
+West Jn via North Connecting Line"	95	77	96	34	10	Y	Y	Y	Y	Y	Y	
+Scotland	1066	7	SC001	WCM2	Newton East Jn – Newton West Jn	95	14	96	34	"8
+R1"	Y	Y	Y	Y	Y	Y	"R1RA Change
+STNC NC/G1/2010/ICP-RA/SC010 applies until
+30/09/2014"
+Scotland	1066	8	SC001	WCM2	Newton West Jn Jn – Rutherglen East Jn	96	34	98	32	"8
+R1"	Y	Y	Y	Y	Y	Y	"R1RA Change
+STNC NC/G1/2010/ICP-RA/SC010 applies until
+30/09/2014"
+Scotland	1066	9	SC001	WCM2	Rutherglen East Jn – Larkfield Jn	98	32	100	65	10	Y	Y	Y	Y	Y	Y	
+Scotland	1066	10	SC001	WCM2	Larkfield Jn – Eglinton St Jn	100	65	101	39	8	Y	Y	Y	Y	Y	Y	
+Scotland	1066	11	SC001	WCM2	Eglinton St Jn – Bridge St Jn	101	39	101	53	8	Y	Y	Y	Y	Y	Y	
+Scotland	1066	12	SC001	WCM2	Bridge St Jn – Glasgow Central	101	53	102	27	8	Y	Y	Y	Y	Y	Y	
+Scotland	1066	13	SC003	ECA1	Carstairs South Jn – Carstairs East Jn	73	17	73	48	10	Y	Y	Y	Y	Y	Y	
+Scotland	1066	14	SC003	ECA2	Carstairs East Jn – Slateford Jn	74	10	99	01	"8
+R1"	Y	Y	Y	Y	Y	Y	"R1RA Change
+STNC NC/G1/2010/ICP-RA/SC007 applies until
+30/09/2014"
+Scotland	1066	15	SC003	ECA3	Slateford Jn – Haymarket East Jn	99	01	100	41	10	Y	Y	Y	Y	Y	Y	
+Scotland	1066	16	SC005	CSP	Carstairs Station Jn – Carstairs East Jn	73	37	74	10	10	Y	Y	Y	Y	Y	Y	
+Scotland	1066	17	SC007	EGS2	Midcalder Jn – Holytown Jn	23	11	1	27	"8
+R1"	N	N	Y	N	N	N	"R1RA Change
+STNC NC/G1/2010/ICP-RA/SC012 applies until
+30/09/2014"
+Scotland	1066	18	SC009	LNK	Lanark – Lanark Jn	2	45	0	03	5	N	N	N	N	N	N	

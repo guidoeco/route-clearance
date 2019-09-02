@@ -1,0 +1,41 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	170	172	180	185	220	221	222	Notes
+London-North-Eastern	1002	1	LN632	DSN2	"tockton Cut Jn – Redcar Change of
+ileage"	10	13	21	72	N	N	R1	R2	N	N	N	"1Prohibited between Thornaby and Redcar Change of
+Mileage
+2Prohibited between Guisborough Jn and Redcar
+Change of Mileage"
+London-North-Eastern	1002	2	LN632	DSN3	edcar Change of Mileage – Saltburn	22	16	27	57	N	N	N	N	N	N	N	
+London-North-Eastern	1002	3	LN634	MBW1	uisborough Jn – Battersby Jn	0	00	10	54	N	N	N	R1	N	N	N	1Prohibited between Nunthorpe and Battersby Jn
+London-North-Eastern	1002	4	LN634	MBW2	attersby Jn (End of Line) – Grosmont Jn	11	61	29	66	N	N	N	N	N	N	N	
+London-North-Eastern	1002	5	LN634	MBW3	rosmont Jn – Whitby	24	44	30	61	N	N	N	N	N	N	N	
+London-North-Eastern	1002	6	LN636	No ELR	Beam Mill Jn – Network Rail Boundary	18	03	18	67	N	N	N	N	N	N	N	
+London-North-Eastern	1002	7	LN638	WCI	Shell Jn –  Network Rail Boundary	0	00	1	03	N	N	N	N	N	N	N	
+London-North-Eastern	1002	8	LN642	SSK1	"Saltburn West Jn –  Network Rail Boundary
+(Cleveland Potash)"	27	05	34	29	N	N	N	N	N	N	N	
+London-North-Eastern	1002	9	LN644	BOH	"Hartburn Jn – Bowesfield SB (Hartburn
+Curve)"	0	00	0	44	N	N	Y	Y	N	N	N	
+London-North-Eastern	1002	10	LN646	STF	Norton-on-Tees South –  Ferryhill South Jn	0	00	10	72	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1002	11	LN648	NWE	"Norton-on-Tees West –  Norton-on-Tees
+East"	0	29	0	00	N	N	Y	N	Y	Y	N	
+London-North-Eastern	1002	12	LN652	POC1	Billingham Jn – Phillips Siding Jn	0	00	3	25	N	N	N	N	N	N	N	
+London-North-Eastern	1002	13	LN652	POC2	Phillips Siding Jn – Seal Sands Branch Jn	3	25	5	01	N	N	N	N	N	N	N	
+London-North-Eastern	1002	14	LN652	SES	"Seal Sands Branch Jn – End of NR
+maintenance"	0	00	2	44	N	N	N	N	N	N	N	
+London-North-Eastern	1002	15	LN656	SOT	Seaton Snook Jn – Seaton-on-Tees	0	00	1	51	N	N	N	N	N	N	N	
+London-North-Eastern	1002	16	LN662	HNB	Ryhope Grange – Hendon	0	00	1	53	N	N	N	N	N	N	N	
+London-North-Eastern	1002	17	LN664	BNW	Boldon East Jn – Boldon North Jn	0	00	0	20	N	N	N	N	N	N	N	
+London-North-Eastern	1002	18	LN666	BGE	Boldon West Jn – Boldon North Jn	0	00	0	32	N	N	N	N	N	N	N	
+London-North-Eastern	1002	19	LN666	GLT	Boldon North Jn – Tyne Dock	0	32	1	26	N	N	N	N	N	N	N	
+London-North-Eastern	1002	20	LN670	JAW1	"Pelaw Jn – Network Rail Boundary (Shell
+Mex Depot Jarrow)"	0	09	3	36	N	N	N	N	N	N	N	
+London-North-Eastern	1002	21	LN672	FEP	Wardley – Pelaw Jn	19	70	20	75	N	N	N	N	N	N	N	
+London-North-Eastern	1002	22	LN674	HLK	"High Level Bridge Jn – Greensfield Jn
+(West Curve)"	0	00	0	21	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1002	23	LN676	PLG1	"Park Lane Jn – Site of Former High Street
+Jn"	100	65	101	15	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1002	24	LN676	PLG2	"Site of Former High Street Jn – Greensfield
+Jn"	0	00	0	21	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1002	25	LN676	HLK	"Greensfield Jn – King Edward Bridge
+South Jn"	0	16	0	48	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1002	26	LN678	DAE1	"Darlington North Jn – Site of Former
+Parkgate Jn"	44	36	44	64	N	N	N	N	N	N	N	

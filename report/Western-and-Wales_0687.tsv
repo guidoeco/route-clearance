@@ -1,0 +1,43 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
+Western-and-Wales	0687	1	GW117	GEC	"Greenford East Jn – Greenford South
+Jn"	8	70	8	45	E	E	E	E	E	E	E	N	N	
+Western-and-Wales	0687	2	GW130	AWL	"Route Boundary (EA1310) (Acton Wells
+Jn) – Acton East Jn"	0	39	0	08	E	E	E	E	N	N	N	E	E	
+Western-and-Wales	0687	3	GW174	WEL1	West Ealing Jn – Drayton Green Jn	6	56	7	03	E	E	E	E	E	E	E	N	N	
+Western-and-Wales	0687	4	GW174	WEL1	Drayton Green Jn – Greenford South Jn	7	03	8	45	E	E	E	E	E	E	E	N	N	
+Western-and-Wales	0687	5	GW174	WEL1	"Greenford South Jn – Greenford LUL
+Bay Jn"	8	45	8	65	E	E	E	E	E	E	E	N	N	
+Western-and-Wales	0687	6	GW174	WEL1	"Greenford LUL Bay Jn – Greenford
+West Jn"	8	65	8	76	E	E	E	E	E	E	E	N	N	
+Western-and-Wales	0687	7	GW175	WEL2	"Greenford LUL Bay Jn – Greenford
+Station"	8	65	9	06	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0687	8	GW176	HAN	Hanwell Jn – Drayton Green Jn	0	00	0	36	E	E	E	E	E	E	E	N	N	
+Western-and-Wales	0687	9	GW178	BRB	Southall – Brentford Goods	0	00	2	70	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0687	10	GW180	HLL	"Heathrow Airport Jn (Up and Down
+Main) – NR Boundary (BAA)"	11	04	12	27	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0687	11	GW182	STA	"West Drayton Jn – End of Branch
+(Colnbrook)"	13	31	16	25	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0687	12	GW184	WIN	Slough – Windsor & Eton Central	18	36	21	19	E	N	N	E	N	N	N	N	N	
+Western-and-Wales	0687	13	GW185	WBB	Maidenhead – Bourne End	24	19	28	55	E	N	N	E	N	N	N	N	N	
+Western-and-Wales	0687	14	GW185	MWB	Bourne End GF – Marlow	0	06	2	54	E	N	N	E	N	N	N	N	N	
+Western-and-Wales	0687	15	GW187	HEN	Twyford – Henley-on-Thames	31	01	35	48	E	N	N	E	N	N	N	N	N	
+Western-and-Wales	0687	16	GW190	RNJ	"Route Boundary (SW210) (Reading
+Spur Jn) – Reading New Jn"	68	00	68	35	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0687	17	GW195	RLL	Reading Southern Jn – Reading East Jn	35	33	35	61	N	N	N	E	N	N	N	N	N	
+Western-and-Wales	0687	18	GW200	DCL	"Chester Line Jn – Route Boundary
+(MD401) (Heyford)"	53	12	75	00	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0687	19	GW220	RWC	"Reading, Oxford Road Jn – Reading
+West Jn"	0	43	0	02	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0687	20	GW225	RFR	Caversham Road Jn – Oxford Road Jn	36	25	36	74	N	N	N	Y	N	N	N	Y	Y	
+Western-and-Wales	0687	21	GW240	DEC	Didcot East Jn – Didcot North Jns	52	66	54	00	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0687	22	GW250	DWC	Foxhall Jn – Didcot West Curve Jn	0	01	0	32	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0687	23	GW260	THA	Kennington Jn – Morris Cowley	18	45	16	04	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0687	24	GW277	OXD	"Oxford North Jn – Route Boundary
+(MD736) (29m 25ch)"	30	09	29	25	Y	Y	Y	Y	E	E	Y	Y	Y	
+Western-and-Wales	0687	25	GW300	ABW	Abbotswood Jn – Norton Jn	0	00	0	62	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0687	26	GW300	OWW	Norton Jn – Shrub Hill Jn	117	26	120	46	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0687	27	GW300	OWW	Shrub Hill Jn – Droitwich Spa Jn	120	46	126	21	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0687	28	GW300	STO	Droitwich Spa Jn – Stoke Works Jn	126	21	130	25	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0687	29	GW310	OWW	Wolvercot Jn – Norton Jn	66	32	117	26	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0687	30	GW317	OWW	"Honeybourne Stratford Line Junction –
+Start of branch mileage"	102	06	101	31	N	N	N	N	N	N	N	N	N	

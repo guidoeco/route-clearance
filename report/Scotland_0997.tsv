@@ -1,0 +1,5 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	314	318	320	322	325	334	350	380	390	Notes
+Scotland	0997	1	SC203	WCK	Invergordon – Georgemas Jn	31	37	147	20	N	N	N	N	H	N	N	N	N	
+Scotland	0997	2	SC203	WCK	Georgemas Jn – Wick	147	20	161	35	N	N	N	N	H	N	N	N	N	
+Scotland	0997	3	SC205	KYL	Dingwall – Kyle of Lochalsh	0	19	63	64	N	N	N	N	H	N	N	N	N	
+Scotland	0997	4	SC207	TSO	Georgemas Jn – Thurso	0	00	6	50	N	N	N	N	H	N	N	N	N	

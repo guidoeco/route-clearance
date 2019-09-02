@@ -1,0 +1,39 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge									Notes
+Anglia	0450	1			GB1/2	W6A	W7	W8	W9	W9Plus	W10	W10A	W12	
+Anglia	0450	2	EA1012	Ipswich – Trowse Jn	N	Y *	Y	Y	Y	N	R1	N	N	"R1W10 Between Ipswich and
+Haughley Jn only."
+Anglia	0450	3	EA1013	Trowse Jn – Norwich	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0450	4	EA1013	"Trowse Swing Bridge – Wensum Jn
+(EA1470) via Wensum Curve"	N	Y	Y	Y	N	N	N	N	N	
+Anglia	0450	5	EA1020	"Carpenters Rd South Jn – Carpenters Rd
+North Jn"	N	Y	Y	Y	Y	N	N	N	N	
+Anglia	0450	6	EA1030	Forest Gate Jn – Woodgrange Park Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia	0450	7	EA1040	Romford – Upminster	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	8	EA1050	Shenfield Jn – Southend Victoria	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	9	EA1060	Wickford Jn – Southminster	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	10	EA1070	Witham – Braintree	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	11	EA1080	Marks Tey Jn – Sudbury	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	12	EA1090	Colchester Jn – Clacton	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	13	EA1100	"East Gate Jn & Hythe Jn – Colchester
+town"	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	14	EA1110	Thorpe-Le-Soken – Walton-On-Naze	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	15	EA1120	"Manningtree (North & South Jns) –
+Harwich town"	N	Y *	Y	Y	N	N	Y	N	N	
+Anglia	0450	16	EA1130	Griffin Wharf Branch	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia	0450	17	EA1150	"Channelsea South Jn – Stratford Central
+Jn West"	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia	0450	18	EA1160	Bethnal Green East Jn – Coppermill Jn	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0450	19	EA1160	Coppermill Jn – Tottenham South Jn	N	Y	Y	Y	Y	N	Y	N	N	
+Anglia	0450	20	EA1160	Tottenham South Jn – Bishops Stortford	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0450	21	EA1161	Bishops Stortford – Ely Dock Jn	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0450	22	EA1161	Ely Dock Jn – Ely North Jn	N	Y *	Y	Y	Y	N	N	N	N	
+Anglia	0450	23	EA1162	Ely North Jn – Kings Lynn	N	Y	Y	Y	N	N	N	N	N	
+Anglia	0450	24	EA1170	"Hackney Downs North Jn – Bury Street
+Jn"	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0450	25	EA1180	"Reading Lane Jn –  Navarino Road Jn
+(Graham Rd. Curve)"	N	Y	N	N	N	N	N	N	N	
+Anglia	0450	26	EA1190	Bury Street Jn – Cheshunt Jn	N	Y *	Y	Y	N	N	N	N	N	
+Anglia	0450	27	EA1200	Clapton Jn – Chingford	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	28	EA1210	Broxbourne Jn – Hertford East	N	Y *	N	N	N	N	N	N	N	
+Anglia	0450	29	EA1220	"Stansted (South & North Jns) – Stansted
+Airport"	N	Y *	N	N	N	N	N	N	N	

@@ -1,0 +1,47 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	170	172	180	185	220	221	222	Notes
+London-North-Eastern	1001	1	LN600	ECM7	Newcastle – Newcastle East Jn	0	00	0	14	N	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1001	2	LN600	ECM7	Newcastle East Jn – Heaton South Jn	0	14	1	65	N	N	E	R1	Y	Y	Y	R1Prohibited Manors Down platform when laden
+London-North-Eastern	1001	3	LN600	ECM7	"Heaton South Jn – Route Boundary
+(SC147) (Prestonpans Jn)"	1	65	69	67	R1	N	E	Y	Y	Y	R2	"R1Prohibited between Heaton South Jn and Berwick upon
+Tweed
+R2Prohibited between Berwick upon Tweed Up Goods
+Loop (67m 38ch) and Route Boundary (SC147)
+(Prestonpans Jn)"
+London-North-Eastern	1001	4	LN618	HOS	"Holgate Jn –  Skelton Jn via York Yard
+South"	0	00	1	54	N	N	Y	Y	Y	Y	Y	
+London-North-Eastern	1001	5	LN620	KEB	"King Edward Bridge East Jn – King
+Edward Bridge North Jn (East Curve)"	0	00	0	13	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	6	LN622	NEN1	Newcastle Forth Jn – Forth Banks	0	11	0	73	N	N	N	Y	Y	Y	N	
+London-North-Eastern	1001	7	LN624	REB4	"Northallerton Castle Hills Jn – Network
+Rail Boundary (Wensleydale Railway)"	0	04	0	18	N	N	N	N	N	N	N	
+London-North-Eastern	1001	8	LN626	LEN2	"Northallerton High Jn –  Northallerton
+East Jn"	0	00	0	36	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	9	LN627	LLP1	"Longlands Jn (Down Line) –
+Boroughbridge Road LC"	28	58	29	72	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	10	LN627	LLP3	"Longlands Jn (Up Line) –
+Boroughbridge Road LC"	0	69	0	00	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	11	LN627	LLP2	"Boroughbridge Road LC –
+Northallerton East Jn"	42	21	42	79	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	12	LN627	LEN3	Northallerton East Jn – Billingham Jn	42	79	63	69	N	N	Y	"R1
+R2"	Y	Y	N	"R130mph LEN3/151 Oxbridge Lane underbridge
+59m32ch Down line
+R215mph Stockton Up platform"
+London-North-Eastern	1001	13	LN627	LEN3	Billingham Jn – Ryhope Grange Jn	63	69	87	63	N	N	Y	"R1
+R2"	Y	Y	N	"R1Prohibited Hartlepool Bay platform
+R2Prohibtied Hartlepool Up (disused) platform"
+London-North-Eastern	1001	14	LN627	LEN3	"Ryhope Grange Jn – Sunderland
+South Jn"	87	63	89	56	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	15	LN627	LEN3	Sunderland South Jn – Boldon East Jn	89	56	94	63	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	16	LN627	LEN3	Boldon East Jn – Boldon West Jn	94	63	95	16	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	17	LN627	LEN3	Boldon West Jn – Pelaw Metro Jn	95	16	97	64	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	18	LN627	LEN3	Pelaw Metro Jn – Park Lane Jn	97	64	100	65	N	N	Y	R1	Y	Y	N	R130mph Heworth Up platform
+London-North-Eastern	1001	19	LN627	LEN3	Park Lane Jn – High Level Bridge Jn	100	65	101	33	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	20	LN627	LEN3	"High Level Bridge Jn – Newcastle East
+Jn"	101	33	101	59	N	N	Y	Y	Y	Y	N	
+London-North-Eastern	1001	21	LN628	NEK	South Hylton – Sunderland South Jn	3	20	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1001	22	LN629	PDL	"Pelaw Metro Jn – Network Rail
+Boundary (Metro Operating)"	97	64	98	01	N	N	N	N	N	N	N	
+London-North-Eastern	1001	23	LN630	PUL	"Pelaw Metro Jn – Network Rail
+Boundary (Metro Operating)"	97	64	97	77	N	N	N	N	N	N	N	
+London-North-Eastern	1001	24	LN631	DSN1	"Darlington South Jn – Eaglescliffe
+South Jn"	0	29	8	58	N	N	R1	Y	Y	Y	N	R115mph Dinsdale Up platform

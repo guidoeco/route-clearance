@@ -1,0 +1,37 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	166	170	171	172	180	220	221	Notes
+Kent-Sussex-Wessex	0988	1	SW150	RTJ2	Romsey Jn – Salisbury Tunnel Jn	80	35	96	05	N	Y	N	N	N	R1	R1	"R1OPPOS applies between Laverstock
+South Jn and Salisbury Tunnel Jn"
+Kent-Sussex-Wessex	0988	2	SW155	TTF	Totton – Marchwood	82	43	86	10	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	3	SW155	TTF	Marchwood – Fawley GF	86	10	91	42	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	4	SW160	BLP	Brockenhurst – Lymington Pier	92	66	98	15	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	5	SW165	HAG	"Hamworthy – Hamworthy Goods (Stop
+board)"	115	77	118	05	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	6	SW170	SAL	"Wilton Jn – Route Boundary Western
+(GW5001) (Westbury South Jn)"	132	33	115	40	N	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	7	SW175	WEY	"Route Boundary (GW500) (Castle
+Cary Jn) – Yeovil Pen Mill Jn"	130	00	141	35	N	Y	N	N	Y	Y	Y	
+Kent-Sussex-Wessex	0988	8	SW175	YJP	Yeovil Pen Mill Jn – Yeovil Jn	1	42	0	00	N	Y	N	N	Y	Y	Y	
+Kent-Sussex-Wessex	0988	9	SW175	WEY	Yeovil Pen Mill Jn – Dorchester Jn	141	35	162	14	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	10	SW180	RPE	"Raynes Park – Epsom (Change of
+ELR)"	8	51	14	18	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	11	SW180	BTH2	"Route Boundary Sussex (Ewell
+East) – Epsom [Duplicated in SO680]"	17	33	18	73	N	N	Y	N	N	N	N	
+Kent-Sussex-Wessex	0988	12	SW180	BTH3	"Epsom (Change of ELR) –
+Leatherhead [Duplicated in SO680]"	14	27	18	02	N	N	Y	N	N	N	N	
+Kent-Sussex-Wessex	0988	13	SW180	BTH3	"Leatherhead – Route Boundary
+Sussex (Horsham) [Duplicated in
+SW180]"	18	02	21	09	N	N	Y	N	N	N	N	
+Kent-Sussex-Wessex	0988	14	SW180	BTH3	"Route Boundary Sussex
+(Leatherhead) – Horsham jn (SO520)
+[Duplicated in SO680]"	21	09	35	34	N	N	"R1
+R2"	N	N	N	N	"R15mph Holmwood Down platform
+R215mph Warnham Down platform"
+Kent-Sussex-Wessex	0988	15	SW185	MPC	Motspur Park – Chessington South	9	57	13	73	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	16	SW190	NMS1	New Malden – Fulwell Jn	9	62	14	53	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	17	SW190	NMS2	Fulwell Jn – Shepperton	12	56	18	73	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	18	SW195	HAM	"Hampton Court Jn – Hampton Court
+Up line"	13	27	14	76	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	19	SW195	HAM	"Hampton Court Jn – Hampton Court
+Down line"	13	27	14	76	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	20	SW200	NGL	Hampton Court Jn – Effingham Jn	13	27	21	04	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0988	21	SW200	NGL	Effingham Jn – Guilford	21	04	29	70	N	N	N	N	N	N	N	

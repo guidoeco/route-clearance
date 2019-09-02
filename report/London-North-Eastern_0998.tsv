@@ -1,0 +1,47 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector escription	M	Ch	M	Ch	170	172	180	185	220	221	222	Notes
+London-North-Eastern	0998	1	LN101	ECM1	etford – Loversall Carr Jn	138	49	150	00	Y	N	"R1
+R2"	N	N	N	"R3
+R4"	"R1Passenger operation can be planned for Fast / Main
+lines only.   ECS can be planned for Fast / Main and
+Slow lines.
+R2For all planned movements and unplanned diversions
+when returning to Fast / Main lines a maximum speed
+of 70mph applies until the unit has passed the next
+signal.
+R3Shall be planned for Fast / Main lines only
+R4For unplanned diversions when returning to Fast/Main
+lines a maximum speed of 70mph applies until the unit
+has passed the next signal"
+London-North-Eastern	0998	2	LN101	ECM1	oversall Carr Jn – Marshgate Jn	152	00	156	26	R1	N	"R2
+R3"	R4	R5	R5	"R6
+R7"	"R1Prohibited Doncaster platforms 2
+R2Passenger operation can be planned for Fast / Main
+lines only.   ECS can be planned for Fast / Main and
+Slow lines.
+R3For all planned movements and unplanned diversions
+when returning to Fast / Main lines a maximum speed
+of 70mph applies until the unit has passed the next
+signal.
+R4Prohibited between Loversall Carr Jn and Black Carr
+Jn
+R5Prohibited between Loversall Carr Jn and Doncaster
+R6Shall be planned for Fast / Main lines only
+R7For unplanned diversions when returning to Fast/Main
+lines a maximum speed of 70mph applies until the unit
+has passed the next signal"
+London-North-Eastern	0998	3	LN101	ECM1	arshgate Jn – Shaftholme Jn	156	26	160	16	Y	N	Y	Y	Y	Y	Y	
+London-North-Eastern	0998	4	LN105	MEB1	oorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	
+London-North-Eastern	0998	5	LN105	MEB1	rayton Park – Finsbury Park Jn	2	56	3	37	N	N	N	N	N	N	N	
+London-North-Eastern	0998	6	LN110	CFP	"oute Boundary (EA1320) (Canonbury
+est Jn) - Finsbury Park Jn"	3	20	4	33	E	N	E	N	N	N	Y	
+London-North-Eastern	0998	7	LN115	CRF1	"openhagen Jn – Route Boundary
+EA1320) (North London Incline)"	0	00	0	20	E	E	E	N	N	N	Y	
+London-North-Eastern	0998	8	LN120	HDB	"Wood Green Jn – Langley Jn via
+ertford"	5	07	28	15	Y	N	Y	N	N	N	Y	
+London-North-Eastern	0998	9	LN125	SBR	"ambridge Jn – Route Boundary
+EA1230)"	32	11	45	60	E	N	R1	N	N	N	R1	"R1Must be planned as a non-stop train between Hitchin
+and Cambridge"
+London-North-Eastern	0998	10	LN126	DCF	itchin North Jn – Hitchin East Jn	32	53	34	05	E	N	Y	N	N	N	N	
+London-North-Eastern	0998	11	LN135	EMP	"Route Boundary (EA1560) (Ely West
+n) – Crescent Jn"	98	40	100	66	Y	N	R1	N	N	N	R1	"R1Must be planned as a non-stop train between
+Cambridge and Peterborough."

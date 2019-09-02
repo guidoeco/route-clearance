@@ -1,0 +1,46 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	357	357 OD	365	377	378	379	380	387	508	599	700	Notes
+London-North-Eastern	1037	1	LN101	ECM1	oversall Carr Jn – Marshgate Jn	152	00	156	26	N	N	"E
+R1
+R2"	N	N	N	"EH
+R3"	N	N	N	N	"R1Prohibited Doncaster platform 7
+R215mph Doncaster platform 1
+R3Prohibited between Loversall Carr Jn and
+Doncaster"
+London-North-Eastern	1037	2	LN101	ECM1	Marshgate Jn – Shaftholme Jn	156	26	160	16	N	N	N	N	N	N	EH	N	N	N	N	
+London-North-Eastern	1037	3	LN105	MEB1	Moorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	4	LN105	MEB1	Drayton Park – Finsbury Park Jn	2	56	3	37	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	5	LN110	CFP	"Route Boundary (EA1320) (Canonbury
+West Jn) - Finsbury Park Jn"	3	20	4	33	E	E	N	N	E	E	N	E	EH	N	E	
+London-North-Eastern	1037	6	LN115	CRF1	"openhagen Jn – Route Boundary
+(EA1320) (North London Incline)"	0	00	0	20	N	N	N	E	E	N	N	E	EH	N	E	
+London-North-Eastern	1037	7	LN120	HDB	"Wood Green Jn – Langley Jn via
+Hertford"	5	07	28	15	N	N	R1	N	N	N	N	N	N	N	R2	"R1No more than 18 electric trains per line
+may operate over the Hertford Loop in any
+one hour period
+R2Prohibited Hertford North Down Bay
+platform 3"
+London-North-Eastern	1037	8	LN125	SBR	"Cambridge Jn – Route Boundary
+(EA1230)"	32	11	45	60	N	N	R1	N	N	N	N	N	N	N	"R1
+R2"	"R1See Sectional Appendix Local Instructions
+R2ECS only between Letchworth Garden
+City - Baldock on the Arrival / Departure
+line"
+London-North-Eastern	1037	9	LN126	DCF	itchin North Jn – Hitchin East Jn	32	53	34	05	N	N	Y	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	10	LN135	EMP	"Route Boundary (EA1560) (Ely West
+Jn) – Crescent Jn"	98	40	100	66	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	11	LN147	PMJ	"Helpston Jn – Route Boundary
+(LN3615)"	16	71	13	60	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	12	LN150	SPD5	Flyover East – Decoy North Jn	116	20	117	46	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	13	LN155	LCJ	"Flyover East Jn – Loversall Jn (Up
+Loversall Curve)"	152	79	152	36	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	14	LN160	LCR	"Loversall Carr Jn – Rossington Colliery
+Jn"	152	00	152	12	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	15	LN160	FWR1	"Rossington Colliery Jn – Flyover West
+Jn"	152	12	153	19	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	16	LN165	HPW	"Route Boundary (EA1370) (Harringay
+Park Jn) – Harringay Jn"	0	14	0	03	N	N	N	EH	N	N	N	N	N	N	E	
+London-North-Eastern	1037	17	LN170	WEB	"Werrington Jn – Site of former
+Spalding South Jn"	79	34	92	58	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	18	LN170	SPD1	"Site of former Spalding South Jn –
+Sleaford South Jn"	44	07	62	14	N	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1037	19	LN170	SPD2	Sleaford South Jn – Sleaford North Jn	62	14	63	48	N	N	N	N	N	N	N	N	N	N	N	

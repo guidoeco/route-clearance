@@ -1,0 +1,23 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	380	390	507	508	Notes
+London-North-Western-North	0868	1	NW9021	BEJ	Buxton – Hazel Grove East Jn	19	09	2	35	N	N	N	N	
+London-North-Western-North	0868	2	NW9901	SKW1	Route Boundary (LN922) (Gargrave) – Settle Jn	230	00	234	44	N	"H
+R1"	N	N	"R1Prohibited between Route Boundary (LN922)
+(Gargrave) and Hellifield"
+London-North-Western-North	0868	3	NW9901	SAC	Settle Jn – Petteril Bridge Jn	234	44	307	12	N	"H
+R1"	N	N	"R120mph under Bridge 349 Up Main Line (305m
+00ch to 305m 20ch)"
+London-North-Western-North	0868	4	NW9901	NEC2	Petteril Bridge Jn – London Road Jn	59	26	59	45	N	H	N	N	
+London-North-Western-North	0868	5	NW9901	NEC2	London Road Jn – Carlisle South Jn	59	45	60	02	N	H	N	N	
+London-North-Western-North	0868	6	NW9903	SKW1	Settle Jn – Change of Mileage (Wennington)	234	44	249	44	N	N	N	N	
+London-North-Western-North	0868	7	NW9903	SJC	"Change of Mileage (Wennington) – Change of
+Mileage (Site of former Carnforth East Jn)"	9	45	0	31	N	N	N	N	
+London-North-Western-North	0868	8	NW9903	CEC	"Change of Mileage (Site of former Carnforth East
+Jn) – Carnforth Station Jn"	0	25	0	04	N	N	N	N	
+London-North-Western-North	0868	9	NW9907	WAR	Appleby North Jn – Appleby West Jn	277	27	277	56	N	N	N	N	
+London-North-Western-North	0868	10	NW9907	EDE	Network Rail Boundary (Warcop) – End of Line	11	03	11	46	N	N	N	N	
+London-North-Western-North	0868	11	NW9909	NEC2	"Route Boundary (LN682) (Corby Gates) – Petteril
+Bridge Jn"	58	00	59	26	N	"H
+R1"	N	N	"R1Prohibited between Route Boundary (LN682)
+(Corby Gates) and London Road Yard"
+London-North-Western-North	0868	12	NW9911	NGD	"London Road Jn – Bog Jn (Newcastle Goods
+Lines)"	0	00	0	25	N	N	N	N	

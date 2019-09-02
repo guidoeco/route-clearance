@@ -1,0 +1,33 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	RA	60	66	67	68	70	73	97/3	Notes
+London-North-Eastern	1116	1	LN740	BRI2	Immingham East Jn – Humber Road Jn	106	31	104	05	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	2	LN741	HAU	Habrough – Ulceby South Jn	0	32	1	45	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	3	LN742	KIL2	"Killingholme – Immingham West Change of
+Mileage"	2	70	0	00	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	4	LN742	KIL1	"Immingham West Change of Mileage –
+Humber Rd Jn"	105	10	104	05	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	5	LN742	BRI2	Humber Rd Jn – Ulceby North Jn	104	05	100	44	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	6	LN742	BRI1	Ulceby North Jn – Brocklesby West Jn	100	44	99	20	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	7	LN744	BAR	Ulceby North Jn – Barton on Humber	100	44	110	18	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	8	LN746	TYB1	Cottam Power Station – Clarborough Jn	71	79	68	32	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	9	LN748	WHR	Retford Western Jn – Thrumpton West Jn	64	29	63	28	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	10	LN750	MAC3	Woodburn Jn – Deepcar	42	29	33	35	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	11	LN752	DOW	rawby Jn – Marshgate Jn	33	34	0	03	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	12	LN754	SAN	Scunthorpe Foreign Ore Branch	0	00	1	16	10	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	13	LN756	NOP1	"Scunthorpe Trent Jn – Site of Former Dawes
+Lane Jn"	0	00	0	28	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	14	LN756	NOP2	"Site of Former Dawes Lane Jn – NR Boundary
+(Roxby)"	0	25	3	60	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	15	LN758	BKS	Brancliffe East Jn – St Catherines Jn	0	00	15	17	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	16	LN758	BKS	St Catherines Jn – Low Ellers Curve Jn	15	17	15	55	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	17	LN758	BKS	Low Ellers Curve Jn – Kirk Sandall Jn	15	55	20	49	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	18	LN760	HAC	Firbeck Jn – Harworth Colliery	11	20	14	21	7	R1	R1	N	R1	R1	R1	R1	"R1Line out of use (temporarily) until 09
+May 2015
+NC/G1/2011/LNE/STNC/002"
+London-North-Eastern	1116	19	LN762	YDS	"St Catherines Jn – Decoy South Jn (St
+Catherines Curve)"	15	17	15	71	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	20	LN764	UDS	Low Ellers Curve Jn – Potteric Carr Jn	15	55	16	56	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	21	LN766	HJB	"Bentley Jn – Hexthorpe Jn (Doncaster Avoiding
+Line)"	3	24	0	00	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	22	LN768	PSE	"Route Boundary (LN3273) (Mansfield) –
+Shireoaks East Jn"	143	00	154	30	8	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1116	23	LN772	SWP	Warsop Jn – Shirebrook Jn	0	00	0	45	9	Y	Y	Y	Y	Y	Y	Y	

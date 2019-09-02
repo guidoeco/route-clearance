@@ -1,0 +1,44 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
+Western-and-Wales	0689	1	GW454	CNX	"St Andrews Jn (Change of ELR) –
+Narroways Hill Jn"	9	32	2	03	E	Y	Y	Y	Y	N	N	R1	R1	R115mph Avonmouth platforms
+Western-and-Wales	0689	2	GW480	SWM1	Swindon Jn – Standish Jn	77	36	106	74	E	Y	Y	Y	Y	E	E	R1	R1	R1Prohibited Kemble Tamper Siding
+Western-and-Wales	0689	3	GW490	SWM2	"Gloucester Yard Jn – Horton Road
+Jn"	113	03	113	61	E	Y	Y	Y	Y	E	E	Y	Y	
+Western-and-Wales	0689	4	GW500	BKE	Westbury Line Jn – Oxford Road Jn	36	17	36	67	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0689	5	GW500	BKE	Oxford Road Jn – Southcote Jn	36	67	37	62	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0689	6	GW500	BKE	"Southcote Jn – Route Boundary
+(SW125) (Basingstoke)"	37	62	37	76	E	E	E	Y	E	E	E	E	E	
+Western-and-Wales	0689	7	GW500	BHL	Southcote Jn – Change of ELR	37	62	81	19	E	E	E	E	N	N	N	E	E	
+Western-and-Wales	0689	8	GW500	SWY	"Change of ELR – Heywood Road Jn
+(Change of ELR)"	81	19	94	44	E	E	E	E	E	E	E	E	E	
+Western-and-Wales	0689	9	GW500	WES	"Heywood Road Jn (Change of ELR)
+– Fairwood Jn (Change of ELR) (via
+Westbury Avoiding Lines)"	94	44	97	02	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	10	GW500	WEY	"Fairwood Jn (Change of ELR) – Clink
+Road Jn (Change of ELR)"	111	18	114	44	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	11	GW500	FRA	"Clink Road Jn (Change of ELR) –
+Blatchbridge Jn (Change of ELR)"	114	44	116	37	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	12	GW500	WEY	"Blatchbridge Jn (Change of ELR) –
+Castle Cary Jn"	116	52	129	50	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	13	GW500	WEY	"Castle Cary Jn – Route Boundary
+(SW175) (Yeovil Pen Mill Jn)"	129	50	130	00	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	14	GW500	CCL	Castle Cary Jn – Cogload Jn (Down)	115	32	138	30	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	15	GW5001	SAL	"Route Boundary (SW170) (Wilton Jn)
+– Westbury South Jn"	115	40	110	07	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	16	GW510	WEY	Westbury North Jn – Bradford Jn	109	49	104	40	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	17	GW510	BFB	Bradford Jn – Bathampton Jn	9	12	0	00	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	18	GW520	WYL	"Westbury East Loop Jn –
+Hawkeridge Jn"	94	77	95	32	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	19	GW523	WEY	Thingley Jn – Bradford Jn	96	10	104	40	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	20	GW528	BRL	"North Somerset Jn – Bristol West Jn
+via St Philips Marsh"	0	00	1	08	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	21	GW530	BLL	"Feeder Bridge Jn – Dr Day’s Jn
+(Rhubarb Loop)"	117	50	117	73	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	22	GW540	BSW	Filton Jn No.1 – Patchway Jn No.2	4	40	5	61	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	23	GW5401	PAC	"Filton West Jn No.1 – Patchway Jn
+No.1"	0	40	0	00	E	Y	Y	Y	Y	N	N	Y	Y	
+Western-and-Wales	0689	24	GW548	"POD/
+PBY"	"Parson Street Jn – Network Rail
+boundary (BPC)"	120	28	126	34	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0689	25	GW560	SWY	"Heywood Road Jn – Westbury North
+Jn"	94	45	95	33	E	Y	Y	Y	Y	Y	Y	Y	Y	

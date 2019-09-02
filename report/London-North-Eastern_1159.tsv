@@ -1,0 +1,63 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge	Notes							
+London-North-Eastern	1159	1			W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1159	2	LN115	"Copenhagen Jn – Camden Road
+Central Jn"	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	3	LN120	"Wood Green North Jn – Langley Jn via
+Hertford"	Y *	Y	Y	Y	"R1
+R2
+R3"	"R1
+R2
+R3"	"R1
+R2
+R3"	"R1
+R2
+R3"	"R1PROHIBITED from Bounds Green
+Depot
+R2PROHIBITED from Gordon Hill Up
+bay platform 1
+R3PROHIBITED from Hertford North
+Station Down bay platform 3"
+London-North-Eastern	1159	4	LN125	Hitchin, Cambridge Jn – Cambridge	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1159	5	LN126	Hitchin North Jn – Hitchin East Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	6	LN135	Kings Dyke – Crescent Jn	Y	Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1159	7	LN147	Helpston Jn – Uffington	Y	Y	Y	N	N	Y	N	N	
+London-North-Eastern	1159	8	LN150	Flyover East Jn – Decoy North Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	9	LN155	"Flyover East Jn – Loversall Jn (Up
+Loversall Curve)"	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	10	LN160	Loversall Carr Jn – Flyover West Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	11	LN165	Harringay Park Jn – Harringay Jn	Y	Y	Y	N	Y	Y	Y	Y	
+London-North-Eastern	1159	12	LN170	"Werrington Jn – Spalding South Jn.,
+Former site of"	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	13	LN170	"Spalding South Jn., Former site of –
+Sleaford South Jn"	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	14	LN170	"Sleaford South Jn – Greetwell Jn.,
+Former site of"	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	15	LN170	"Greetwell Jn., Former site of –
+Gainsborough Trent West Jn"	Y *	Y	Y	Y	"R1
+R2
+R3
+R4"	"R1
+R2
+R3
+R4"	"R1
+R2
+R3
+R4"	"R1
+R2
+R3
+R4"	"R1PROHIBITED Lincoln Central Up bay
+platform 1  and 2
+R2PROHIBITED Lincoln Central
+platform 3 (Up Passenger Loop 1)
+R3PROHIBITED Lincoln Central
+platform 4 (Down Passenger Loop 1)
+R4PROHIBITED Lincoln Central
+platform 5 (Down Passenger Loop 2)"
+London-North-Eastern	1159	16	LN170	"Gainsborough Trent West Jn –
+Bessacarr Jn"	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	17	LN170	"Bessacarr Jn – Doncaster, Flyover East
+Jn"	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	18	LN175	Sleaford South Jn – Sleaford East Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1159	19	LN180	Sleaford West Jn – Sleaford North Jn	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1159	20	LN185	"Allington West Jn – Barkston East Jn.,
+Former site of"	Y	Y	Y	N	N	N	N	N	

@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	Mk3 (MOD)	MK3DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Western-South	0499	1	MD501	DBP2	Kingsbury Jn – Water Orton East Jn	29	39	33	22	Y	Y	Y	EH	N	Y	N	
+London-North-Western-South	0499	2	MD501	DBP3	"Water Orton East Jn (Change of
+Mileage) – Landor Street Jn"	34	43	40	60	Y	Y	Y	EH	N	Y	N	
+London-North-Western-South	0499	3	MD501	DBP3	Landor Street Jn – Proof House Jn	40	60	41	51	Y	Y	Y	"EH
+R1"	N	Y	N	"R1Prohibited between Landor
+St and Grand Jn"
+London-North-Western-South	0499	4	MD545	KJW	"Kingsbury Jn – Whitacre Jn (Change of
+Mileage)"	29	39	31	69	Y	Y	Y	EH	N	Y	N	
+London-North-Western-South	0499	5	MD555	NWO	"Nuneaton North Junction – Lmit of
+Electrification"	10	18	10	00	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0499	6	MD555	NWO	"Limit of Electrification – Whitacre West
+Junction"	10	00	0	00	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0499	7	MD555	DBP3	Whitacre West Jn – Water Orton East Jn	31	69	34	43	Y	Y	Y	EH	N	Y	N	
+London-North-Western-South	0499	8	MD560	WOP	"Water Orton West Jn – Park Lane
+Change of ELR"	35	15	36	04	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0499	9	MD560	CBR2	"Park Lane Change of ELR – Park Lane
+Jn"	36	04	36	15	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0499	10	MD565	CBR1	Castle Bromwich Jn – Park Lane Jn	0	55	0	00	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0499	11	MD565	CBR2	Park Lane Jn – Ryecroft Jn	36	04	47	48	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0499	12	MD570	LSS	Landor Street Jn – St Andrews Jn	40	60	41	18	Y	Y	Y	EH	N	Y	N	
+London-North-Western-South	0499	13	MD570	SKN	St Andrews Jn – Bordesley Jn	41	18	41	44	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0499	14	MD570	SKN	"Bordesley Jn – Kings Norton Jn (Camp
+Hill Lines)"	41	44	46	77	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0499	15	MD575	SAG	St Andrews Jn – Grand Jn	0	00	0	52	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0499	16	MD580	LEL	Lifford East Jn – Lifford West Jn	46	11	46	36	Y	Y	Y	N	N	N	N	
+London-North-Western-South	0499	17	MD701	MCJ1	"London Marylebone – Neasden South
+Jn (Change of Mileage)"	205	77	200	65	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0499	18	MD701	NAJ1	"Neasden South Jn (Change of Mileage)
+– Northolt Jn"	6	30	0	00	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0499	19	MD701	NAJ2	Northolt Jn – Princes Risborough Jn	0	00	24	50	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0499	20	MD701	NAJ2	"Princes Risborough Jn – Site of Former
+Ashendon Jn (Change of Mileage)"	24	50	33	69	Y	Y	Y	Y	N	Y	N	
+London-North-Western-South	0499	21	MD701	NAJ3	"Site of Former Ashendon Jn (Change of
+Mileage) – Aynho Jn"	0	00	18	35	Y	Y	Y	Y	N	Y	N	

@@ -1,0 +1,36 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	121	139	142	144	150	153	155	156	158	159	Notes
+London-North-Western-South	0459	1	MD345	BJW1	"Bescot Jn – Walsall Pleck Jn (Change of
+Mileage)"	0	00	0	65	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	2	MD345	BJW2	"Walsall Pleck Jn (Change of Mileage) –
+Limit of Electrification"	5	42	6	34	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	3	MD345	BJW2	Limit of Electrification – Ryecroft Jn	6	34	6	76	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	4	MD345	BJW2	Ryecroft Jn – Change of Mileage	6	76	6	79	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	5	MD345	RRN1	"Change of Mileage – Cannock Change
+of ELR"	0	00	7	20	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	6	MD345	RRN2	"Cannock Change of ELR – Route
+Boundary (NW1004) (Rugeley North Jn)"	7	20	14	00	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	7	MD350	BJW3	Anglesea Sidings – Lichfield City Jn	12	15	16	47	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0459	8	MD350	BJW3	Anglesea Sidings – Lichfield City Jn	12	15	16	47	N	N	N	N	N	N	N	N	N	N	"Line out of use
+NC/G1/2005/LN296"
+London-North-Western-South	0459	9	MD360	WDJ	alsall, Pleck Jn – Darlaston Jn	1	16	0	15	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	10	MD365	PJW	"Portobello Jn – Wolverhampton Crane
+Street Jn"	0	04	1	59	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	11	MD401	DCL	"oute Boundary (GW200) (Heyford) –
+Aynho Jn"	75	00	81	13	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	12	MD401	DCL	ynho Jn – Leamington Spa North Jn	81	13	106	25	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	13	MD401	DCL	"eamington Spa North Jn – Tyseley
+South Jn"	106	25	125	73	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	14	MD401	"BCV/D
+CL"	"Tyseley South Jn – Small Heath South
+Jn"	125	73	126	59	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	15	MD401	BCV	Small Heath South Jn – Bordesley Jn	126	59	128	11	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	16	MD405	LSC1	"eamington Spa North Jn – Milverton
+Change of ELR"	106	25	107	06	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	17	MD405	LSC2	"Milverton Change of ELR – Coventry
+South Jn"	0	00	8	45	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	18	MD410	CNN	oventry North Jn – Nuneaton South Jn	0	00	9	53	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	19	MD415	HSA	Hatton Station Jn – Bearley Jn	18	12	12	48	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	20	MD415	HSA	"Bearley Jn – Stratford Upon Avon (End
+of Headshunt)"	12	48	8	63	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	21	MD420	HHW	atton North Jn – Hatton West Jn	18	25	17	62	Y	N	N	N	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0459	22	MD425	TSB	Tyseley South Jn – Bearley Jn	0	00	17	71	Y	N	N	N	Y	Y	Y	Y	Y	Y	

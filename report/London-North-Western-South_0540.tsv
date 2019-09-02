@@ -1,0 +1,51 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge									Notes
+London-North-Western-South	0540	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12		
+London-North-Western-South	0540	2	MD315	"Stechford South Junction – Aston
+South Junction"	Y *	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0540	3	MD320	"Proof House Junction – Bushbury
+Junction via Bescot and
+Wednesfield Heath Tunnel (Grand
+Junction Line)"	Y *	Y	Y	R1	N	R1	N	N	R1	"9 and W10 prohibited between
+roof House Junction and Aston
+outh Junction"
+London-North-Western-South	0540	4	MD325	"Soho South Junction – Perry Barr
+North Junction"	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0540	5	MD330	"Soho East Junction – Soho North
+Junction"	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0540	6	MD335	"Perry Barr West Junction – Perry
+Barr South Junction"	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0540	7	MD340	"Aston North Junction – Alrewas
+(Exclusive)"	Y *	Y	Y	R1	R1	R1	R1	R1	R1	"rohibited Aston North Junction
+o Lichfield Trent Valley Jn"
+London-North-Western-South	0540	8	MD345	"Bescot Junction – Ryecroft
+Junction"	Y *	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0540	9	MD345	Ryecroft Junction – Cannock	Y *	Y	Y	N	N	N	N	N		
+London-North-Western-South	0540	10	MD345	"Cannock – Brereton Sidings
+[13m 25ch]"	Y *	N	N	N	N	N	N	N		
+London-North-Western-South	0540	11	MD345	"Brereton Sidings [13m 25ch] –
+Rugeley North Junction (Exclusive)"	Y *	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0540	12	MD350	"Anglesea Sidings – Lichfield City
+Junction"	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0540	13	MD355	"Lichfield Trent Valley Junction –
+Lichfield Trent Valley (Chord Line)"	Y	Y	Y	N	N	N	N	N		
+London-North-Western-South	0540	14	MD360	"Walsall, Pleck Junction – Darlaston
+Junction"	Y	Y	Y	Y	N	Y	N	N		
+London-North-Western-South	0540	15	MD365	"Portobello Junction –
+Wolverhampton Crane Street
+Junction"	Y	Y	Y	N	N	Y	N	N		
+London-North-Western-South	0540	16	MD401	"Heyford – Bordesley Junction via
+Dorridge"	Y *	Y	Y	N	N	R1	N	N	R1	"rohibited from the Down & Up
+atton platform line (platform 3)
+t Hatton"
+London-North-Western-South	0540	17	MD405	"Leamington Spa Junction –
+Coventry South Junction via
+Milverton Jn"	Y	Y	Y	N	N	Y	N	N		
+London-North-Western-South	0540	18	MD410	"Coventry North Junction –
+Nuneaton South Junction via
+Bedworth"	Y *	Y	Y	N	N	Y	N	N		
+London-North-Western-South	0540	19	MD415	"Hatton Station Junction – Stratford-
+upon-Avon via Bearley"	Y *	Y	N	N	N	N	N	N		
+London-North-Western-South	0540	20	MD420	"Hatton North Junction – Hatton
+West Junction"	Y	Y	N	N	N	N	N	N		
+London-North-Western-South	0540	21	MD425	"Tyseley South Junction – Bearley
+Junction via Shirley"	Y *	Y	N	N	N	N	N	N		

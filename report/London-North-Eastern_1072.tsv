@@ -1,0 +1,43 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1072	1	LN3201	SPC6	"hange of ELR (Ratcliffe) – Change of
+LR (Spondon)"	118	60	126	27	Y	Y	Y	"EH
+R1
+R2"	N	Y	N	"R1Prohibited between Trent South Jn
+and Change of ELR (Spondon)
+R2Prohibited with footsteps fitted"
+London-North-Eastern	1072	2	LN3201	SPC7	"hange of ELR (Spondon) – London
+oad Jn"	126	27	128	23	Y	Y	Y	N	N	Y	N	
+London-North-Eastern	1072	3	LN3201	SPC8	ondon Road Jn – Derby Jn	127	54	128	08	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1072	4	LN3201	SPC8	erby Jn – Former Clay Cross South Jn	128	08	147	69	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1072	5	LN3201	SPC9	"Former Clay Cross South Jn – Route
+oundary (LN804 / LN806) (Tapton Jn)"	142	10	146	64	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1072	6	LN3204	TSN1	rent South Jn – Mansfield Jn	119	17	125	64	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1072	7	LN3204	TSN2	Mansfield Jn – Nottingham East Jn	124	22	123	27	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1072	8	LN3207	TCC	"rent East Jn – Change of ELR (between
+orton Jn and Clay Cross North Jn)"	119	70	142	10	Y	Y	Y	"EH
+R1
+R2"	N	R1	N	"R1Prohibited between Toton North Jn
+and Change of ELR
+R2Prohibited with footsteps fitted"
+London-North-Eastern	1072	9	LN3207	SPC9	"hange of ELR (between Morton Jn and
+lay Cross North Jn) – Clay Cross North
+n"	142	10	143	12	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1072	10	LN3210	JRT2	"Route Boundary (EA1370) (Junction
+oad Jn) – Change of ELR (Between
+ottenham North Curve No 2 and No 1
+unnels)"	2	38	2	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1072	11	LN3210	JRT1	"hange of ELR (Between Tottenham
+orth Curve No 2 and No 1 Tunnels) –
+arlton Road Jn (Tottenham Lines)"	0	18	0	03	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1072	12	LN3213	MCL	"oute Boundary (SO280) (former
+arringdon Jn) – Kentish Town Jn"	0	66	3	58	N	N	N	N	N	N	N	
+London-North-Eastern	1072	13	LN3214	CBI	Canal Tunnel Jn – Belle Isle Jn	0	00	0	53	N	N	N	N	N	N	N	
+London-North-Eastern	1072	14	LN3219	CAW	"ricklewood Curve Jn – Route Boundary
+LOR EA1360) (Dudding Hill)"	5	19	5	72	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1072	15	LN3222	BDH	"rent Curve Jn – Route Boundary
+EA1360) (Dudding Hill)"	0	00	0	54	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1072	16	LN3228	TCC	rent East Jn – Trent East ELR Change	119	70	119	56	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted

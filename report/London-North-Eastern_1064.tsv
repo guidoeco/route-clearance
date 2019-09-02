@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1064	1	LN786	BEC	"Boughton Jn – Network Rail Boundary
+Bevercotes Colliery)"	0	00	4	22	N	N	N	N	N	N	N	"Line out of use from 01m 0ch to Network
+Rail Boundary (Bevercotes Colliery)
+LN213/PJ1037"
+London-North-Eastern	1064	2	LN788	TYC	horesby Colliery Jn – Thoresby Colliery	0	00	0	42	Y	Y	N	N	N	N	N	
+London-North-Eastern	1064	3	LN802	WKC	"Welbeck Colliery Jn – Network Rail
+oundary (RJB)"	0	00	2	63	Y	Y	N	N	N	N	N	
+London-North-Eastern	1064	4	LN804	TJC1	"oute Boundary (LN3201) (Tapton Jn) –
+ore South Jn"	146	64	153	71	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1064	5	LN804	TJC1	Dore South Jn – Sheffield Station	153	71	158	40	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1064	6	LN804	TJC1	Sheffield Station – Nunnery Main Line Jn	158	40	158	77	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1064	7	LN804	TJC1	"unnery Main Line Jn – Site of Former
+rimesthorpe Jn"	158	77	160	47	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1064	8	LN804	TJC2	"Site of Former Grimesthorpe Jn – Site of
+asborough South Jn"	160	47	163	74	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1064	9	LN804	TJC3	"ite of Former Masborough South Jn –
+winton Jn South"	161	77	166	56	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1064	10	LN804	SMJ1	Swinton Jn South – Swinton Jn North	166	56	167	03	Y	Y	Y	"EH
+R1"	N	Y	N	R1Prohibited with footsteps fitted
+London-North-Eastern	1064	11	LN804	SMJ1	"Swinton Jn North – Site of Former Wath
+urve Jn"	167	03	168	64	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1064	12	LN804	SMJ2	"ite of Former Wath Curve Jn –
+errybridge South Jn"	17	15	2	38	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1064	13	LN804	SMJ2	"Ferrybridge South Jn – Site of Former
+urton Salmon Jn"	2	38	0	00	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1064	14	LN804	SMJ3	"Site of Former Burton Salmon Jn –
+ilford Jn"	16	69	15	07	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1064	15	LN804	MGW	ilford Jn – Gascoigne Wood SB	7	65	6	27	Y	Y	Y	N	N	N	N	

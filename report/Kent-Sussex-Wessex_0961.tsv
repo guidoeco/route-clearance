@@ -1,0 +1,42 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Kent-Sussex-Wessex	0961	1	SO110	HHT	"Route Boundary Kent (Herne Hill
+South Jn) – Tulse Hill North Jn"	4	63	4	76	8	Y	
+Kent-Sussex-Wessex	0961	2	SO110	HHT	"Route Boundary Kent (Herne Hill
+South Jn) – Tulse Hill Substation via
+platforms 1 and 2"	4	63	5	15	8	R1	R1Prohibited Tulse Hill platform 2 (Down Loop line)
+Kent-Sussex-Wessex	0961	3	SO110	VIR	Herne Hill South Jn – Beckenham Jn	4	06	8	43	8	Y	
+Kent-Sussex-Wessex	0961	4	SO110	VIR	Beckenham Jn – Shortlands Jn	8	43	9	57	8	Y	
+Kent-Sussex-Wessex	0961	5	SO110	VIR	Shortlands Jn – Bickley Jn	9	57	12	38	8	Y	
+Kent-Sussex-Wessex	0961	6	SO110	TLP1	"Bickley Jn – Petts Wood (Fast
+Tonbridge Loop)"	12	38	13	29	8	Y	
+Kent-Sussex-Wessex	0961	7	SO110	TLP2	"Bickley Jn – Petts Wood (Slow
+Tonbridge Loop)"	12	49	13	35	8	Y	
+Kent-Sussex-Wessex	0961	8	SO110	CSM3	"Hawkwood Jn (Up Chatham Loop) –
+St Mary Cray Jn"	11	66	12	30	8	Y	
+Kent-Sussex-Wessex	0961	9	SO110	VIR	Bickley Jn – St Mary Cray Down Jn	12	38	12	79	8	Y	
+Kent-Sussex-Wessex	0961	10	SO110	VIR	"St Mary Cray Down Jn – St Mary Cray
+Up Jn"	12	79	13	17	8	Y	
+Kent-Sussex-Wessex	0961	11	SO110	VIR	St Mary Cray Up Jn – Swanley Jn	13	17	17	46	8	R1	R1Prohibited Swanley platform 3 (Up Chatham Slow line)
+Kent-Sussex-Wessex	0961	12	SO110	VIR	Swanley Jn – Fawkham Jn	17	46	20	49	8	Y	
+Kent-Sussex-Wessex	0961	13	SO110	VIR	Fawkham Jn – CTRL	20	49	0	00	8	Y	
+Kent-Sussex-Wessex	0961	14	SO110	VIR	Fawkham Jn – Rochester Bridge Jn	20	49	33	01	8	R1	"R1Prohibited between Longfield and Meopham on the Down Chatham
+Main line"
+Kent-Sussex-Wessex	0961	15	SO110	VIR	Rochester Bridge Jn – Gillingham	33	01	35	75	8	Y	
+Kent-Sussex-Wessex	0961	16	SO110	VIR	Gillingham – Western Jn	35	75	43	70	8	Y	
+Kent-Sussex-Wessex	0961	17	SO110	VIR	Western Jn – Eastern Jn	43	70	44	18	8	Y	
+Kent-Sussex-Wessex	0961	18	SO110	VIR	Eastern Jn – Faversham Jn	44	18	52	13	8	"R1
+R2
+R3"	"R1Prohibited Sittingbourne platform 1 (Up Chatham line)
+R2Prohibited between Teynham and Faversham on the Up Chatham
+line
+R3Prohibited Faversham platform 3 (Down Chatham line)"
+Kent-Sussex-Wessex	0961	19	SO110	VIR	Faversham Jn – Ramsgate Station	52	13	79	21	8	"R1
+R2
+R3"	"R1Prohibited between Faversham Jn and Whitstable on the Up Thanet
+line
+R2Prohibited Herne Bay platform 1 (Up line)
+R3Prohibited between Herne Bay and Birchington on Sea on the Down
+Thanet line"
+Kent-Sussex-Wessex	0961	20	SO110	ACR	"Ramsgate Station – Ramsgate
+Substation"	85	67	85	22	8	Y	
+Kent-Sussex-Wessex	0961	21	SO130	XTD	Charing Cross – Metropolitan Jn	0	00	1	31	4	Y	

@@ -1,0 +1,54 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge	Notes							
+London-North-Eastern	1173	1			W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1173	2	LN3201	Ratcliffe Jn –  Spondon	Y *	Y	R1	R1	R1	R1	R1	R1	"R1Between Trent West Jn and Sheet Stores Jn
+only"
+London-North-Eastern	1173	3	LN3201	Spondon – Derby London Rd Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1173	4	LN3201	"Derby London Road Jn  – Clay Cross
+Sth Jn"	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1173	5	LN3201	"Clay Cross Sth Jn – Tapton Jn
+(Chesterfield)"	Y *	Y	Y	"R1
+R2"	"R1
+R2"	"R1
+R2"	"R1
+R2"	"R1
+R2"	"R1PROHIBITED on the Up Fast between
+former Clay Cross South Jn and Tapton Jn
+R2PROHIBITED on the Down Fast between
+former Clay Cross South Jn and Tapton Jn"
+London-North-Eastern	1173	6	LN3201	Wymington Deviation	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1173	7	LN3201	Chaddesden Sidings – Derby Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1173	8	LN3204	Trent South Jn – Nottingham East Jn	Y *	Y	Y	R1	R1	R1	R1	R1	"R1PROHIBITED Trent East Jn to Nottingham
+East Jn"
+London-North-Eastern	1173	9	LN3207	Trent East Jn – Chesterfield South Jn	Y *	Y	Y	"R1
+R2
+R3"	"R1
+R2
+R3"	"R1
+R2
+R3"	"R1
+R2
+R3"	"R1
+R2
+R3"	"R1PROHIBITED from Toton Yards
+R2PROHIBITED from Stapleford and
+Sandiacre Yards
+R3PROHIBITED from Codnor Park Sidings"
+London-North-Eastern	1173	10	LN3207	"Toton North Jn – Staton and Staveley
+Sidings (Mapperley Goods Branch)"	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1173	11	LN3210	"Junction Road Jn – Carlton Road Jn
+(Tottenham Lines)"	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1173	12	LN3213	Moorgate – Kentish Town Jn	N	N	N	N	N	N	N	N	
+London-North-Eastern	1173	13	LN3214	Canal Tunnel Jn – Belle Isle Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1173	14	LN3219	"Cricklewood Curve Jn –o Dudding Hill
+Jn"	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1173	15	LN3222	Brent Curve Jn – Dudding Hill Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1173	16	LN3228	Trent East Jn – Sheet Stores Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1173	17	LN3231	Wigston South Jn – Glen Parva Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1173	18	LN3232	Wigston North Jn – Hinckley	Y *	Y	Y	Y	N	Y	N	N	
+London-North-Eastern	1173	19	LN3234	Syston East Jn – Syston North Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1173	20	LN3237	Loughborough South Jn – Hotchley Hill	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1173	21	LN3240	Little Eaton Jn –o Denby	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1173	22	LN3246	Ambergate Jn – Matlock	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1173	23	LN3249	Lenton South Jn – Lenton North Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1173	24	LN3252	Mansfield Jn to Trowell South Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1173	25	LN3255	Radford Jn – Kirkby Lane End Jn	Y	N	N	N	N	N	N	N	

@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	380	390	507	508	Notes
+London-North-Western-North	0862	1	NW4033	CBC2	"Bransty SB (Change of ELR) – Change of ELR
+(Maryport)"	0	16	12	05	N	N	N	N	
+London-North-Western-North	0862	2	NW4033	CBC3	Change of ELR (Maryport) – Carlisle South Jn	0	00	27	49	N	N	N	N	
+London-North-Western-North	0862	3	NW4041	DAP	Dalton Jn – Park South Jn	0	00	0	76	N	N	N	N	
+London-North-Western-North	0862	4	NW5001	CMP1	Crewe North Jn – Sandbach North Jn	158	17	162	62	N	Y	N	N	
+London-North-Western-North	0862	5	NW5001	CMP1	Sandbach North Jn – Wilmslow South Jn	162	62	176	53	N	Y	N	N	
+London-North-Western-North	0862	6	NW5001	CMP1	Wilmslow South Jn – Cheadle Hulme North Jn	176	53	180	67	N	Y	N	N	
+London-North-Western-North	0862	7	NW5001	CMP1	Cheadle Hulme North Jn - Edgeley Jn No.1	180	67	182	36	N	Y	N	N	
+London-North-Western-North	0862	8	NW5001	CMP2	Edgeley Jn No.1 - Edgeley Jn	182	36	182	59	N	Y	N	N	
+London-North-Western-North	0862	9	NW5001	CMP2	Edgeley Jn – Slade Lane Jn	182	59	186	46	N	R1	N	N	1Prohibited Stockport  bay platform
+London-North-Western-North	0862	10	NW5001	CMP2	Slade Lane Jn – Ardwick Jn	186	46	188	08	N	Y	N	N	
+London-North-Western-North	0862	11	NW5001	CMP2	Ardwick Jn – Manchester Piccadilly East Jn	188	08	188	48	N	R1	N	N	1Prohibited Up East Line
+London-North-Western-North	0862	12	NW5001	CMP2	"Manchester Piccadilly East Jn – Manchester
+Piccadilly"	188	48	188	70	N	R1	N	N	"1Prohibited Manchester Piccadilly platforms 11
+and 12"
+London-North-Western-North	0862	13	NW5003	STY	Wilmslow South Jn – Heald Green South Jn	0	00	2	50	N	Y	N	N	
+London-North-Western-North	0862	14	NW5003	STY	Heald Green South Jn – Heald Green North Jn	2	50	3	13	N	Y	N	N	
+London-North-Western-North	0862	15	NW5003	STY	Heald Green North Jn – Slade Lane Jn	3	13	9	44	N	Y	N	N	
+London-North-Western-North	0862	16	NW5005	SMA	Heald Green South Jn – Heald Green West Jn	1	48	1	10	N	N	N	N	
+London-North-Western-North	0862	17	NW5007	MIA	Manchester Airport – Heald Green North Jn	0	00	1	51	N	N	N	N	
+London-North-Western-North	0862	18	NW5008	LEC6	"Little Bridgeford Jn – Searchlight Lane Jn (Change
+of ELR and mileage) (Up line only)"	137	42	138	55	N	Y	N	N	
+London-North-Western-North	0862	19	NW5008	NBS	"Searchlight Lane Junction (Change of ELR and
+mileage) – Stone Jn"	4	06	0	00	N	Y	N	N	
+London-North-Western-North	0862	20	NW5008	NBS1	"Norton Bridge Junction – Yarnfield Junction (Norton
+Bridge East Chord)"	4	14	2	50	N	Y	N	N	
+London-North-Western-North	0862	21	NW5009	CMD2	Colwich Jn – Stone Jn	38	61	27	00	N	T	N	N	
+London-North-Western-North	0862	22	NW5009	CMD2	Stone Jn – Stoke Jn	27	00	20	36	N	T	N	N	
+London-North-Western-North	0862	23	NW5009	CMD2	Stoke Jn – Glebe Street Jn	20	36	20	10	N	T	N	N	
+London-North-Western-North	0862	24	NW5009	CMD2	Glebe Street Jn – Change of ELR	20	10	15	65	N	R1	N	N	1Prohibited Stoke on Trent bay platform
+London-North-Western-North	0862	25	NW5009	CMD1	Change of ELR – Kidsgrove Jn	16	00	13	68	N	T	N	N	
+London-North-Western-North	0862	26	NW5009	CMD1	"Kidsgrove Jn – Macclesfield Hibel Road (Change of
+ELR )"	13	68	0	00	N	T	N	N	
+London-North-Western-North	0862	27	NW5009	MCH	"Macclesfield Hibel Road (Change of  ELR) –
+Cheadle Hulme North Jn"	9	37	0	00	N	T	N	N	
+London-North-Western-North	0862	28	NW5010	SCQ1	Glebe Street Jn – Change of Mileage	20	08	20	33	N	N	N	N	Line out of use
+London-North-Western-North	0862	29	NW5010	SCQ1	"Change of Mileage – Change of Mileage (Site of
+Former Milton Jn)"	0	00	3	51	N	N	N	N	Line leased to Moorland & City Railways Ltd

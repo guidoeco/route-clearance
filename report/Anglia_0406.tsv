@@ -1,0 +1,22 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Anglia	0406	1	EA1510	RBY	Reedham Jn – Breydon Access No24 LC	12	34	19	13	Y	Y	Y	N	N	Y	N	
+Anglia	0406	2	EA1520	SIZ	Saxmundham Jn – Sizewell	91	40	95	79	Y	Y	N	N	N	N	N	
+Anglia	0406	3	EA1530	CCH	Coldham Lane Jn – Haughley Jn	0	23	40	49	Y	Y	Y	N	N	Y	N	
+Anglia	0406	4	EA1540	SOB1	"Chippenham Jn – Site of Former
+Snailwell Jn"	0	63	0	00	Y	Y	Y	N	N	Y	N	
+Anglia	0406	5	EA1540	SOB2	"Site of Former Snailwell Jn  – Ely Dock
+Jn"	1	54	12	33	Y	Y	Y	N	N	Y	N	
+Anglia	0406	6	EA1550	EWC	"Ely North Jn – Ely West Jn (Ely West
+Curve)"	71	63	72	63	Y	Y	Y	N	N	N	N	
+Anglia	0406	7	EA1560	EMP	Ely North Jn – Ely West Jn	71	63	72	39	Y	Y	Y	N	N	Y	R1	R1Permitted for diversionary purposes
+Anglia	0406	8	EA1560	EMP	"Ely West Jn – Route Boundary (LN135)
+(Peterborough)"	72	39	98	40	Y	Y	Y	N	N	Y	"R1
+R2"	"R1Permitted for diversionary purposes
+R250mph over Harts Bridge No 1833
+(Centre Girder Underbridge) Down Main
+(94m 75ch)"
+Anglia	0406	9	EA1570	WIG	March East Jn – Whitemoor Jn	85	78	86	18	Y	Y	N	N	N	N	N	
+Anglia	0406	10	EA1570	MWL	March West Jn – Whitemoor Jn	0	00	0	13	Y	Y	N	N	N	N	N	
+Anglia	0406	11	EA1570	WIG	Whitemoor Jn – Wisbech	86	18	93	60	N	N	N	N	N	N	N	Line out of use (temporarily)
+Anglia	0406	12	EA1580	ETN	Ely North Jn – Trowse Jn	71	72	123	00	Y	Y	Y	N	N	Y	N	
+Anglia	0406	13	EA1744	BFC	Europa Jn – Boss Hall Jn	0	00	0	63	Y	Y	Y	N	N	N	N	

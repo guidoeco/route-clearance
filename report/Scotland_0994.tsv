@@ -1,0 +1,42 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	314	318	320	322	325	334	350	380	390	Notes
+Scotland	0994	1	SC157	MLE	"Millerhill South Jn – Millerhill East Jn
+(Goods Line)"	0	09	0	28	N	N	N	N	N	N	N	N	N	
+Scotland	0994	2	SC159	NDE2	"Millerhill West Jn – Millerhill South Jn /
+Millerhill Yard"	6	52	5	72	N	N	N	N	N	N	N	N	N	
+Scotland	0994	3	SC161	NDE1	"Millerhill Yard – Junction with Niddrie
+West Line"	5	52	3	36	N	N	N	R1	H	N	N	E	N	R1Prohibited Newcraighall turnback siding
+Scotland	0994	4	SC161	SUB1	"Junction with Niddrie West Line –
+Portobello"	3	36	3	30	N	N	N	Y	H	N	N	E	N	
+Scotland	0994	5	SC161	MHL4	"Newcraighall East Jn – Network Rail /
+Abellio Scotrail Boundary"	00	00	00	08	N	N	N	N	N	E	N	E	N	
+Scotland	0994	6	SC163	SUB1	Portobello – Change of ELR	3	30	4	00	N	N	N	N	H	N	N	N	N	
+Scotland	0994	7	SC163	SUB2	Change of ELR – Niddrie West	6	69	6	30	N	N	N	N	H	N	N	N	N	
+Scotland	0994	8	SC164	NNS	"Newcraighall North Jn – Newcraighall
+South Jn"	4	63	5	02	N	N	N	N	N	N	N	N	N	
+Scotland	0994	9	SC164	SBO	Newcraighall South Jn – Tweedbank	5	02	35	34	N	N	N	N	N	N	N	N	N	
+Scotland	0994	10	SC165	MHY	Niddrie South Jn – Niddrie West Jn	7	06	6	30	N	N	N	N	H	N	N	N	N	
+Scotland	0994	11	SC165	SUB2	Niddrie West Jn – Gorgie Jn	6	30	0	45	N	N	N	N	H	N	N	N	N	
+Scotland	0994	12	SC165	GGE	Gorgie Jn – Haymarket West Jn	0	00	0	41	N	N	N	N	H	N	N	N	N	
+Scotland	0994	13	SC167	CKT	Craiglockhart Jn – Slateford Jn	0	00	0	48	N	N	N	N	H	N	N	N	N	
+Scotland	0994	14	SC169	SUB2	Gorgie Jn – Haymarket Central Jn	0	45	0	11	N	N	N	N	H	N	N	N	N	
+Scotland	0994	15	SC171	ECM9	"Waverley East End – Edinburgh
+Waverley"	0	21	0	00	Y	Y	Y	Y	Y	Y	E	Y	R1	"R1Prohibited Edinburgh Waverley
+platforms 1, 3, 4 and 20"
+Scotland	0994	16	SC171	EGM4	"Edinburgh Waverley – Waverley West
+End (South Lines)"	0	00	0	15	Y	Y	Y	Y	Y	Y	Y	Y	R1	"R1Prohibited Edinburgh Waverley
+platforms 12, 13 and 14"
+Scotland	0994	17	SC171	ECN1	"Edinburgh Waverley – Waverley West
+End (North Lines)"	0	00	0	15	Y	Y	Y	Y	Y	Y	N	Y	R1	"R1Prohibited Edinburgh Waverley
+platforms 1, 15, 16, 17, 18 and 20"
+Scotland	0994	18	SC171	EGM3	"Waverley West End – Haymarket
+(South Lines)"	0	15	1	19	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0994	19	SC171	ECN2	"Waverley West End – Haymarket
+(North Lines)"	0	15	1	19	Y	Y	Y	Y	Y	Y	N	Y	Y	
+Scotland	0994	20	SC171	EGM2	"Haymarket – Haymarket East Jn
+(South Lines)"	46	02	45	72	Y	Y	Y	Y	Y	Y	N	Y	Y	
+Scotland	0994	21	SC171	ECN2	"Haymarket – Haymarket East Jn (North
+Lines)"	1	19	1	29	Y	Y	Y	Y	Y	Y	N	Y	N	
+Scotland	0994	22	SC171	EGM2	"Haymarket East Jn – Haymarket
+Central Jn (South Lines)"	45	72	45	35	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0994	23	SC171	ECN2	"Haymarket East Jn – Haymarket
+Central Jn (North Lines)"	1	29	1	66	Y	Y	Y	Y	H	Y	N	Y	N	

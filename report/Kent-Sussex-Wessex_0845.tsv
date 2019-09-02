@@ -1,0 +1,40 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
+Kent-Sussex-Wessex	0845	1	SO110	VIR	Shortlands Jn – Bickley Jn	9	57	12	38	N	Y	Y	N	Y	Y	Y	N	EH	Y	
+Kent-Sussex-Wessex	0845	2	SO110	TLP1	"Bickley Jn – Petts Wood (Fast
+Tonbridge Loop)"	12	38	13	29	N	Y	Y	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0845	3	SO110	TLP2	"Bickley Jn – Petts Wood (Slow
+Tonbridge Loop)"	12	49	13	35	N	Y	Y	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0845	4	SO110	CSM3	"Hawkwood Jn (Up Chatham Loop) –
+St Mary Cray Jn"	11	66	12	30	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0845	5	SO110	VIR	Bickley Jn – St Mary Cray Down Jn	12	38	12	79	N	Y	Y	N	Y	Y	Y	N	EH	Y	
+Kent-Sussex-Wessex	0845	6	SO110	VIR	"St Mary Cray Down Jn – St Mary Cray
+Up Jn"	12	79	13	17	N	Y	Y	N	Y	Y	Y	N	EH	Y	
+Kent-Sussex-Wessex	0845	7	SO110	VIR	St Mary Cray Up Jn – Swanley Jn	13	17	17	46	N	Y	Y	N	Y	Y	Y	N	EH	Y	
+Kent-Sussex-Wessex	0845	8	SO110	VIR	Swanley Jn – Fawkham Jn	17	46	20	49	N	N	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0845	9	SO110	VIR	Fawkham Jn – CTRL	20	49	0	00	N	N	N	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0845	10	SO110	VIR	Fawkham Jn – Rochester Bridge Jn	20	49	33	01	N	N	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0845	11	SO110	VIR	Rochester Bridge Jn – Gillingham	33	01	35	75	N	N	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0845	12	SO110	VIR	Gillingham – Western Jn	35	75	43	70	N	N	N	N	Y	Y	"R1
+R2"	N	N	R3	"R1Prohibited between Gillingham SB and
+Western Jn
+R2Class 377/1 and 377/5 only Gillingham
+SB – Western Jn
+R3Prohibited between Chatham Dockyard
+Jn and Western Jn"
+Kent-Sussex-Wessex	0845	13	SO110	VIR	Western Jn – Eastern Jn	43	70	44	18	N	N	N	N	Y	Y	R1	N	N	N	R1Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0845	14	SO110	VIR	Eastern Jn – Faversham Jn	44	18	52	13	N	N	N	N	Y	Y	R1	N	N	N	R1Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0845	15	SO110	VIR	Faversham Jn – Ramsgate Station	52	13	79	21	N	N	N	N	Y	Y	R1	N	N	N	R1Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0845	16	SO110	ACR	"Ramsgate Station – Ramsgate
+Substation"	85	67	85	22	N	N	N	N	Y	Y	R1	N	N	N	R1Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0845	17	SO130	XTD	Charing Cross – Metropolitan Jn	0	00	1	31	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0845	18	SO130	CBM	"Cannon Street – Cannon Street
+Substation"	0	00	0	20	N	N	N	N	Y	Y	R1	N	N	N	R1Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0845	19	SO130	CSW	"Cannon Street Sub Station –
+Metropolitan Jn (via Metropolitan
+Reversible line)"	1	53	1	33	N	Y	N	N	Y	Y	"R1
+R2"	N	N	N	"R1Class 377/1 and 377/5 only
+R2Prohibited between Cannon Street Sub
+Station and 1m46ch"
+Kent-Sussex-Wessex	0845	20	SO130	XTD	Metropolitan Jn – Borough Market Jn	1	31	1	50	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0845	21	SO130	CBM	"Cannon Street Substation – Borough
+Market Jn"	0	20	0	38	N	N	N	N	Y	Y	R1	N	N	N	R1Class 377/1 and 377/5 only

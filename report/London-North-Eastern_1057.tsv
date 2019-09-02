@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1057	1	LN105	MEB1	Moorgate – Drayton Park	0	00	2	56	N	N	N	N	N	N	N	
+London-North-Eastern	1057	2	LN105	MEB1	Drayton Park – Finsbury Park Jn	2	56	3	37	N	N	N	N	N	N	N	
+London-North-Eastern	1057	3	LN110	CFP	"Route Boundary (EA1320) (Canonbury
+West Jn) - Finsbury Park Jn"	3	20	4	33	Y	Y	Y	N	N	Y	Y	
+London-North-Eastern	1057	4	LN115	CRF1	"openhagen Jn – Route Boundary
+(EA1320) (North London Incline)"	0	00	0	20	Y	Y	Y	"EH
+R1"	N	Y	EH	R1Prohibited with footsteps fitted
+London-North-Eastern	1057	5	LN120	HDB	"Wood Green Jn – Langley Jn via
+Hertford"	5	07	28	15	Y	Y	Y	N	N	Y	Y	
+London-North-Eastern	1057	6	LN125	SBR	"Cambridge Jn – Route Boundary
+(EA1230)"	32	11	45	60	Y	Y	Y	N	N	Y	Y	
+London-North-Eastern	1057	7	LN126	DCF	itchin North Jn – Hitchin East Jn	32	53	34	05	Y	Y	Y	N	N	Y	Y	
+London-North-Eastern	1057	8	LN135	EMP	"Route Boundary (EA1560) (Ely West Jn)
+– Crescent Jn"	98	40	100	66	Y	Y	Y	N	N	Y	Y	
+London-North-Eastern	1057	9	LN147	PMJ	Helpston Jn – Route Boundary (LN3615)	16	71	13	60	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	10	LN150	SPD5	Flyover East – Decoy North Jn	116	20	117	46	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	11	LN155	LCJ	"Flyover East Jn – Loversall Jn (Up
+Loversall Curve)"	152	79	152	36	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	12	LN160	LCR	"Loversall Carr Jn – Rossington Colliery
+Jn"	152	00	152	12	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	13	LN160	FWR1	Rossington Colliery Jn – Flyover West Jn	152	12	153	19	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	14	LN165	HPW	"Route Boundary (EA1370) (Harringay
+Park Jn) – Harringay Jn"	0	14	0	03	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	15	LN170	WEB	"Werrington Jn – Site of Former Spalding
+South Jn"	79	34	92	58	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	16	LN170	SPD1	"Site of Former Spalding South Jn –
+Sleaford South Jn"	44	07	62	14	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	17	LN170	SPD2	Sleaford South Jn – Sleaford North Jn	62	14	63	48	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	18	LN170	SPD2	"Sleaford North Jn – Site of Former
+Greetwell West Jn"	63	48	81	25	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	19	LN170	SPD3	"Site of Former Greetwell West Jn – Trent
+East Jn"	81	25	98	56	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	20	LN170	MAC3	Trent East Jn – Trent West Jn	73	25	73	11	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	21	LN170	SPD4	Trent West Jn – Bessacarr Jn	98	68	115	72	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	22	LN170	SPD5	"Bessacarr Jn –  Doncaster, Flyover East
+Jn"	115	72	116	20	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1057	23	LN175	SSE	Sleaford South Jn –  Sleaford East Jn	0	00	0	43	Y	Y	Y	N	N	N	Y	

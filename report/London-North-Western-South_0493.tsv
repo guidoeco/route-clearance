@@ -1,0 +1,25 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	Mk3 (MOD)	MK3DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Western-South	0493	1	MD101	LEC1	London Euston – Camden Jn DC Lines	0	00	1	36	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	2	MD101	LEC1	"Camden Jn DC Lines – Camden Jn
+(NLL)"	1	36	1	51	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	3	MD101	LEC1	"Camden Jn – West London Jn
+(Willesden)"	1	51	5	23	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	4	MD101	LLG	"West London Jn (Willesden) – Sudbury
+Jn (Willesden Relief Lines)"	0	12	2	03	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	5	MD101	LEC1	"West London Jn (Willesden)  –
+Harlesden Jn"	5	23	6	01	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	6	MD101	LEC1	Harlesden Jn – Watford South Jn	6	01	17	06	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	7	MD101	LEC1	Watford South Jn – Bletchley South Jn	17	06	46	41	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	8	MD101	LEC1	"Bletchley South Jn – Bletchley
+(Platforms 1 – 5) – Denbigh Hall South
+Jn"	46	41	47	52	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	9	MD101	LEC1	"Denbigh Hall South Jn – Hanslope North
+Jn"	47	52	56	66	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	10	MD101	LEC1	Hanslope North Jn – Hillmorton Jn	56	66	81	28	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	11	MD101	LEC1	Hillmorton Jn – Rugby Trent Valley Jn	81	28	83	18	Y	Y	Y	EH	Y	Y	N	
+London-North-Western-South	0493	12	MD101	LEC2	"Rugby Trent Valley Jn – Armitage Jn
+(NW1001 Sectional Appendix Boundary)"	83	18	119	20	Y	Y	Y	N	Y	Y	N	
+London-North-Western-South	0493	13	MD105	HNR	"Hanslope Jn (MD101) – Northampton
+South Jn"	56	66	65	55	Y	Y	Y	N	Y	Y	N	
+London-North-Western-South	0493	14	MD105	HNR	"Northampton South Jn – Northampton
+North Jn"	65	55	66	12	Y	Y	Y	N	Y	Y	N	

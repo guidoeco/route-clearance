@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT MOD)	MK4	Notes
+London-North-Western-North	0879	1	NW6003	MAJ	"Castlefield Jn - Trafford Park Sidings
+(Limit of Electrification)"	33	57	31	35	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	2	NW6003	MAJ	"Trafford Park Sidings (Limit of
+Electrification) - Hunts Cross"	31	35	7	07	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	3	NW6003	MAJ	Hunts Cross - Hunts Cross West Jn	7	07	6	11	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	4	NW6003	AHX	Hunts Cross West Jn – Allerton Jn	0	37	0	00	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	5	NW6004	CD	"Water Street Jn – Irwell Street Jn
+(Change of Mileage and ELR)"	190	05	190	34	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	6	NW6004	DSE	"Irwell Street Jn (Change of Mileage
+and ELR) – Deal Street Jn (Ordsall
+Curve lines)"	30	64	31	18	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	7	NW6005	MVM	"Manchester Victoria East Jn –
+Manchester Victoria"	0	09	0	00	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	8	NW6005	MVE1	"Manchester Victoria – Deal Street Jn
+(Chat Moss Lines)"	0	00	0	32	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	9	NW6005	MVE1	"Deal Street Jn – Windsor Bridge
+South Jn"	0	32	1	55	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	10	NW6007	DSE	Deal Street Jn – Ordsall Lane Jn	31	18	30	38	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	11	NW6009	WBS1	"Windsor Bridge North Jn – Crow Nest
+Jn"	1	66	14	64	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	12	NW6009	WBS2	Crow Nest Jn – Wigan Station Jn	14	64	17	44	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	13	NW6009	WBS2	Wigan Station Jn – Wigan Wallgate Jn	17	44	18	04	Y	Y	Y	N	N	N	N	
+London-North-Western-North	0879	14	NW6009	WBS3	Wigan Wallgate Jn – Southport	18	04	35	27	Y	Y	N	N	N	N	N	
+London-North-Western-North	0879	15	NW6011	BBB	Bolton East Jn – Blackburn Bolton Jn	10	31	24	08	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	16	NW6013	LCN	Lostock Jn – Crow Nest Jn	13	39	17	18	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	17	NW6015	WKL1	"Wigan Wallgate Jn – Change of
+Mileage (Pemberton)"	18	04	19	48	Y	Y	N	N	N	N	N	
+London-North-Western-North	0879	18	NW6015	WKL2	"Change of Mileage (Pemberton) –
+Kirkby"	19	09	29	40	Y	Y	N	N	N	N	N	
+London-North-Western-North	0879	19	NW7001	MVM	"Manchester Victoria East Jn (Man Vic
+West Jn – East Jn on NW6005) –
+Miles Platting Jn"	0	09	1	30	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	20	NW7001	MPR1	Miles Platting Jn – Brewery Jn	1	30	1	52	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	21	NW7001	MPR1	Brewery Jn –Thorpes Bridge Jn	1	52	2	17	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	22	NW7001	MVN2	"Thorpes Bridge Jn – Castleton South
+Jn"	2	17	8	21	Y	Y	Y	N	N	N	Y	
+London-North-Western-North	0879	23	NW7001	MVN2	"Castleton South Jn – Castleton East
+Jn"	8	21	8	52	Y	Y	Y	N	N	N	Y	

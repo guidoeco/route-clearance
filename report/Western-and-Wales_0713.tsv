@@ -1,0 +1,43 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	325	332	360	387	Notes
+Western-and-Wales	0713	1	GW103	MLN1	"Heathrow Airport Jn (Down Main) –
+Stockley Bridge Jn (Limit of
+Electrification)"	11	15	12	09	H	N	N	R1	R1100mph maximum speed
+Western-and-Wales	0713	2	GW103	MLN1	"Stockley Bridge Jn (Limit of
+Electrification) – Slough"	12	09	18	36	H	N	N	"R1
+R2"	"R1Prohibited Langley Sidings
+R2Prohibited with air bags deflated / failed
+secondary suspension Slough platform 3"
+Western-and-Wales	0713	3	GW103	MLN1	Slough – Maidenhead Jn	18	36	24	24	H	N	N	"R1
+R2
+R3
+R4"	"R1Prohibited with air bags deflated / failed
+secondary suspension Slough platform 3
+R2Prohibited Slough Up Goods Loop and
+Estate Sidings
+R3Prohibited with air bags deflated / failed
+secondary suspension Taplow platform 3
+R4Prohibited with air bags deflated / failed
+secondary suspension Maidenhead
+platforms 1 & 4"
+Western-and-Wales	0713	4	GW103	MLN1	Maidenhead Jn – Henley Branch Jn	24	24	31	04	H	N	N	R1	"R1Prohibitied Twyford platform 2 in crush
+deflated"
+Western-and-Wales	0713	5	GW103	MLN1	Henley Branch Jn – Reading New Jn	31	04	35	40	H	N	N	R1	"R1Prohibitied Twyford platform 2 in crush
+deflated"
+Western-and-Wales	0713	6	GW103	MLN1	Reading New Jn – Westbury Line Jn	35	40	36	17	H	N	N	Y	
+Western-and-Wales	0713	7	GW103	RLL	"Reading East Jn – Route Boundary
+(SW210 ) (Reading Southern Jn)"	35	61	35	38	N	N	N	N	
+Western-and-Wales	0713	8	GW103	MLN1	Westbury Line Jn – Reading West Jn	36	17	36	78	H	N	N	R1	R1Prohibited Reading West Jn Sidings
+Western-and-Wales	0713	9	GW103	MLN1	Reading West Jn – Didcot East Jn	36	78	52	66	H	N	N	"R1
+R2
+R3"	"R1Prohibited Reading West Jn Sididngs
+R2Prohibited Tilehurst platform 1 in crush
+deflated
+R330mph Tilehurst platform 3"
+Western-and-Wales	0713	10	GW103	MLN1	Didcot East Jn – Chester Line Jn	52	66	53	12	H	N	N	R1	"R1Prohibited Didcot platform 2 in crush
+deflated"
+Western-and-Wales	0713	11	GW103	MLN1	Chester Line Jn – Foxhall Jn	53	12	53	55	H	N	N	R1	"R1Prohibited Didcot platform 2 in crush
+deflated"
+Western-and-Wales	0713	12	GW103	MLN1	Foxhall Jn – Uffington	53	55	66	39	H	N	N	Y	
+Western-and-Wales	0713	13	GW105	MLN1	Uffington – Swindon Jn	66	39	77	36	H	N	N	N	
+Western-and-Wales	0713	14	GW105	MLN1	Swindon Jn – Wootton Bassett Jn	77	36	83	07	H	N	N	N	
+Western-and-Wales	0713	15	GW105	MLN1	Wootton Bassett Jn – Thingley Jn	83	07	96	10	H	N	N	N	

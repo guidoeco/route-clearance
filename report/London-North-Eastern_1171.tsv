@@ -1,0 +1,39 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge	Notes							
+London-North-Eastern	1171	1			W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1171	2	LN875	"Castleford West Jn – Pontefract West
+Jn"	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	3	LN876	Castleford East Jn – Ledston	-	-	-	-	-	-	-	-	Line 'Out of Use'
+London-North-Eastern	1171	4	LN878	Sherburn Jn – Gascoigne Wood	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1171	5	LN880	York – Scarborough	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1171	6	LN882	"Wakefield Kirkgate West Jn – Calder
+Bridge Jn"	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	7	LN882	Calder Bridge Jn – Crofton West Jn	Y *	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1171	8	LN882	"Crofton West Jn – Goole Potters
+Grange Jn"	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	9	LN882	Mineral Jn – Goole Docks	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	10	LN882	"Whitley Bridge Junction – NR/Power
+Station Boundary [0m 03ch]"	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	11	LN884	Oakenshaw South Jn – Oakenshaw Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1171	12	LN886	Monk Bretton Loop – Crofton East Jn	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1171	13	LN888	Shaftholme Jn – Knottingley West Jn	Y	Y	R1	R1	R1	R1	R1	R1	"R1PROHIBITED Haywood Jn to Knottingly
+West Jn"
+London-North-Eastern	1171	14	LN888	"Knottingley West Jn – Ferrybridge
+North Jn"	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	15	LN889	Saftholme Jn – Haywood Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1171	16	LN892	"Pontefract East Jn – Ferrybridge South
+Jn"	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	17	LN894	"Knottingley South Jn – Knottingley East
+Jn"	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	18	LN896	Drax Power Station Branch	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	19	LN898	"Neville Hill East Jn – Gascoigne Wood
+Jn"	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	20	LN898	Gascoigne Wood Jn – Selby West Jn	Y	Y	Y	Y	N	Y	N	Y	
+London-North-Eastern	1171	21	LN898	Selby West Jn – Millfield Farm UWC	Y *	R1	R1	R1	R1	R1	R1	R1	R1Prohibited from Selby Up bay platform 3
+London-North-Eastern	1171	22	LN898	"Millfield Farm UWC – Hull, Anlaby
+Road Jn"	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	23	LN898	Hull, Anlaby Road Jn – Hull	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1171	24	LN898	"Hessle East Jn – Dairycoates NR limit
+[0m 70ch]"	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1171	25	LN900	Neville Hill West Jn – Hunslet East	Y	N	N	N	N	N	N	N	
+London-North-Eastern	1171	26	LN902	"Micklefield Jn – Church Fenton North
+Jn"	Y *	Y	Y	N	N	N	N	N	

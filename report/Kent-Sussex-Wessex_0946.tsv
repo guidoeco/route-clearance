@@ -1,0 +1,28 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge	Notes							
+Kent-Sussex-Wessex	0946	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
+Kent-Sussex-Wessex	0946	2	SO290	Crayford Creek Jn – Dartford Jn	Y *	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0946	3	SO290	Blackheath Jn – Charlton Jn (SO300)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0946	4	SO290	Charlton Jn – Angerstein Wharf	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0946	5	SO290	"Perry Street Fork Jn – Slade Green Jn
+(SO300)"	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0946	6	SO300	St Johns Jn – Lewisham (exclusive) (SO130)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0946	7	SO300	"Lewisham (inclusive) – Crayford Creek Jn
+(via Bexleyheath)"	Y	Y	S	N	N	N	N	N	"S1The following combinations are permitted, up to:
+2896 (h) x 2500 (w) box on FAA  FLA wagons
+2590 (h) x 2500 (w) box on FCA  FEA
+FSA/FTA  KFA wagons
+2625 (h) x 2550 (w) box on FEA FSA/FTA
+wagons
+2615 (h) x 2550 (w) box on KFA wagons"
+Kent-Sussex-Wessex	0946	8	SO300	Blackheath Jn – Charlton Jn (SO290)	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0946	9	SO300	"Perry Street Fork Jn – Slade Green Jn
+(SO290)"	Y	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0946	10	SO310	"Hither Green – Hoo Junction (via Sidcup and
+Dartford)"	Y *	Y	S	N	N	N	N	N	"S1The following combinations are permitted, up to:
+2896 (h) x 2500 (w) box on FAA  FLA wagons
+2590 (h) x 2500 (w) box on FCA  FEA
+FSA/FTA  KFA wagons
+2625 (h) x 2550 (w) box on FEA FSA/FTA
+wagons
+2615(h) x 2550(w) box on KFA wagons
+30mph Both lines at  Br. HDR-847 [23m 00ch]"

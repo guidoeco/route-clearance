@@ -1,0 +1,36 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	150	158	159	165	166 RHM	Notes
+Kent-Sussex-Wessex	0825	1	SO510	LBW	"New Cross Gate Up Jn – New Cross
+Gate Down Jn"	2	60	3	10	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	2	SO510	ELL1	"New Cross Gate Down Jn – Network
+Rail Boundary / Down ELL"	6	02	5	79	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	3	SO510	LBW	"New Cross Gate Down Jn –
+Sydenham Down Jn"	3	10	6	51	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	4	SO510	LBW	Sydenham Down Jn – Norwood Jn	6	51	8	55	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	5	SO510	LBW	Norwood Jn – Norwood Fork Jn	8	55	9	33	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	6	SO510	LBW	"Norwood Fork Jn – Cottage Jn /
+Windmill Bridge Jn"	9	33	9	64	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	7	SO510	NFE	Norwood Fork Jn – Sutton	9	33	14	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	8	SO510	NFE	Sutton – Epsom Downs	14	75	18	60	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	9	SO520	TBH1	Three Bridges – Crawley	29	21	30	49	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	10	SO520	TBH1	Crawley – Horsham Jn	30	49	37	39	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	11	SO520	TBH1	Horsham Jn – Horsham	37	39	37	56	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	12	SO520	TBH1	Horsham – Billingshurst	37	56	44	71	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	13	SO520	TBH1	Billingshurst – Arundel Jn	44	71	59	75	N	N	N	N	N	
+Kent-Sussex-Wessex	0825	14	SO520	TBH2	Arundel Jn – Barnham	19	01	22	29	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0825	15	SO520	TBH2	"Barnham – Route Boundary (SW110)
+(Havant Jn)"	22	29	35	35	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0825	16	SO520	TBH2	"Route Boundary Sussex (Barnham) –
+Havant Jn [Duplicated on SW110]"	35	35	37	24	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0825	17	SO520	WPH2	"Havant Jn – Farlington Jn [Duplicated
+on SW110]"	37	24	40	33	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0825	18	SO520	WPH2	"Farlington Jn – Portcreek Jn
+[Duplicated on SW110]"	40	33	41	03	Y	Y	Y	N	N	
+Kent-Sussex-Wessex	0825	19	SO520	WPH2	"Portcreek Jn – Blackfriars Jn
+[Duplicated on SW110]"	41	03	44	50	Y	Y	Y	N	"R1
+R2"	"R120mph through Fratton station
+R2OPPOS betweeen Down Main line and Back
+Road line, No.1 Reception Sididngs and
+Carriage Sidings lines"
+Kent-Sussex-Wessex	0825	20	SO520	WPH2	"Blackfriars Jn – Portsmouth and
+Southsea High Level [Duplicated on
+SW110]"	44	26	44	50	Y	Y	Y	N	Y	

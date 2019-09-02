@@ -1,0 +1,29 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge	Notes							
+Western-and-Wales	0790	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12	
+Western-and-Wales	0790	2	GW260	Kennington Jn – Morris Cowley	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0790	3	GW277	"Oxford North Jn – Route Boundary
+(MD736) 29m 25ch"	Y	Y	Y	Y	N	Y	N	Y	
+Western-and-Wales	0790	4	GW310	Wolvercot Jn – Norton Jn	Y *	N	N	N	N	N	N	N	
+Western-and-Wales	0790	5	GW317	Honeybourne – Long Marston	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0790	6	GW340	Worcester Shrub Hill – Shelwick Jn	S1 *	N	N	N	N	N	N	N	"S1Freight vehicles conforming
+to the W6a profile are
+permitted, EXCEPT  IFA-S
+IFA-U wagons"
+Western-and-Wales	0790	7	GW350	Worcester Tunnel Jn – Henwick	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0790	8	GW370	Droitwich Spa – Cutnall Green	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0790	9	GW400	"Barnt Green (Exclusive) – Stoke
+Works Jn (Boundary at Blackwell
+Summit [52m 40ch])"	Y *	Y	Y	N	N	N	N	N	
+Western-and-Wales	0790	10	GW400	"Stoke Works Jn – Standish Jn via
+Dunhampstead"	Y *	Y	Y	N	N	N	N	N	
+Western-and-Wales	0790	11	GW400	"Standish Jn – Westerleigh Jn via
+Charfield"	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0790	12	GW425	Berkeley Road Jn – Sharpness	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0790	13	GW430	Yate Middle Jn – Tytherington	Y	N	N	N	N	N	N	N	
+Western-and-Wales	0790	14	GW440	Yate South Jn – Westerleigh	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0790	15	GW450	Stoke Gifford Jn – Bristol East Jn	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0790	16	GW4501	"Stoke Gifford Jn – Avonmouth (Bristol
+Bulk Handling Terminal)"	Y *	Y	Y	N	N	N	N	N	
+Western-and-Wales	0790	17	GW451	"Filton Jn No 2 – Filton West Jn (Filton
+Chord)"	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0790	18	GW454	Severn Beach – Narroways Hill Jn	Y *	N	N	N	N	N	N	N	

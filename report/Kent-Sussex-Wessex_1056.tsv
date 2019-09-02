@@ -1,0 +1,23 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Kent-Sussex-Wessex	1056	1	SW100	JAT	"Waterloo platforms 20-24 –
+International Jn"	0	00	0	38	8	"R1
+R2
+R3
+R4
+R5"	"R1Prohibited from Waterloo Station (International) platform 20
+R2Prohibited from Waterloo Station (International) platform 21
+R3Prohibited from Waterloo Station (International) platform 22
+R4Prohibited from Waterloo Station (International) platform 23
+R5Prohibited from Waterloo Station (International) platform 24"
+Kent-Sussex-Wessex	1056	2	SW100	RDG1	"Waterloo platforms 12-19 –
+International Jn (Windsor Lines)"	0	00	0	38	8	Y	
+Kent-Sussex-Wessex	1056	3	SW100	RDG1	"International Jn – Carlisle Lane Jn
+(Windsor Lines)"	0	38	0	42	8	Y	
+Kent-Sussex-Wessex	1056	4	SW100	RDG1	"Carlisle Lane Jn – Nine Elms Jn
+(Windsor Lines)"	0	42	2	00	8	Y	
+Kent-Sussex-Wessex	1056	5	SW100	BML1	"Waterloo platforms 1-11 –
+International Jn (Main Lines)"	0	00	0	38	8	Y	
+Kent-Sussex-Wessex	1056	6	SW100	BML1	"International Jn – Carlisle Lane Jn
+(Main Lines)"	0	38	0	42	8	Y	
+Kent-Sussex-Wessex	1056	7	SW100	BML1	"Carlisle Lane Jn – Nine Elms Jn (Main
+Lines)"	0	42	2	00	8	R1	R1Prohibited Vauxhall platform 6 (Down Main Fast line)

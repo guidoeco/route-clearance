@@ -1,0 +1,56 @@
+Route	page	seq	Line of Route	Line of Route/Sector Description	Gauge	Notes							
+London-North-Eastern	1168	1			W6	W7	W8	W9	W9Plus	W10	W10A	W12	
+London-North-Eastern	1168	2	LN826	"Doncaster South Yorkshire Jn –
+Swinton Jn North / South"	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	3	LN828	"Mexborough Jn – Aldwarke Jn via
+Kilnhurst"	Y *	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	4	LN830	Aldwarke Jn – Woodburn Jn	Y	Y	Y	"R1
+R2
+R3
+R4"	"R1
+R2
+R3
+R4"	"R1
+R2
+R3
+R4"	"R1
+R2
+R3
+R4"	"R1
+R2
+R3
+R4"	"R1PROHIBITED between Tinsley East Jn
+and Rotherham Central Jn on the Up
+Tinsley
+R2PROHIBITED between Tinsley East Jn
+and Rotherham Central Jn on the Down
+Tinsley
+R3PROHIBITED between Rotherham Central
+station and Aldwarke New Site on the Up
+Tinsley
+R4PROHIBITED between Rotherham Central
+station and Aldwarke New Site on the
+Down Tinsley"
+London-North-Eastern	1168	5	LN832	Doncaster Bridge Jn – St James Jn	Y	Y	Y	Y	Y	Y	Y	Y	
+London-North-Eastern	1168	6	LN836	"Doncaster, Marshgate Jn – Hare Park
+Jn"	Y *	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1168	7	LN836	Hare Park Jn – Neville Hill East Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1168	8	LN838	"Leeds Armley Jn – York Skelton Jn via
+Harrogate"	S1 *	N	N	N	N	N	N	N	"S1Freight vehicles conforming to the W6a
+profile and above 3650mm in height
+10mph speed restriction through Wescoe
+Hill Tunnel on the Down: and 10mph speed
+restriction through Br39 on the Down.
+The Rail Head Treatment Train FEA wagon
+is permitted without restriction."
+London-North-Eastern	1168	9	LN840	"Leeds Engine Shed Jn – Whitehall East
+Jn"	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1168	10	LN842	Stainforth Jn – Applehurst Jn	Y *	Y	Y	N	N	N	N	N	
+London-North-Eastern	1168	11	LN842	Applehurst Jn – Adwick Jn	Y *	Y	N	N	N	N	N	N	
+London-North-Eastern	1168	12	LN842	Skellow Jn – Adwick Jn	Y *	N	N	N	N	N	N	N	
+London-North-Eastern	1168	13	LN844	Applehurst Loop	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1168	14	LN846	Carcroft Jn – Skellow Jn	Y	Y	N	N	N	N	N	N	
+London-North-Eastern	1168	15	LN848	Hare Park Jn – Crofton West Jn	Y	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1168	16	LN850	"Wakefield Westgate South Jn –
+Wakefield Kirkgate West Jn"	Y	Y	Y	N	N	N	N	N	
+London-North-Eastern	1168	17	LN852	Holbeck Jn – Bradford Interchange	Y *	N	N	N	N	N	N	N	

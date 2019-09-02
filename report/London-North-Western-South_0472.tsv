@@ -1,0 +1,44 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	165	166	168	170	171	172	175	180	220	221	Notes
+London-North-Western-South	0472	1	MD725	MCJ2	Aylesbury – Aylesbury Vale Parkway	38	13	40	38	R1	N	Y	N	N	R2	N	N	N	N	"R1Route prohibited to Class 165/1
+R2Route prohibited to Class 172/2 and 172/3"
+London-North-Western-South	0472	2	MD725	MCJ2	"Aylesbury Vale Parkway – Change of
+Mileage (Quainton Road)"	40	38	44	28	Y	Y	E	N	N	"E
+R1"	N	N	N	N	R1Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0472	3	MD725	MCJ3	"Change of Mileage (Quainton Road) –
+Calvert Jn (Change of Mileage)"	161	50	156	72	Y	Y	E	N	N	"E
+R1"	N	N	N	N	R1Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0472	4	MD725	MCJ4	"Calvert Jn (Change of Mileage) –
+Claydon L&NE Jn"	0	00	0	41	Y	Y	E	N	N	"E
+R1"	N	N	N	N	R1Route prohibited to Class 172/2 and 172/3
+London-North-Western-South	0472	5	MD736	OXD	"Route Boundary (GW277) –Gavray
+Junction"	29	25	19	00	Y	Y	Y	N	N	Y	N	N	N	N	
+London-North-Western-South	0472	6	MD736	OXD	Gavray Junction – Gates (Claydon)	19	00	12	00	R1	"E
+R2"	R1	N	N	R3	N	N	N	N	"R1Prohibtied Temporary Buffer Stop to Gates
+(Claydon)
+R2Prohibited with footsteps fitted
+R3Route prohibited to Class 172/2 and 172/3"
+London-North-Western-South	0472	7	MD736	OXD	Gates (Claydon) – Buffer Stops	12	00	1	31	N	N	N	N	N	N	N	N	N	N	Line non operational
+London-North-Western-South	0472	8	MD736	OXD	"Buffer Stops – Flyover Junction
+(Change of ELR)"	1	27	0	62	"E
+R1"	"E
+R1"	N	N	N	N	N	N	N	N	R1Prohibited with footsteps fitted
+London-North-Western-South	0472	9	MD736	BFO	"Flyover Junction (Change of ELR) –
+Flyover Junction Summit"	0	00	0	68	"E
+R1"	"E
+R1"	N	N	N	N	N	N	N	N	R1Prohibited with footsteps fitted
+London-North-Western-South	0472	10	MD736	DHF	"Flyover Junction Summit – Limit of
+Electrification"	0	68	1	37	"E
+R1"	"E
+R1"	N	N	N	N	N	N	N	N	R1Prohibited with footsteps fitted
+London-North-Western-South	0472	11	MD736	DHF	"Limit of Electrification – Bletchley
+Flyover North Jn"	1	37	1	61	"E
+R1"	"E
+R1"	N	N	N	N	N	N	N	N	R1Prohibited with footsteps fitted
+London-North-Western-South	0472	12	MD736	DHF	"Bletchley Flyover North Jn – Denbigh
+Hall South Jn"	1	61	1	73	"E
+R1"	"E
+R1"	N	N	N	N	N	N	N	N	R1Prohibited with footsteps fitted
+London-North-Western-South	0472	13	MD740	BFO	"Flyover Jn (Summit) – Fenny Stratford
+Bletchley Flyover Jn"	0	68	1	59	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0472	14	MD745	BSG	"Bicester South Junction – Gavray
+Junction"	0	00	0	52	Y	Y	Y	N	N	Y	N	N	N	N	

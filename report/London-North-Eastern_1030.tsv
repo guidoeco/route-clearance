@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	Notes
+London-North-Eastern	1030	1	LN812	BLJ	"Shepcote Lane East Jn – Broughton
+Lane Jn"	161	20	161	67	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	2	LN816	BEW	Beighton Jn – Woodhouse Jn	48	06	46	56	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	3	LN818	HCD	Holmes Jn – Rotherham Central Jn	0	00	0	62	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	4	LN824	SKM	Moorthorpe Jn – South Kirkby Jn	0	57	0	05	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	5	LN826	PED5	South Yorkshire Jn – Mexborough Jn	22	57	15	64	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	6	LN826	SJM2	"Mexborough Jn – Site of former
+Mexborough North Jn"	15	64	14	78	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	7	LN826	SJM1	"Site of former Mexborough North Jn –
+Swinton Jn South"	167	15	166	56	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	8	LN828	WME	Mexborough Jn – Aldwarke Jn	10	17	7	26	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	9	LN830	WME	Aldwarke Jn – Woodburn Jn	7	25	0	00	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	10	LN832	SJB	Doncaster, Bridge Jn – St. James Jn	22	54	22	38	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	11	LN836	DOL1	"oncaster Marshgate Jn – Hare Park
+Jn"	156	28	171	70	R1	R1	R1	R1	R1	N	R1	R1	H	R1	"R1Prohibited from using the unwired
+main to main crossover at Wintersett"
+London-North-Eastern	1030	12	LN836	DOL1	"are Park Jn – Site of former West
+Riding Jn"	171	70	175	32	Y	Y	Y	Y	Y	N	Y	Y	H	Y	
+London-North-Eastern	1030	13	LN836	DOL2	"Site of former West Riding Jn – Copley
+Hill West Jn"	175	32	184	65	Y	Y	Y	Y	Y	N	Y	Y	H	Y	
+London-North-Eastern	1030	14	LN836	DOL2	"Copley Hill West Jn – Whitehall West
+Jn"	184	65	185	25	Y	Y	Y	Y	Y	N	Y	Y	H	Y	
+London-North-Eastern	1030	15	LN836	DOL2	Whitehall West Jn – Whitehall East Jn	185	25	185	28	Y	Y	Y	Y	Y	N	Y	Y	H	Y	
+London-North-Eastern	1030	16	LN836	DOL2	hitehall East Jn – Leeds	185	28	185	70	Y	Y	Y	Y	Y	N	Y	Y	H	Y	
+London-North-Eastern	1030	17	LN836	HUL4	Leeds – Neville Hill East Jn	20	50	18	25	Y	Y	Y	Y	Y	N	Y	Y	H	E	
+London-North-Eastern	1030	18	LN838	LEH1	Armley Jn – Site of former Pannal Jn	0	12	14	60	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	19	LN838	LEH2	"Site of former Pannal Jn – Site of
+Former Crimple Jn"	14	60	15	20	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	20	LN838	LEH3	Site of former Crimple Jn – Harrogate	15	20	17	24	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	21	LN838	HAY2	"Harrogate – Site of former Starbeck
+North Jn"	20	38	18	60	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	22	LN838	HAY1	"Site of former Starbeck North Jn –
+Skelton Jn"	18	60	1	50	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	23	LN840	TJC3	"Leeds Engine Shed Jn –  Whitehall
+East Jn"	195	20	195	52	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	24	LN842	CJS	Thorpe Marsh Jn – Applehurst Jn	163	76	163	27	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	25	LN842	CJS	Applehurst Jn – Skellow Jn	163	27	160	59	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1030	26	LN842	SKA	Skellow Jn – Adwick Jn	0	61	0	00	N	N	N	N	N	N	N	N	H	N	

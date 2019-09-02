@@ -1,0 +1,36 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	380	390	507	508	Notes
+London-North-Western-North	0857	1	NW1001	CGJ5	Preston Ribble Jn – Preston (Change of ELR)	21	13	21	57	EH	"T
+R1"	N	N	1Prohibited Preston Bay platforms
+London-North-Western-North	0857	2	NW1001	CGJ6	Preston (Change of ELR) – Preston North Jn	0	00	0	21	EH	T	N	N	
+London-North-Western-North	0857	3	NW1001	CGJ6	Preston North Jn – Preston Fylde Jn	0	21	0	33	EH	T	N	N	
+London-North-Western-North	0857	4	NW1002	RBS3	"Route Boundary (MD301) (Penkridge Station) –
+Stafford Trent Valley Jn No.1"	23	30	28	50	N	T	N	N	
+London-North-Western-North	0857	5	NW1003	HCM2	"Buffer Stop (Silverdale Colliery End) – Madeley
+Chord Jn"	3	27	7	36	N	N	N	N	
+London-North-Western-North	0857	6	NW1003	HCM3	Madeley Chord Jn – Madeley Jn	0	25	0	00	N	N	N	N	
+London-North-Western-North	0857	7	NW1003	HCM2	Madeley Chord Jn – End of Line	7	36	8	14	N	N	N	N	
+London-North-Western-North	0857	8	NW1004	RRN2	"Route Boundary (MD345) (Cannock Change of
+ELR) – Rugeley North Jn"	14	00	14	69	N	N	N	N	
+London-North-Western-North	0857	9	NW1005	KCS1	Kidsgrove Jn – Crewe South Jn	0	00	8	27	N	R1	N	N	"1Prohibited from all sidings lines and Alsager Up
+& Down Goods Loop"
+London-North-Western-North	0857	10	NW1007	SYC	"Route Boundary (GW735) (Crewe Jn) – Limit of
+Electrification"	2	60	1	41	N	N	N	N	
+London-North-Western-North	0857	11	NW1007	SYC	Limit of Electrification – Crewe South Jn	1	41	0	00	N	N	N	N	
+London-North-Western-North	0857	12	NW1009	BHI	"Basford Hall Jn –  Site of Former Sydney Bridge Jn
+(Independent Lines)"	156	16	158	76	N	Y	N	N	
+London-North-Western-North	0857	13	NW1009	CMP1	"Site of Former Sydney Bridge Jn  – Sandbach
+South Jn (Independent Lines)"	158	76	162	28	N	Y	N	N	
+London-North-Western-North	0857	14	NW1011	GSG	Gresty Lane Jn – Salop Goods Jn	0	00	0	37	N	N	N	N	
+London-North-Western-North	0857	15	NW1013	CSG	Crewe Sorting Sidings North – Gresty Lane	157	26	157	47	N	N	N	N	
+London-North-Western-North	0857	16	NW1015	CIL	"Salop Goods Jn – Crewe North Jn (Chester
+Independent Lines)"	157	64	158	18	N	N	N	N	
+London-North-Western-North	0857	17	NW1017	LLI	"Salop Goods Jn – Boundary (NW1001) (Crewe
+Coal Yard – Liverpool Independent Lines)"	157	71	158	73	N	Y	N	N	
+London-North-Western-North	0857	18	NW1019	"CHW1/
+2"	"Acton Grange Jn - Warrington South Jn (Helsby
+lines)"	16	19	17	76	N	Y	N	N	
+London-North-Western-North	0857	19	NW1021	WEE	Winwick Jn – Earlestown East Jn	185	49	187	10	N	Y	N	N	
+London-North-Western-North	0857	20	NW1021	DSE	"Earlestown East Jn - Newton-le-Willows Jn
+(Electrified section)"	14	75	16	19	N	Y	N	N	
+London-North-Western-North	0857	21	NW1021	NGJ	Newton-le-Willows Jn – Golborne Jn	0	00	0	53	N	Y	N	N	
+London-North-Western-North	0857	22	NW1023	HOB2	Haydock Branch Jn – End of Line	0	00	0	53	N	N	N	N	

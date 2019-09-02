@@ -1,0 +1,41 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	314	318	320	322	325	334	350	380	390	Notes
+Scotland	0993	1	SC147	ECM8	Prestonpans Jn – Calton South Tunnel	9	67	0	29	Y	Y	Y	Y	Y	Y	E	Y	R1	"R1Prohibited between Prestonpans Jn and
+Craigentinny"
+Scotland	0993	2	SC147	ECM9	"Calton South Tunnel – Waverley East
+End"	0	29	0	21	Y	Y	Y	Y	Y	Y	E	Y	Y	
+Scotland	0993	3	SC147	ECM9	"Waverley East End – Edinburgh
+Waverley"	0	21	0	00	Y	Y	Y	Y	Y	Y	E	Y	R1	"R1Prohibited Edinburgh Waverley
+platforms 1, 3, 4 and 20"
+Scotland	0993	4	SC147	EGM4	"Edinburgh Waverley – Waverley West
+End (South Lines)"	0	00	0	15	Y	Y	Y	Y	Y	Y	Y	Y	R1	"R1Prohibited Edinburgh Waverley
+platforms 12, 13 and 14"
+Scotland	0993	5	SC147	ECN1	"Edinburgh Waverley – Waverley West
+End (North Lines)"	0	00	0	15	Y	Y	Y	Y	Y	Y	N	Y	R1	"R1Prohibited Edinburgh Waverley
+platforms 1, 15, 16, 17, 18 and 20"
+Scotland	0993	6	SC147	EGM3	"Waverley West End – Haymarket
+(South Lines)"	0	15	1	19	Y	Y	Y	Y	Y	Y	N	Y	Y	
+Scotland	0993	7	SC147	ECN2	"Waverley West End – Haymarket
+(North Lines)"	0	15	1	19	Y	Y	Y	Y	Y	Y	N	Y	Y	
+Scotland	0993	8	SC147	EGM2	"Haymarket – Haymarket East Jn
+(South Lines)"	46	02	45	72	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Scotland	0993	9	SC147	ECN2	"Haymarket – Haymarket East Jn (North
+Lines)"	1	19	1	29	Y	Y	Y	Y	Y	Y	N	Y	N	
+Scotland	0993	10	SC147	EGM2	"Haymarket East Jn – Haymarket
+Central Jn (South Lines)"	45	72	45	35	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0993	11	SC147	ECN2	"Haymarket East Jn – Haymarket
+Central Jn (North Lines)"	1	29	1	66	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0993	12	SC147	EGM2	"Haymarket Central Jn – Haymarket
+West Jn (South Lines)"	45	35	44	73	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0993	13	SC147	ECN2	"Haymarket Central Jn – Haymarket
+West Jn (North Lines)"	1	66	2	41	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0993	14	SC149	NBK	North Berwick – Drem Jn	22	22	18	15	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0993	15	SC151	LHS1	"Portobello – Leith South Yard (Goods
+Line)"	0	00	2	20	N	N	N	N	N	N	N	N	N	
+Scotland	0993	16	SC153	CPH	"Craigentinny – Powderhall (Goods
+Line)"	0	00	1	78	N	N	N	N	N	N	N	N	N	
+Scotland	0993	17	SC155	MHL1	Monktonhall Jn – Change of ELR	0	11	5	60	N	N	N	N	N	N	N	E	N	
+Scotland	0993	18	SC155	MHL2	Change of ELR – Millerhill East Jn	1	40	0	28	N	N	N	N	N	N	N	E	N	
+Scotland	0993	19	SC155	MHL3	"Millerhill East Jn – Millerhill Yard
+(Goods Line)"	0	00	0	19	N	N	N	N	N	N	N	"E
+R1"	N	"R1Prohibited between Millerhill West Jn
+and Millerhill Yard"

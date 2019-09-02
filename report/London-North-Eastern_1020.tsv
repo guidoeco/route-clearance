@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector escription	M	Ch	M	Ch	168	170	172	180	220	221	222	Notes
+London-North-Eastern	1020	1	LN3525	KSL	nighton Jn – Leicester Jn	97	45	127	00	N	Y	N	N	N	N	"E
+R1"	"R1Prohibited between Knighton Jn and
+Birmingham Curve Jn"
+London-North-Eastern	1020	2	LN3535	BCJ	Birmingham Curve Jn – Branston Jn	126	40	127	19	N	Y	N	N	N	N	N	
+London-North-Eastern	1020	3	LN3601	GSM1	ettering North Jn – Manton Jn	74	00	90	25	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1020	4	LN3605	BSC	orby BSC Works – Corby North	2	05	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1020	5	LN3610	BSC	"Corby Automotive Terminal – Corby
+orth"	1	10	0	00	N	N	N	N	N	N	N	
+London-North-Eastern	1020	6	LN3615	PMJ	"oute Boundary (LN147) – Uffington
+B"	13	60	12	75	N	Y	N	N	N	N	Y	
+London-North-Eastern	1020	7	LN3615	PMJ	ffington SB – Manton Jn	12	75	0	00	N	Y	N	N	N	N	Y	
+London-North-Eastern	1020	8	LN3615	GSM2	anton Jn – Melton Jn	90	25	105	70	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1020	9	LN3615	GSM3	elton Jn – Syston South Jn	113	36	103	77	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1020	10	LN3620	GSM4	elton Jn GF – Asfordby	105	70	107	20	N	N	N	N	Y	Y	N	
+London-North-Eastern	1020	11	LN3625	TSN1	"Nottingham East Jn – Change of ELR
+Nottingham East Jn)"	123	27	123	23	N	Y	N	N	N	N	Y	
+London-North-Eastern	1020	12	LN3625	NOB1	"hange of ELR (Nottingham East Jn)
+Route Boundary (LN206) (Coulson)"	0	00	16	02	N	Y	N	N	N	N	R1	"R1Between Nottingham East Jn and Netherfield
+Jn, when accelerating from a stand at any red
+signal a maximum of 50% power shall be
+applied until the next proceed aspect is
+observed"
+London-North-Eastern	1020	13	LN3635	NOG1	"oute Boundary (LN195) (Nottingham
+ranch Jn) – Rectory Jn SB"	111	60	123	76	N	Y	N	N	N	N	R1	"R1When accelerating from a stand at any red
+signal a maximum of 50% power shall be
+applied until the next proceed aspect is
+observed"
+London-North-Eastern	1020	14	LN3635	NOG1	"ectory Jn SB – Change of ELR
+Netherfield)"	123	76	125	25	N	Y	N	N	N	N	R1	"R1When accelerating from a stand at any red
+signal a maximum of 50% power shall be
+applied until the next proceed aspect is
+observed"
+London-North-Eastern	1020	15	LN3635	NOG2	"Change of ELR (Netherfield) –
+etherfield Jn"	2	54	2	35	N	Y	N	N	N	N	R1	"R1When accelerating from a stand at any red
+signal a maximum of 50% power shall be
+applied until the next proceed aspect is
+observed"

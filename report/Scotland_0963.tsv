@@ -1,0 +1,39 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
+Scotland	0963	1	SC123	NEM3	"Finnieston East Jn – Finnieston West Jn
+(Down Line)"	2	19	2	53	N	N	N	Y	Y	Y	E	
+Scotland	0963	2	SC123	NEM3	"Finnieston East Jn – Finnieston West Jn
+(Up Line)"	2	19	2	53	N	N	N	Y	Y	Y	E	
+Scotland	0963	3	SC123	NEM3	Finnieston West Jn – Hyndland North Jn	2	53	4	28	N	N	N	Y	Y	Y	E	
+Scotland	0963	4	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	N	N	N	Y	Y	Y	E	
+Scotland	0963	5	SC123	NEM4	Change of ELR – Knightswood North Jn	0	00	0	74	N	N	N	Y	Y	Y	E	
+Scotland	0963	6	SC123	NEM5	"Knightswood North Jn – Change of ELR
+(Between Bowling and Dumbarton East)"	5	67	13	40	N	N	N	Y	Y	Y	"R1
+R2"	"R125mph Westerton Up platform
+R2Prohibited Westerton Up and Down
+platforms with deflated suspension"
+Scotland	0963	7	SC123	NEM6	"Change of ELR (Between Bowling and
+Dumbarton East) – Change of ELR
+(Dumbarton East)"	113	46	116	00	N	N	N	Y	Y	Y	Y	
+Scotland	0963	8	SC123	NEM7	"Change of ELR (Dumbarton East) –
+Craigendoran Jn"	15	51	22	76	N	N	N	Y	Y	Y	Y	
+Scotland	0963	9	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	N	N	N	Y	Y	Y	Y	
+Scotland	0963	10	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	N	N	N	Y	Y	Y	N	
+Scotland	0963	11	SC125	YKR	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	N	N	N	Y	Y	Y	"E
+R1"	"R1Prohibited between Yoker CSD and
+Dalmuir Park Jn"
+Scotland	0963	12	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	R1	R1	R1	Y	Y	Y	E	R1Prohibited Springburn platform 4
+Scotland	0963	13	SC131	HST	"High Street Jn – Connection to Smithy
+Lye Through Line"	0	04	2	00	E	E	E	Y	Y	Y	E	
+Scotland	0963	14	SC131	HST	"Connection to Smithy Lye Through Line
+– Shields Jn"	2	00	2	35	E	E	E	Y	Y	Y	E	
+Scotland	0963	15	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	N	N	N	Y	Y	Y	"E
+R1"	"R1Prohibited between Bearsden and
+Milngavie"
+Scotland	0963	16	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	N	N	N	Y	Y	Y	N	
+Scotland	0963	17	SC136	HYD	Hyndland North Jn – Hyndland West Jn	0	00	0	16	N	N	N	N	N	N	N	
+Scotland	0963	18	SC141	WHL	Craigendoran Jn – Crianlarich Jn	0	01	36	30	N	N	N	Y	Y	Y	N	
+Scotland	0963	19	SC141	WHL	Crianlarich Jn – Fort William	36	30	99	37	N	N	N	Y	Y	Y	N	
+Scotland	0963	20	SC143	OBN1	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	N	N	N	Y	Y	Y	N	
+Scotland	0963	21	SC143	OBN2	"Lower Crianlarich GF – Inverhaggernie
+No.1 LC"	30	23	31	00	N	N	N	Y	Y	Y	N	
+Scotland	0963	22	SC143	OBN2	Inverhaggernie No.1 LC – Oban	31	00	71	44	N	N	N	Y	Y	Y	N	

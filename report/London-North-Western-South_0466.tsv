@@ -1,0 +1,45 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector escription	M	Ch	M	Ch	165	166	168	170	171	172	175	180	220	221	Notes
+London-North-Western-South	0466	1	MD232	WNS	"uneaton South Jn – Limit of
+lectrification (Down Direction)"	0	05	0	39	N	N	N	Y	N	N	N	N	Y	Y	
+London-North-Western-South	0466	2	MD232	WNS	"uneaton South Jn – Route Boundary
+LN3232) (Hinckley)"	0	05	2	62	N	N	N	Y	N	N	N	N	Y	Y	
+London-North-Western-South	0466	3	MD233	MYC	idland Yard Jn - Canal Farm Jn	0	00	0	69	N	N	N	N	N	N	N	N	N	N	
+London-North-Western-South	0466	4	MD301	RBS1	"ugby Trent Valley Jn – Coventry
+outh Jn"	83	18	93	71	"E
+R1"	N	Y	Y	N	"E
+R2"	Y	N	Y	T	"R1Route prohibited to Class 165/1
+R2Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0466	5	MD301	RBS1	oventry South Jn – Coventry North Jn	93	71	94	19	R1	E	Y	Y	N	R2	Y	N	Y	T	"R1Route prohibited to Class 165/1
+R2Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0466	6	MD301	RBS1	"oventry North Jn – Stechford North
+n"	94	19	109	12	R1	E	Y	Y	N	R2	Y	N	Y	T	"R1Route prohibited to Class 165/1
+R2Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0466	7	MD301	RBS1	techford North Jn – Grand Jn	109	12	111	72	R1	E	Y	Y	N	R2	Y	N	Y	T	"R1Route prohibited to Class 165/1
+R2Route prohibited to Class 172/2 and
+172/3"
+London-North-Western-South	0466	8	MD301	RBS1	rand Jn – Proof House Jn	111	72	112	19	R1	E	Y	Y	N	Y	Y	N	Y	T	R1Route prohibited to Class 165/1
+London-North-Western-South	0466	9	MD301	RBS1	"roof House Jn – Birmingham New
+treet (Change of Mileage)"	112	19	112	73	R1	E	Y	Y	N	R2	Y	N	Y	T	"R1Route prohibited to Class 165/1
+R2Prohibited Birmingham New Street
+East Dock Bay when laden"
+London-North-Western-South	0466	10	MD301	RBS2	"irmingham New Street (Change of
+ileage) – Soho South Jn"	0	05	2	06	E	E	Y	Y	N	R1	Y	N	Y	T	"R1Route prohibited to Class 172/0 and
+172/1"
+London-North-Western-South	0466	11	MD301	RBS2	oho South Jn – Soho North Jn	2	06	2	38	E	E	Y	Y	N	R1	Y	N	Y	T	"R1Route prohibited to Class 172/0 and
+172/1"
+London-North-Western-South	0466	12	MD301	RBS2	oho North Jn – Galton Jn	2	38	3	64	E	E	Y	Y	N	R1	Y	N	Y	T	"R1Route prohibited to Class 172/0 and
+172/1"
+London-North-Western-South	0466	13	MD301	RBS2	"alton Jn – Wolverhampton Crane
+treet Jn"	3	64	12	60	E	E	Y	Y	N	N	Y	N	Y	T	
+London-North-Western-South	0466	14	MD301	RBS2	"olverhampton Crane Street Jn –
+ushbury Jn (Change of Mileage)"	12	60	14	43	E	E	Y	Y	N	N	R1	N	Y	T	"R1Prohibited Wolverhampton platforms
+5 and 6"
+London-North-Western-South	0466	15	MD301	RBS3	"ushbury Jn (Change of Mileage) –
+oute Boundary (NW1002) (Stafford
+rent Valley Jn No.1)"	15	32	23	30	E	N	Y	Y	N	N	Y	N	Y	T	
+London-North-Western-South	0466	16	MD306	BAG1	"hange of Mileage (Birmingham New
+treet) – Lifford West Jn"	42	35	47	20	Y	Y	N	Y	N	R1	N	N	Y	Y	"R1Route prohibited to Class 172/0 and
+172/1"

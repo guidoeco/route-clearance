@@ -1,0 +1,25 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD )	MK3 DVT	MK3 DVT (MOD )	MK4	Notes
+Scotland	1009	1	SC191	ECN5	Change of ELR (Montrose) – Craiginches	203	11	239	55	Y	Y	Y	N	N	N	N	
+Scotland	1009	2	SC191	ECN5	Craiginches – Aberdeen	239	55	241	06	Y	Y	Y	N	N	N	N	
+Scotland	1009	3	SC193	HGL1	Perth South Jn – Change of ELR	150	61	158	38	Y	Y	Y	N	N	N	N	
+Scotland	1009	4	SC193	HGL2	Change of ELR – Stanley Jn	7	02	7	07	Y	Y	Y	N	N	N	N	
+Scotland	1009	5	SC193	HGL2	Stanley Jn – Milburn Jn	7	07	143	39	Y	Y	Y	N	N	N	N	
+Scotland	1009	6	SC193	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	Y	Y	Y	N	N	N	N	
+Scotland	1009	7	SC193	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	Y	Y	Y	N	N	N	N	
+Scotland	1009	8	SC193	HGL2	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	Y	Y	Y	N	N	N	N	
+Scotland	1009	9	SC195	ECN5	Aberdeen – Change of ELR	241	06	241	08	Y	Y	Y	N	N	N	N	
+Scotland	1009	10	SC195	ANI1	Change of ELR – Keith Jn SB	0	00	53	05	Y	Y	Y	N	N	N	N	
+Scotland	1009	11	SC195	ANI2	Keith Jn SB – Forres	30	40	0	00	Y	Y	Y	N	N	N	N	
+Scotland	1009	12	SC195	ANI3	Forres – Milburn Jn	119	26	143	39	Y	Y	Y	N	N	N	N	
+Scotland	1009	13	SC195	HGL2	Milburn Jn – Welsh's Bridge Jn	117	37	117	56	Y	Y	Y	N	N	N	N	
+Scotland	1009	14	SC195	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	Y	Y	Y	N	N	N	N	
+Scotland	1009	15	SC195	HGL2	Welsh's Bridge Jn – Inverness platforms 1-4	117	56	118	03	Y	Y	Y	N	N	N	N	
+Scotland	1009	16	SC197	WRO	Kittybrewster – Waterloo Goods (Goods Line)	1	62	0	03	N	N	N	N	N	N	N	
+Scotland	1009	17	SC199	DFN	Keith Jn – End of Line	53	06	53	36	N	N	N	N	N	N	N	
+Scotland	1009	18	SC203	RSW	Welsh's Bridge Jn – Rose Street Jn	117	56	118	03	Y	Y	Y	N	N	N	N	
+Scotland	1009	19	SC203	WCK	Inverness platforms 5-7 – Rose Street Jn	0	02	0	18	Y	Y	Y	N	N	N	N	
+Scotland	1009	20	SC203	WCK	Rose Street Jn – Invergordon	0	18	31	37	Y	Y	Y	N	N	N	N	
+Scotland	1009	21	SC203	WCK	Invergordon – Georgemas Jn	31	37	147	20	Y	Y	Y	N	N	N	N	
+Scotland	1009	22	SC203	WCK	Georgemas Jn – Wick	147	20	161	35	Y	Y	Y	N	N	N	N	
+Scotland	1009	23	SC205	KYL	Dingwall – Kyle of Lochalsh	0	19	63	64	Y	Y	Y	N	N	N	N	
+Scotland	1009	24	SC207	TSO	Georgemas Jn – Thurso	0	00	6	50	Y	Y	Y	N	N	N	N	

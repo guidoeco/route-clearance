@@ -1,0 +1,29 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	RA	86	87	88	90	91	92	Notes
+London-North-Western-South	0528	1	MD101	LEC1	ondon Euston – Camden Jn DC Lines	0	00	1	36	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	2	MD101	LEC1	amden Jn DC Lines – Camden Jn (NLL)	1	36	1	51	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	3	MD101	LEC1	amden Jn – West London Jn (Willesden)	1	51	5	23	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	4	MD101	LLG	"est London Jn (Willesden) – Sudbury Jn
+(Willesden Relief Lines)"	0	12	2	03	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	5	MD101	LEC1	"est London Jn (Willesden)  – Harlesden
+Jn"	5	23	6	01	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	6	MD101	LEC1	arlesden Jn – Watford South Jn	6	01	17	06	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	7	MD101	LEC1	Watford South Jn – Bletchley South Jn	17	06	46	41	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	8	MD101	LEC1	"Bletchley South Jn – Bletchley (Platforms
+1 – 5) – Denbigh Hall South Jn"	46	41	47	52	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	9	MD101	LEC1	"enbigh Hall South Jn – Hanslope North
+Jn"	47	52	56	66	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	10	MD101	LEC1	anslope North Jn – Hillmorton Jn	56	66	81	28	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	11	MD101	LEC1	Hillmorton Jn – Rugby Trent Valley Jn	81	28	83	18	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	12	MD101	LEC2	"Rugby Trent Valley Jn – Armitage Jn
+(NW1001 Sectional Appendix Boundary)"	83	18	119	20	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	13	MD105	HNR	"anslope Jn (MD101) – Northampton
+South Jn"	56	66	65	55	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	14	MD105	HNR	"orthampton South Jn – Northampton
+North Jn"	65	55	66	12	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	15	MD105	HNR	orthampton North Jn – Rugby South Jn	66	12	83	54	8	Y	Y	Y	Y	N	Y	
+London-North-Western-South	0528	16	MD120	CWJ	"Camden Jn DC lines (Down DC line
+mileage) – Kilburn High Road (DC Lines)"	1	36	3	01	8	N	N	Y	N	N	N	
+London-North-Western-South	0528	17	MD120	CWJ	"ilburn High Road – Willesden Suburban
+Jn (DC Lines)"	3	01	5	28	8	N	N	Y	N	N	N	
+London-North-Western-South	0528	18	MD120	CWJ	"illesden Suburban Jn – Harrow and
+Wealdstone (Sand Drag) (DC Lines)"	5	28	11	46	8	N	N	Y	N	N	N	

@@ -1,0 +1,31 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Scotland	1004	1	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	Y	Y	Y	N	N	N	N	
+Scotland	1004	2	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	Y	Y	Y	N	N	N	N	
+Scotland	1004	3	SC109	GHL	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	Y	Y	Y	N	N	N	N	
+Scotland	1004	4	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	Y	Y	Y	N	N	N	N	
+Scotland	1004	5	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	Y	Y	Y	N	N	N	N	
+Scotland	1004	6	SC113	DMY	Winchburgh Jn – Dalmeny Jn	34	54	39	03	Y	Y	Y	N	N	N	N	
+Scotland	1004	7	SC115	MRL1	Cowlairs West Jn – Maryhill Park Jn	8	26	5	51	Y	Y	Y	N	N	N	N	
+Scotland	1004	8	SC115	MRL2	Maryhill Park Jn – Knightswood North Jn	4	40	5	67	Y	Y	Y	N	N	N	N	
+Scotland	1004	9	SC1150	MLA	Maryhill Park Jn – Anniesland	0	00	0	70	Y	Y	Y	N	N	N	N	
+Scotland	1004	10	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	Y	Y	Y	N	N	N	N	
+Scotland	1004	11	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	N	N	N	N	N	N	N	
+Scotland	1004	12	SC119	GHL	Greenhill Upper Jn – Greenhill Lower Jn	0	00	0	52	Y	Y	Y	N	N	N	N	
+Scotland	1004	13	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	Y	Y	Y	N	N	N	N	
+Scotland	1004	14	SC119	SCM3	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	Y	Y	Y	N	N	N	N	
+Scotland	1004	15	SC119	SCM3	"Stirling Middle Jn – Change of ELR
+(Dunblane)"	118	08	123	40	Y	Y	Y	N	N	N	N	
+Scotland	1004	16	SC119	SCM4	Change of ELR (Dunblane) – Perth South Jn	123	40	150	61	Y	Y	Y	N	N	N	N	
+Scotland	1004	17	SC119	SCM5	Perth South Jn – Change of Mileage	150	61	151	03	Y	Y	Y	N	N	N	N	
+Scotland	1004	18	SC119	SCM5	Change of Mileage – Dundee Central Jn	21	01	0	36	Y	Y	Y	N	N	N	N	
+Scotland	1004	19	SC119	ECN2	Dundee Central Jn – Dundee	58	69	59	14	Y	Y	Y	N	N	N	N	
+Scotland	1004	20	SC123	NBE	Bathgate – Change of ELR	25	18	25	00	Y	Y	Y	N	N	N	N	
+Scotland	1004	21	SC123	NEM1	Change of ELR – Drumgelloch	25	00	11	70	Y	Y	Y	N	N	N	N	
+Scotland	1004	22	SC123	NEM1	Drumgelloch – Change of ELR	11	70	11	60	Y	Y	Y	N	N	N	N	
+Scotland	1004	23	SC123	NEM2	Change of ELR – High Street Jn	11	60	0	28	Y	Y	Y	N	N	N	N	
+Scotland	1004	24	SC123	NEM2	High Street Jn – Change of ELR	0	28	0	00	Y	Y	Y	N	N	N	N	
+Scotland	1004	25	SC123	NEM3	Change of ELR – Finnieston East Jn	0	00	2	19	Y	Y	Y	N	N	N	N	
+Scotland	1004	26	SC123	NEM3	"Finnieston East Jn – Finnieston West Jn
+(Down Line)"	2	19	2	53	Y	Y	Y	N	N	N	N	
+Scotland	1004	27	SC123	NEM3	"Finnieston East Jn – Finnieston West Jn (Up
+Line)"	2	19	2	53	Y	Y	Y	N	N	N	N	

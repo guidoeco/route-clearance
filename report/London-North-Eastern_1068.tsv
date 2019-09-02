@@ -1,0 +1,34 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+London-North-Eastern	1068	1	LN874	MEW2	Methley Jn – Whitwood Jn	1	12	0	01	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	2	LN875	CPM2	Castleford West Jn – Cutsyke Jn	0	00	0	61	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	3	LN875	CPM1	Cutsyke Jn – Pontefract West Jn	59	02	56	42	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	4	LN876	BOO	astleford East Jn – Ledston	6	17	4	43	N	N	N	N	N	N	N	
+London-North-Eastern	1068	5	LN878	SHG	Sherburn Jn – Gascoigne Wood Jn	13	20	14	30	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1068	6	LN880	YMS	"York (platforms 4 & 5) –Scarborough
+(platforms 1 to 5)"	0	00	42	06	"R1
+R2"	"R1
+R2"	R2	N	N	N	N	"R1Prohibited Scarborough platform 3
+when laden
+R2Prohibited Scarborough platform 5"
+London-North-Eastern	1068	7	LN880	YMS	"York (platform 2 and maintenance
+sidings) – Connection to Up line"	0	0	0	15	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	8	LN882	WAG1	"Wakefield Kirkgate West Jn – Calder
+Bridge Jn"	47	43	48	28	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1068	9	LN882	WAG1	Calder Bridge Jn – Crofton West Jn	48	28	49	40	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1068	10	LN882	WAG1	Crofton West Jn – Knottingley West Jn	49	40	58	20	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1068	11	LN882	WAG1	Knottingley West Jn – Engine Shed Jn	58	20	73	52	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	12	LN882	WAG2	"Engine Shed Jn – Goole Potters Grange
+Jn"	0	64	0	00	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	13	LN884	OAJ	Oakenshaw South Jn – Oakenshaw Jn.	49	41	48	76	N	N	N	N	N	Y	N	
+London-North-Eastern	1068	14	LN886	TJC3	Monk Bretton – Oakenshaw South Jn	176	22	181	75	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	15	LN886	OSC	Oakenshaw South Jn – Crofton East Jn	181	75	183	04	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	16	LN888	CJS	Stainforth Jn – Thorpe Marsh Jn	166	70	163	76	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	17	LN888	HTM	horpe Marsh Jn – Haywood Jn	69	56	67	66	Y	Y	Y	N	N	N	N	
+London-North-Eastern	1068	18	LN888	KWS	Haywood Jn – Knottingley West Jn	67	66	58	20	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1068	19	LN888	FKW	"Knottingley West Jn – Ferrybridge North
+Jn"	2	71	2	27	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1068	20	LN889	KWS	Shaftholme Jn – Haywood Jn	68	75	67	66	Y	Y	Y	N	N	N	Y	
+London-North-Eastern	1068	21	LN892	PEF	"Pontefract East Jn – Ferrybridge South
+Jn"	3	06	2	38	N	N	N	N	N	N	N	
+London-North-Eastern	1068	22	LN894	KES	"Knottingley South Jn – Knottingley East
+Jn"	0	00	0	20	Y	Y	Y	N	N	N	N	

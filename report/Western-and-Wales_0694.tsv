@@ -1,0 +1,46 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
+Western-and-Wales	0694	1	GW834	VON	Network Rail Boundary – Aberdare	26	62	22	34	E	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0694	2	GW834	"VON/
+ALK"	Aberdare – Cwmbach Change of ELR	22	34	20	68	E	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0694	3	GW834	"ABD/
+MOA"	"Cwmbach Change of ELR –
+Abercynon Jn (Including Mountain Ash
+Down Loop ELR MOA)"	22	01	16	35	E	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0694	4	GW835	THT	End of Line – Treherbert	23	69	23	54	E	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0694	5	GW835	THT	Treherbert – Pontypridd Jn	23	54	13	04	E	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0694	6	GW839	CAM	Queen Street South Jn – Cardiff Bay	0	66	0	02	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	7	GW840	RAD	Radyr Jn – Leckwith Loop South Jn	4	41	0	69	E	Y	Y	Y	Y	Y	Y	"R1
+R2"	"R1
+R2"	"R120mph Fairwater Up platform
+R220mph Ninian Park Down platform"
+Western-and-Wales	0694	8	GW840	RAD	"Leckwith Loop South Jn – Penarth
+Curve North Jn"	0	69	0	47	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	9	GW840	RAD	"Penarth Curve North Jn – Radyr
+Branch Jn"	0	47	0	25	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	10	GW850	CLL	"Leckwith Loop South Jn – Leckwith
+Loop North Jn"	0	26	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	11	GW860	CPL	"Penarth Curve North Jn – Penarth
+Curve South Jn"	0	25	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	12	GW864	PTH	Cogan Jn – Penarth	0	01	1	12	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	13	GW870	VOG	Barry Jn – Bridgend Bay Platform	0	00	19	04	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	14	GW871	FOR	"Ford Siding GF – Network Rail
+Boundary (Ford Works, Waterton)"	0	00	1	18	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0694	15	GW874	BAL	Llynfi Jn – Tondu Jn	0	07	2	70	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	16	GW874	BAL	Tondu Jn – Maesteg	2	70	8	06	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	17	GW877	POR	Tondu Jn – Cefn Jn	0	00	2	43	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	18	GW877	OVE	"Cefn Jn – Margam Abbey Works East
+Jn"	7	41	2	41	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	19	GW877	OVE	"Margam Abbey Works East Jn –
+Margam East Jn"	2	41	1	40	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0694	20	GW877	OVE	Margam East Jn – Margam Yard Jn	1	40	0	79	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0694	21	GW877	OVE	"Margam Yard Jn – Network Rail
+Boundary (Port Talbot Docks)"	0	79	0	56	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0694	22	GW890	SDI1	"Briton Ferry Up Flying Loop Jn –
+Dynover Jn"	206	14	207	67	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	23	GW890	SDI1	Dynover Jn – Jersey Marine Jn North	207	67	208	33	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	24	GW890	SDI1	"Jersey Marine Jn North – Change of
+Mileage"	208	33	208	49	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	25	GW890	SDI2	"Change of Mileage – Grovesend
+Colliery Loop Jn"	0	00	10	05	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0694	26	GW890	SDI2	"Grovesend Colliery Loop Jn – Morlais
+Jn"	10	05	10	64	E	Y	Y	Y	Y	Y	Y	Y	Y	

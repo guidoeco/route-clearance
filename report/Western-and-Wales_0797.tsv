@@ -1,0 +1,16 @@
+Route	page	seq	Line of route	Line of Route/Sector Description	Gauge							Notes
+Western-and-Wales	0797	1			W6a	W7	W8	W9	W9Plus	W10	W10A	W12
+Western-and-Wales	0797	2	GW790	"Pengam Jn – 4m 54ch (ABP) Cardiff
+Docks"	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0797	3	GW810	"Rhymney – Cardiff Queen Street
+North Jn"	Y *	N	N	N	N	N	N	N
+Western-and-Wales	0797	4	GW820	Cwmbargoed – Ystrad Mynach South	Y	N	N	N	N	N	N	N
+Western-and-Wales	0797	5	GW828	Coryton – Heath Jn	Y	N	N	N	N	N	N	N
+Western-and-Wales	0797	6	GW830	"Merthyr Tydfil – Cardiff East Jn via
+Cathays"	Y *	N	N	N	N	N	N	N
+Western-and-Wales	0797	7	GW830	"Cardiff East Jn – Cadoxton via
+Grangetown"	Y *	Y	Y	N	N	N	N	N
+Western-and-Wales	0797	8	GW830	Cadoxton – Barry Island	Y *	N	N	N	N	N	N	N
+Western-and-Wales	0797	9	GW830	"Barry Docks Line Junction – NR/ABP
+Boundary"	Y	Y	Y	N	N	N	N	N
+Western-and-Wales	0797	10	GW834	Aberdare – Abercynon	Y	N	N	N	N	N	N	N

@@ -1,0 +1,37 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	314	318	320	322	325	334	350	380	390	Notes
+Scotland	0988	1	SC059	STR1	Ayr – Dalrymple Jn	40	49	43	53	N	N	N	N	H	N	N	"E
+R1"	N	"R1Prohibited between Townhead Depot
+and Dalrymple Jn"
+Scotland	0988	2	SC059	STR1	"Dalrymple Jn – Change of ELR
+(Girvan)"	43	53	61	60	N	N	N	N	H	N	N	N	N	
+Scotland	0988	3	SC059	STR2	"Change of ELR (Girvan) – Change of
+ELR (Betweeen Challoch LC and
+Dunragit SB & LC)"	0	00	30	67	N	N	N	N	H	N	N	N	N	
+Scotland	0988	4	SC059	STR3	"Change of ELR (Betweeen Challoch
+LC and Dunragit SB & LC) – Change of
+ELR (Stranraer Yard GF)"	46	54	53	05	N	N	N	N	H	N	N	N	N	
+Scotland	0988	5	SC059	STR4	"Change of ELR (Stranraer Yard GF) –
+End of Line"	53	05	54	05	N	N	N	N	H	N	N	N	N	
+Scotland	0988	6	SC061	CNL	Shields Jn – Corkerhill	1	05	3	11	Y	Y	Y	R1	H	Y	"E
+R2"	Y	R3	"R1Only for access to / from Shields Depot
+R2Only for access to / from Corkerhill
+Depot
+R3Prohibited between Dumbreck and
+Corkerhill"
+Scotland	0988	7	SC061	CNL	Corkerhill – Paisley Canal	3	11	7	00	Y	R1	Y	N	N	Y	N	Y	N	R130mph Hawkhead platform
+Scotland	0988	8	SC063	CND1	Cardonald Jn – Cardonald North Jn	0	00	0	36	N	N	N	N	N	N	N	N	N	
+Scotland	0988	9	SC063	CND2	"Cardonald North Jn – Deanside
+(Goods Line)"	0	36	1	54	N	N	N	N	N	N	N	N	N	
+Scotland	0988	10	SC065	GOU1	"Paisley (Wallneuk Jn) – Change of
+ELR"	6	34	6	53	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0988	11	SC065	GOU2	Change of ELR – Bishopton	107	70	112	60	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0988	12	SC065	GOU2	Bishopton – Gourock	112	60	126	58	Y	Y	Y	Y	H	Y	N	R1	N	"R1Prohibited Greenock Central Up Bay
+platform"
+Scotland	0988	13	SC067	WYS	Wemyss Bay Jn – Wemyss Bay	0	00	10	03	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0988	14	SC073	LGS1	Kilwinning Jn – Change of ELR	25	65	30	44	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0988	15	SC073	LGS2	Change of ELR – Fairlie High Siding	30	44	38	69	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0988	16	SC073	LGS2	Fairlie High Siding – Largs	38	69	42	07	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0988	17	SC077	ARH	"Ardrossan South Beach – Adrossan
+Harbour"	30	44	31	35	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0988	18	SC079	HUN	"Hunterston – Hunterston Low Level
+Sdgs (Goods Line)"	0	00	0	36	N	N	N	N	N	N	N	N	N	

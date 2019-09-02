@@ -1,0 +1,42 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	121	142	143	150	153	155	156	158	159	Notes
+Western-and-Wales	0693	1	GW770	EBW	"Ebbw Vale Parkway – Site of Former
+Aberbeeg Jn"	18	45	14	23	E	R1	R1	Y	Y	Y	N	Y	Y	"R1Permitted to assist a failed train /
+contingency use only"
+Western-and-Wales	0693	2	GW770	WVL	Site of Former Aberbeeg Jn – Park Jn	14	23	1	02	E	R1	R1	Y	Y	Y	N	Y	Y	"R1Permitted to assist a failed train /
+contingency use only"
+Western-and-Wales	0693	3	GW770	GAE	Park Jn – Gaer Jn (Western Valley Line)	160	24	159	33	N	N	N	Y	Y	Y	N	Y	Y	
+Western-and-Wales	0693	4	GW773	BJR	"Machen Quarry – Site of Former
+Bassaleg Jn"	4	69	0	00	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	5	GW773	WVL	"Site of Former Bassaleg Jn – Park Jn
+(Machen Branch)"	2	05	1	10	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	6	GW780	WVL	Park Jn – Park Jn SB	1	02	0	74	E	R1	R1	Y	Y	Y	N	Y	Y	"R1Permitted to assist a failed train /
+contingency use only"
+Western-and-Wales	0693	7	GW780	NWN	Park Jn SB – Ebbw Jn	0	54	0	00	E	R1	R1	Y	Y	Y	N	Y	Y	"R1Permitted to assist a failed train /
+contingency use only"
+Western-and-Wales	0693	8	GW784	NLL	"Alexandra Dock Jn – Network Rail
+Boundary (Newport Docks)"	159	60	160	27	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	9	GW790	ROC	Pengam Jn – Change of ELR	168	20	168	61	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	10	GW790	ROA	"Change of ELR – Network Rail
+Boundary (ABP Cardiff Docks)"	3	41	4	54	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	11	GW810	CAR	"End of Line (Rhymney) – Ystrad Mynach
+South Jn"	24	00	13	41	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	12	GW810	CAR	Ystrad Mynach South Jn – Heath Jn	13	41	3	32	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	13	GW810	CAR	"Heath Jn – Cardiff Queen Street North
+Jn"	3	32	1	22	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	14	GW820	TBD	"Network Rail Boundary (Cwmbargoed) –
+Site of Former Taff Bargoed Branch Jn"	19	59	13	53	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	15	GW820	VON	"Site of Former Taff Bargoed Branch Jn –
+Site of Former Penallta Jn"	13	53	12	41	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	16	GW820	PTA	"Site of Former Penallta Jn – Ystrad
+Mynach South Jn"	15	01	13	41	N	N	N	N	N	N	N	N	N	
+Western-and-Wales	0693	17	GW828	CRY	Coryton – Heath Jn	2	57	0	15	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	18	GW830	CAM	Merthyr Tydfil – Abercynon Jn	24	44	16	35	E	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0693	19	GW830	CAM	Abercynon Jn – Pontypridd Jn	16	35	13	04	E	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0693	20	GW830	CAM	Pontypridd Jn – Radyr Jn	13	04	5	23	E	Y	Y	Y	N	N	N	N	N	
+Western-and-Wales	0693	21	GW830	CAM	Radyr Jn – Queen Street North Jn	5	23	1	17	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	22	GW830	CAM	"Queen Street North Jn – Queen Street
+South Jn"	1	17	0	66	Y	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	23	GW830	CEJ	Queen Street South Jn – Cardiff East Jn	0	22	0	00	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	24	GW830	SWM2	Cardiff East Jn – Cardiff West Jn	170	18	170	56	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	25	GW830	BRY	Cardiff West Jn – Barry Jn	0	10	8	16	E	Y	Y	Y	Y	Y	Y	Y	Y	
+Western-and-Wales	0693	26	GW830	BRY	Barry Jn – Buffer Stops (Barry Island)	8	16	8	76	E	Y	Y	Y	Y	Y	Y	Y	Y	

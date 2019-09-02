@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	ine of Route/Sector Description	M	Ch	M	Ch	168	170	172	180	220	221	222	Notes
+London-North-Eastern	1019	1	LN3246	AJM1	Ambergate Jn – Matlock	137	61	145	00	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	2	LN3249	LSN	Lenton South Jn – Lenton North Jn	0	00	0	27	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	3	LN3252	MJT1	ansfield Jn – Radford Jn	124	22	125	55	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	4	LN3252	MJT2	adford Jn – Trowell South Jn	125	55	130	51	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	5	LN3255	RAC	Radford Jn – Newstead	125	55	134	20	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	6	LN3255	RAC	Newstead – Kirkby Lane End Jn	134	20	136	66	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	7	LN3261	THL	"Trent South Jn – Toton South Jn (High
+Level Lines)"	119	17	121	36	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	8	LN3264	AML	"Attenborough Jn – Meadow Lane Jn
+(Attenborough Curve)"	0	62	0	00	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	9	LN3273	TCC	odnor Park Jn – Ironville Jn	132	76	133	18	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	10	LN3273	PBS1	Ironville Jn – Kirkby Summit Crossover	133	18	138	79	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	11	LN3273	PBS2	"Kirkby Summit Crossover – Mansfield
+ELR Change"	137	11	140	40	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	12	LN3273	PBS3	"Mansfield Change of  ELR – Route
+Boundary (LN768) (Shireoaks East Jn)"	140	40	143	00	N	Y	N	N	N	N	Y	
+London-North-Eastern	1019	13	LN3340	BJW3	"Route Boundary (MD340) (Lichfield
+Trent Valley) – Wichnor Jn"	19	00	23	33	N	Y	N	N	Y	Y	N	
+London-North-Eastern	1019	14	LN3501	DBP1	"London Road Jn – Route Boundary
+(MD501) (Kingsbury Jn)"	0	00	23	30	E	Y	E	"E
+R1"	Y	Y	R2	"R1Prohibited between Barton South Jn and
+Route Boundary (MD501) Kingsbury Jn
+R2Prohibited between Wichnor Jn and Route
+Boundary (MD501) Kingsbury Jn"
+London-North-Eastern	1019	15	LN3505	NSS	"North Stafford Jn – Route Boundary
+(NW5012) (Stoke Jn)"	30	10	1	40	N	Y	N	N	Y	Y	Y	
+London-North-Eastern	1019	16	LN3515	MJS1	Melbourne Jn – Sinfin	131	15	130	37	N	N	N	N	N	N	N	
+London-North-Eastern	1019	17	LN3520	SSJ1	"Sheet Stores Jn – Change of ELR (Site
+of Former Chellaston East Jn)"	119	62	127	20	E	Y	N	N	Y	Y	Y	
+London-North-Eastern	1019	18	LN3520	MJS1	"Change of ELR (Site of Former
+Chellaston East Jn) – Change of ELR
+(Site of Former Chellaston West Jn)"	127	20	128	00	E	Y	N	N	Y	Y	Y	
+London-North-Eastern	1019	19	LN3520	SSJ2	"Change of ELR (Site of Former
+Chellaston West Jn) – Stenson Jn"	128	00	132	12	E	Y	N	N	Y	Y	Y	

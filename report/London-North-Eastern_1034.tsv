@@ -1,0 +1,40 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	313	314	315	317	318	319	321	322	325	333	Notes
+London-North-Eastern	1034	1	LN898	HUL1	Anlaby Road Jn – Hull	0	73	0	00	N	N	N	N	N	N	N	N	"H
+R1"	N	R1Prohibited Hull platform 1
+London-North-Eastern	1034	2	LN900	HUE	Neville Hill West Jn – Hunslet East	0	00	0	55	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1034	3	LN902	CFM	"Micklefield Jn – Church Fenton North
+Jn"	15	62	10	31	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	4	LN904	HSC	"Hambleton South Jn – Hambleton
+West Jn"	174	10	175	33	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	5	LN906	HNC	"Hambleton East Jn –   Hambleton
+North Jn"	3	34	4	00	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	6	LN908	SEC	Selby West Jn – Canal Jn	0	00	0	32	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	7	LN910	TCW1	Temple Hirst Jn – Selby Canal Jn	169	16	173	59	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	8	LN910	TCW1	Selby Canal Jn – Selby South Jn	173	59	174	11	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	9	LN912	TJG1	"Thorne Jn – Thorne North Change of
+ELR"	7	69	9	09	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	10	LN912	TJG2	"Thorne North Change of ELR –
+Gilberdyke Jn"	14	06	0	00	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	11	LN914	HBS	"West Parade Jn – West Parade North
+Jn"	0	25	0	72	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	12	LN914	HBS	"West Parade North Jn – Walton Street
+Jn"	0	72	1	29	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	13	LN914	HBS	Walton Street Jn – Seamer West Jn	1	29	50	43	N	N	N	N	N	N	N	N	"H
+R1"	N	"R1Prohibited Bridlington platforms 7 and
+8"
+London-North-Eastern	1034	14	LN916	HJS	Hessle Road – Springbank North Jn	0	00	1	38	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	15	LN916	HJS	"Springbank North Jn – Network Rail
+Boundary"	1	38	5	62	N	N	N	N	N	N	N	N	N	N	
+London-North-Eastern	1034	16	LN918	SPW	"Springbank North Jn – Walton Street
+Jn"	1	54	1	29	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	17	LN920	AWP	"Anlaby Road Jn –  West Parade North
+Jn"	0	00	0	24	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	18	LN922	TJC3	Whitehall West Jn – Skipton	195	57	221	01	N	N	N	N	N	N	Y	Y	H	Y	
+London-North-Eastern	1034	19	LN922	TJC3	"Skipton – Site of former Skipton North
+Jn Change of ELR"	221	21	221	68	N	N	N	N	N	N	N	N	H	Y	
+London-North-Eastern	1034	20	LN922	SKW1	"Site of former Skipton North Jn
+Change of ELR – Route Boundary
+(NW9901) (Settle Jn)"	221	68	230	00	N	N	N	N	N	N	N	N	H	N	
+London-North-Eastern	1034	21	LN924	ILK1	Apperley Jn – Burley in Wharfedale	202	03	208	02	N	N	N	N	N	N	Y	Y	H	Y	
+London-North-Eastern	1034	22	LN924	ILK2	Burley in Wharfedale – Ilkley	208	02	211	20	N	N	N	N	N	N	Y	Y	H	Y	
+London-North-Eastern	1034	23	LN926	GUE2	Dockfield Jn – Esholt Jn	3	41	0	00	N	N	N	N	N	N	Y	Y	H	Y	

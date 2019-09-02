@@ -1,0 +1,40 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	314	318	320	322	325	334	350	380	390	Notes
+Scotland	0991	1	SC116	CSN	Cowlairs East Jn – Cowlairs North Jn	0	00	0	21	N	N	N	N	H	N	N	N	N	
+Scotland	0991	2	SC117	GMH	Grangemouth Jn – Grangemouth	0	00	3	67	N	N	N	N	N	N	N	N	N	
+Scotland	0991	3	SC119	GHL	"Greenhill Upper Jn – Greenhill Lower
+Jn"	0	00	0	52	N	N	N	N	H	N	N	N	N	
+Scotland	0991	4	SC119	SCM3	Greenhill Lower Jn – Carmuirs West Jn	106	62	108	74	N	N	N	N	H	N	N	N	N	
+Scotland	0991	5	SC119	SCM3	Carmuirs West Jn – Stirling Middle Jn	108	76	118	08	N	N	N	N	H	N	N	N	N	
+Scotland	0991	6	SC119	SCM3	"Stirling Middle Jn – Change of ELR
+(Dunblane)"	118	08	123	40	N	N	N	N	H	N	N	N	N	
+Scotland	0991	7	SC119	SCM4	"Change of ELR (Dunblane) – Perth
+South Jn"	123	40	150	61	N	N	N	N	H	N	N	N	N	
+Scotland	0991	8	SC119	SCM5	Perth South Jn – Change of Mileage	150	61	151	03	N	N	N	N	"H
+R1"	N	N	N	N	R15mph Perth platform 2
+Scotland	0991	9	SC119	SCM5	"Change of Mileage – Dundee Central
+Jn"	21	01	0	36	N	N	N	N	"H
+R1"	N	N	N	N	R25mph Perth platform 2
+Scotland	0991	10	SC119	ECN2	Dundee Central Jn – Dundee	58	69	59	14	N	N	N	N	H	N	N	N	N	
+Scotland	0991	11	SC123	NBE	Bathgate – Change of ELR	25	18	25	00	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0991	12	SC123	NEM1	Change of ELR – Drumgelloch	25	00	11	70	Y	Y	Y	Y	H	Y	N	Y	N	
+Scotland	0991	13	SC123	NEM1	Drumgelloch – Change of ELR	11	70	11	60	Y	Y	R1	Y	H	Y	N	Y	N	"R1Class 320/4 prohibited with deflated
+suspension"
+Scotland	0991	14	SC123	NEM2	Change of ELR – High Street Jn	11	60	0	28	Y	Y	R1	Y	H	Y	N	"R2
+R3"	N	"R1Class 320/4 prohibited with deflated
+suspension
+R2Prohibited between Airdrie and
+Shettleston (including loops) when laden
+R35mph Blairhill Up platform"
+Scotland	0991	15	SC123	NEM2	High Street Jn – Change of ELR	0	28	0	00	Y	Y	Y	Y	H	Y	N	E	N	
+Scotland	0991	16	SC123	NEM3	Change of ELR – Finnieston East Jn	0	00	2	19	Y	Y	Y	Y	H	Y	N	E	N	
+Scotland	0991	17	SC123	NEM3	"Finnieston East Jn – Finnieston West
+Jn (Down Line)"	2	19	2	53	Y	Y	Y	Y	H	Y	N	E	N	
+Scotland	0991	18	SC123	NEM3	"Finnieston East Jn – Finnieston West
+Jn (Up Line)"	2	19	2	53	Y	Y	Y	Y	H	Y	N	E	N	
+Scotland	0991	19	SC123	NEM3	"Finnieston West Jn – Hyndland North
+Jn"	2	53	4	28	Y	Y	Y	Y	H	Y	N	"E
+R1"	N	"R1Prohibited Hyndland East Jn to
+Hyndland North Jn"
+Scotland	0991	20	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	Y	Y	Y	Y	H	Y	N	N	N	
+Scotland	0991	21	SC123	NEM4	"Change of ELR – Knightswood North
+Jn"	0	00	0	74	Y	Y	Y	Y	H	Y	N	N	N	

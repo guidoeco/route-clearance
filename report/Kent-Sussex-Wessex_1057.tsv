@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	Loco Gauge	Notes
+Kent-Sussex-Wessex	1057	1	SW100	AHG	"Nine Elms Jn – Route Boundary (Kent
+SO110) (Lindford Street Jn)"	2	00	2	44	8	Y	
+Kent-Sussex-Wessex	1057	2	SW100	RDG1	"Nine Elms Jn – West London Jn
+(Windsor Lines)"	2	00	3	17	8	Y	
+Kent-Sussex-Wessex	1057	3	SW100	BML1	"Nine Elms Jn – Crossovers at  2m
+65ch (Main Lines)"	2	00	2	65	8	Y	
+Kent-Sussex-Wessex	1057	4	SW100	BML1	"Crossovers at  2m 65ch – West
+London Jn (Main Lines)"	2	65	3	17	8	Y	
+Kent-Sussex-Wessex	1057	5	SW100	SCC	"West London Jn – Route Boundary
+(Sussex SO250) (Lathmere Jn No.3)"	3	17	3	30	8	Y	
+Kent-Sussex-Wessex	1057	6	SW100	RDG1	"West London Jn – Ludgate Jn
+(Windsor Lines)"	3	17	3	57	8	Y	
+Kent-Sussex-Wessex	1057	7	SW100	BML1	"West London Jn – Ludgate Jn (Main
+Lines)"	3	17	3	57	8	Y	
+Kent-Sussex-Wessex	1057	8	SW100	FLL2/3	"Route Boundary (Sussex SO250)
+(Longhedge Jn) – Ludgate Jn"	1	77	3	57	8	Y	
+Kent-Sussex-Wessex	1057	9	SW100	CJL	"Ludgate Jn – Route Boundary (Sussex
+SO250) (Latchmere Jn No.2)"	0	30	0	47	8	Y	
+Kent-Sussex-Wessex	1057	10	SW100	RDG1	"Ludgate Jn – Clapham Jn (Windsor
+Lines)"	3	57	3	74	8	Y	
+Kent-Sussex-Wessex	1057	11	SW100	BML1	Ludgate Jn – Clapham Jn (Main Lines)	3	57	3	74	8	Y	
+Kent-Sussex-Wessex	1057	12	SW105	BML1	"Clapham Jn  – Wimbledon platforms
+5, 6, 7 and 8"	3	74	7	19	8	"R1
+R2"	"R1Prohibited between Clapham Junction station and Earlsfield on the
+Down Fast line
+R2Prohibited Earlsfield platform 2 (Up Slow line)"
+Kent-Sussex-Wessex	1057	13	SW105	PPW	"Wimbledon North Jn (TfL
+infrastructure) – Wimbledon platforms
+1, 2, 3 and 4 (TfL  – District Line)"	8	26	8	47	8	Y	
+Kent-Sussex-Wessex	1057	14	SW105	BML1	"Wimbledon platforms 5, 6, 7 and 8
+– Wimbledon West Jn"	7	19	7	49	8	Y	
+Kent-Sussex-Wessex	1057	15	SW105	BML1	"Wimbledon West Jn – Hampton Court
+Jn"	7	49	13	27	8	Y	
+Kent-Sussex-Wessex	1057	16	SW105	BML1	Hampton Court Jn – Woking	13	27	24	27	8	R1	"R1Prohibited between Walton on Thames and Weybridge on the Up
+Fast line"
+Kent-Sussex-Wessex	1057	17	SW105	BML1	Woking – Basingstoke	24	27	47	61	8	Y	
+Kent-Sussex-Wessex	1057	18	SW105	BML1	Basingstoke – Eastleigh West Jn	47	61	73	42	8	Y	

@@ -1,0 +1,32 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Scotland	1005	1	SC123	NEM3	Finnieston West Jn – Hyndland North Jn	2	53	4	28	Y	Y	Y	N	N	N	N	
+Scotland	1005	2	SC123	NEM3	Hyndland North Jn – Change of ELR	4	28	4	63	Y	Y	Y	N	N	N	N	
+Scotland	1005	3	SC123	NEM4	Change of ELR – Knightswood North Jn	0	00	0	74	Y	Y	Y	N	N	N	N	
+Scotland	1005	4	SC123	NEM5	"Knightswood North Jn – Change of ELR
+(Between Bowling and Dumbarton East)"	5	67	13	40	Y	Y	Y	N	N	N	N	
+Scotland	1005	5	SC123	NEM6	"Change of ELR (Between Bowling and
+Dumbarton East) – Change of ELR
+(Dumbarton East)"	113	46	116	00	Y	Y	Y	N	N	N	N	
+Scotland	1005	6	SC123	NEM7	"Change of ELR (Dumbarton East) –
+Craigendoran Jn"	15	51	22	76	Y	Y	Y	N	N	N	N	
+Scotland	1005	7	SC123	NEM7	Craigendoran Jn – Helensburgh Central	22	76	24	31	Y	Y	Y	N	N	N	N	
+Scotland	1005	8	SC125	YKR	Hyndland East Jn – Hyndland West Jn	0	00	0	22	Y	Y	Y	N	N	N	N	
+Scotland	1005	9	SC125	YKR	Hyndland West Jn – Dalmuir Park Jn	0	22	4	73	Y	Y	Y	N	N	N	N	
+Scotland	1005	10	SC129	SGN	Springburn – Bellgrove Jn	0	42	2	58	Y	Y	Y	N	N	N	N	
+Scotland	1005	11	SC131	HST	"High Street Jn – Connection to Smithy Lye
+Through Line"	0	04	2	00	EH	EH	EH	N	N	N	EH	
+Scotland	1005	12	SC131	HST	"Connection to Smithy Lye Through Line –
+Shields Jn"	2	00	2	35	EH	EH	EH	N	N	N	EH	
+Scotland	1005	13	SC133	MGE	Westerton Jn – Milngavie	6	19	9	35	Y	Y	Y	N	N	N	N	
+Scotland	1005	14	SC135	BCH	Dalreoch Jn – Balloch	16	39	20	38	Y	Y	Y	N	N	N	N	
+Scotland	1005	15	SC136	HYD	Hyndland North Jn – Hyndland West Jn	0	00	0	16	Y	Y	Y	N	N	N	N	
+Scotland	1005	16	SC141	WHL	Craigendoran Jn – Crianlarich Jn	0	01	36	30	Y	Y	Y	N	N	N	N	
+Scotland	1005	17	SC141	WHL	Crianlarich Jn – Fort William	36	30	99	37	Y	Y	Y	N	N	N	N	
+Scotland	1005	18	SC143	OBN1	Crianlarich Jn – Lower Crianlarich GF	0	00	0	44	Y	Y	Y	N	N	N	N	
+Scotland	1005	19	SC143	OBN2	"Lower Crianlarich GF – Inverhaggernie No.1
+LC"	30	23	31	00	Y	Y	Y	N	N	N	N	
+Scotland	1005	20	SC143	OBN2	Inverhaggernie No.1 LC – Oban	31	00	71	44	Y	Y	Y	N	N	N	N	
+Scotland	1005	21	SC145	MLG1	Fort William – Change of ELR	0	05	1	27	Y	Y	Y	N	N	N	N	
+Scotland	1005	22	SC145	MLG2	Change of ELR – Mallaig	0	00	39	39	Y	Y	Y	N	N	N	N	
+Scotland	1005	23	SC147	ECM8	"Route Boundary (LN600) (Heaton South Jn) –
+Prestonpans Jn"	69	67	9	67	Y	Y	Y	N	N	N	Y	

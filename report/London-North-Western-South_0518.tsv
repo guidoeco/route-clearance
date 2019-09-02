@@ -1,0 +1,33 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	RA	43	47/2	47/4	47/7	56	57	Notes
+London-North-Western-South	0518	1	MD701	NAJ1	"Neasden South Jn (Change of Mileage) –
+Northolt Jn"	6	30	0	00	7	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	2	MD701	NAJ2	Northolt Jn – Princes Risborough Jn	0	00	24	50	7	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	3	MD701	NAJ2	"Princes Risborough Jn – Site of Former
+Ashendon Jn (Change of Mileage)"	24	50	33	69	7	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	4	MD701	NAJ3	"Site of Former Ashendon Jn (Change of
+Mileage) – Aynho Jn"	0	00	18	35	7	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	5	MD705	ANL	"Route Boundary (GW110) (Greenford
+West Jn) – Northolt Jn (South Ruislip)"	8	60	10	15	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	6	MD710	MCJ1	"Neasden South Jn – Network Rail
+Boundary (LUL) (Harrow-on-the-Hill South
+Jn)"	200	66	197	05	8	R1	R1	R1	R1	R1	R1	"R1Prohibited unless fitted with tripcocks or agreed
+operational arrangements are in place to allow the
+vehicle to proceed onto LUL infrastructure"
+London-North-Western-South	0518	7	MD712	MCJ2	"Network Rail Boundary (LUL) (Amersham,
+Mantles Wood) – Aylesbury Jn"	25	21	38	08	8	R1	R1	R1	R1	R1	R1	"R1Prohibited over LUL section unless fitted with tripcocks
+or agreed operational arrangements are in place to
+allow the vehicle to proceed onto LUL infrastructure"
+London-North-Western-South	0518	8	MD712	MCJ2	Aylesbury Jn – Aylesbury	38	08	38	13	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	9	MD715	NJN	"Neasden South Jn – Route Boundary
+(EA1360) (Neasden Jn)"	6	30	6	51	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	10	MD720	NAJ2	"Princes Risborough – Change of Mileage
+(Princes Risborough Jn)"	24	40	24	48	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	11	MD720	PRA	"Change of Mileage (Princes Risborough
+Jn) – Aylesbury Jn"	42	31	49	35	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	12	MD725	MCJ2	Aylesbury – Aylesbury Vale Parkway	38	13	40	38	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	13	MD725	MCJ2	"Aylesbury Vale Parkway – Change of
+Mileage (Quainton Road)"	40	38	44	28	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	14	MD725	MCJ3	"Change of Mileage (Quainton Road) –
+Calvert Jn (Change of Mileage)"	161	50	156	72	8	Y	Y	Y	Y	Y	Y	
+London-North-Western-South	0518	15	MD725	MCJ4	"Calvert Jn (Change of Mileage) – Claydon
+L&NE Jn"	0	00	0	41	8	Y	Y	Y	Y	Y	Y	

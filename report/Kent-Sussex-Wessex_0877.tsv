@@ -1,0 +1,38 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	MK1	MK2	MK3	MK3 (MOD)	MK3 DVT	MK3 DVT (MOD)	MK4	Notes
+Kent-Sussex-Wessex	0877	1	SO250	WLL	"Kensington Olympia – Northbound
+AC/DC changeover"	3	42	5	16	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0877	2	SO250	WLL	"Northbound AC/DC changeover –
+Southbound AC/DC changeover"	5	16	5	43	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0877	3	SO250	WLL	"Southbound AC/DC changeover –
+Route Boundary (MD166) (Mitre
+Bridge Jn)"	5	43	5	65	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0877	4	SO260	CAT	Brixton Jn – Canterbury Road Jn	3	08	3	24	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	5	SO260	CAT	Canterbury Road Jn – Cambria Jn	3	24	3	68	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	6	SO260	CAT	Cambria Jn – Nunhead Jn	3	68	6	09	Y	Y	R1	N	N	N	N	"R1Prohibited between Cambria Jn and
+Nunhead"
+Kent-Sussex-Wessex	0877	7	SO260	CAT	Nunhead Jn – Ravensbourne Jn	6	09	10	44	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	8	SO260	RVC	"Ravensbourne Jn – Shortlands Jn via
+Ravensbourne Chord"	0	00	0	48	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	9	SO260	CAT	Ravensbourne Jn – Shortlands Jn	10	44	10	73	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	10	SO280	MCL	"Route Boundary (LN3213) (Kentish
+Town Jn) – ELR change (Former
+Farringdon Jn)"	0	66	0	00	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	11	SO280	FTL	"ELR change (Former Farringdon Jn) –
+Snow Hill Tunnel (Change of Mileage)"	0	00	0	39	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	12	SO280	HHH	"Snow Hill Tunnel (Change of Mileage)
+– Blackfriars"	0	21	0	35	N	N	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	13	SO280	HHH	Blackfriars – Blackfriars Jn	0	35	0	63	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	14	SO280	BMJ	Blackfriars Jn – Metropolitan Jn	0	63	1	14	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0877	15	SO280	HHH	Blackfriars Jn – Loughborough Jn	0	63	3	36	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0877	16	SO280	LTC	Loughborough Jn – Cambria Jn	3	34	3	62	Y	Y	N	N	N	N	N	
+Kent-Sussex-Wessex	0877	17	SO280	LOC	"Loughborough Jn – Canterbury Road
+Jn"	3	39	3	79	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0877	18	SO280	HHH	"Loughborough Jn – Herne Hill North
+Jn"	3	36	4	30	Y	Y	Y	N	N	N	N	
+Kent-Sussex-Wessex	0877	19	SO290	NKL	"North Kent East Jn (SO130) –
+Charlton Jn"	4	25	7	35	Y	R1	N	N	N	N	N	"R1Prohibited unless operating as part of
+Network Rail infrastructure monitoring
+train"
+Kent-Sussex-Wessex	0877	20	SO290	NKL	Charlton Jn – Charlton	7	35	7	44	Y	R1	N	N	N	N	N	"R1Prohibited unless operating as part of
+Network Rail infrastructure monitoring
+train"

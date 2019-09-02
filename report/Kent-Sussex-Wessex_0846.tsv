@@ -1,0 +1,43 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	313	319	325	373	375	376	377	378	380	387	Notes
+Kent-Sussex-Wessex	0846	1	SO130	XTD	"Borough Market Jn – London Bridge
+platforms 1-9"	1	50	1	69	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0846	2	SO130	XTD	"London Bridge platforms 1-9 – North
+Kent East Jn"	1	69	4	25	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0846	3	SO130	XTD	North Kent East Jn – Tanners Hill Jn	4	25	5	29	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0846	4	SO130	XTD	Tanners Hill Jn – Parks Bridge Jn	5	29	6	14	N	Y	H	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0846	5	SO130	LLL	Parks Bridge Jn – Ladywell Jn	6	14	6	29	N	N	N	N	Y	Y	R1	N	N	Y	R1Class 377/1 and 377/5 only
+Kent-Sussex-Wessex	0846	6	SO130	XTD	"Parks Bridge Jn – Courthill Loop
+South Jn"	6	14	6	21	N	Y	"H
+R1"	N	Y	Y	Y	N	N	Y	R160mph maximum speed
+Kent-Sussex-Wessex	0846	7	SO130	XTD	"Courthill Loop South Jn – Hither
+Green Jn"	6	21	7	04	N	Y	"H
+R1"	N	Y	Y	Y	N	N	Y	R160mph maximum speed
+Kent-Sussex-Wessex	0846	8	SO130	XTD	Hither Green Jn – Lee Spur Jn	7	04	7	44	N	R1	"H
+R2"	N	Y	Y	Y	N	N	Y	"R1Slow lines only
+R260mph maximum speed"
+Kent-Sussex-Wessex	0846	9	SO130	XTD	Lee Spur Jn – Chislehurst Jn	7	44	11	33	N	"R1
+R2"	"H
+R3
+R4
+R5
+R6"	N	Y	Y	R7	N	N	Y	"R1Between London end of Grove Park
+Station (08m 55ch (Slows to Fasts
+Double Jn)) and Chislehurst Jn use
+fast lines and Grove Park bay platform
+1 (reversible) only
+R2Prohibited Grove Park Down Washer
+line and Up sidings
+R360mph maximum speed
+R4Between London end of Grove Park
+Station (08m 55ch (Slows to Fasts
+Double Jn)) and Chislehurst Jn use
+fast lines
+R525mph through Grove Park (fast lines).
+R6Access to Grove Park Up Sidings via
+924/925 points
+R7Prohibited Grove Park Up and Down
+Washer line and Up sidings"
+Kent-Sussex-Wessex	0846	10	SO130	CSM1	"Chislehurst Jn – St Mary Cray Down
+Jn via Reversible Chatham Loop"	11	33	11	71	N	Y	N	N	Y	Y	Y	N	N	Y	
+Kent-Sussex-Wessex	0846	11	SO130	CSM3	"Chislehurst Jn – Hawkwood Jn (Up
+Chatham Loop)"	11	33	11	66	N	Y	N	N	Y	Y	Y	N	N	Y	

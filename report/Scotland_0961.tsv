@@ -1,0 +1,35 @@
+Route	page	seq	Line of route	ELR	Line of Route/Sector Description	M	Ch	M	Ch	142	143	144	150	153	156	158	Notes
+Scotland	0961	1	SC106	PNS	"Sighthill West Jn – Cowlairs South Jn
+(Chord Line)"	0	30	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0961	2	SC107	ECM9	"Waverley East End – Edinburgh
+Waverley"	0	21	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0961	3	SC107	EGM4	"Edinburgh Waverley – Waverley West
+End (South Lines)"	0	00	0	15	N	N	N	Y	Y	Y	Y	
+Scotland	0961	4	SC107	ECN1	"Edinburgh Waverley – Waverley West
+End (North Lines)"	0	00	0	15	N	N	N	Y	Y	Y	Y	
+Scotland	0961	5	SC107	EGM3	"Waverley West End – Haymarket (South
+Lines)"	0	15	1	19	N	N	N	Y	Y	Y	Y	
+Scotland	0961	6	SC107	ECN2	"Waverley West End – Haymarket (North
+Lines)"	0	15	1	19	N	N	N	Y	Y	Y	Y	
+Scotland	0961	7	SC107	EGM2	"Haymarket – Haymarket East Jn (South
+Lines)"	46	02	45	72	N	N	N	Y	Y	Y	Y	
+Scotland	0961	8	SC107	ECN2	"Haymarket – Haymarket East Jn (North
+Lines)"	1	19	1	29	N	N	N	Y	Y	Y	Y	
+Scotland	0961	9	SC107	EGM2	"Haymarket East Jn – Haymarket Central
+Jn (South Lines)"	45	72	45	35	N	N	N	Y	Y	Y	Y	
+Scotland	0961	10	SC107	ECN2	"Haymarket East Jn – Haymarket Central
+Jn (North Lines)"	1	29	1	66	N	N	N	Y	Y	Y	Y	
+Scotland	0961	11	SC107	EGM2	"Haymarket Central Jn – Haymarket West
+Jn (South Lines)"	45	35	44	73	N	N	N	Y	Y	Y	Y	
+Scotland	0961	12	SC107	ECN2	"Haymarket Central Jn – Haymarket West
+Jn (North Lines)"	1	66	2	41	N	N	N	Y	Y	Y	Y	
+Scotland	0961	13	SC107	EGM1	Haymarket West Jn – Cowlairs West Jn	44	73	1	67	N	N	N	Y	Y	Y	Y	
+Scotland	0961	14	SC107	EGM1	"Cowlairs West Jn – Glasgow Queen
+Street"	1	67	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0961	15	SC109	PMT	Polmont Jn – Grangemouth Jn	21	20	23	75	N	N	N	Y	Y	Y	Y	
+Scotland	0961	16	SC109	PMT	Grangemouth Jn – Carmuirs East Jn	23	75	25	79	N	N	N	Y	Y	Y	Y	
+Scotland	0961	17	SC109	CMS	Carmuirs East Jn – Carmuirs West Jn	0	40	-0	2	N	N	N	Y	Y	Y	Y	
+Scotland	0961	18	SC109	SCM3	Carmuirs West Jn – Greenhill Lower Jn	108	74	106	62	N	N	N	Y	Y	Y	Y	
+Scotland	0961	19	SC109	GHL	Greenhill Lower Jn – Greenhill Upper Jn	0	52	0	00	N	N	N	Y	Y	Y	Y	
+Scotland	0961	20	SC110	PMT	Carmuirs East Jn – Larbert Jn	25	79	26	35	N	N	N	Y	Y	Y	Y	
+Scotland	0961	21	SC111	NBE	Newbridge Jn – Bathgate	35	21	25	18	N	N	N	Y	Y	Y	Y	
