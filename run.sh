@@ -11,8 +11,7 @@ TABULA=1.0.3
 
 if [ ! -f tabula-${TABULA}-jar-with-dependencies.jar ]; then
     echo downloading tabula-${TABULA}-jar-with-dependencies.jar
-    wget https://github.com/tabulapdf/tabula-java/releases/download/v${TABULA}/t
-abula-${TABULA}-jar-with-dependencies.jar
+    wget https://github.com/tabulapdf/tabula-java/releases/download/v${TABULA}/tabula-${TABULA}-jar-with-dependencies.jar
 fi
 
 TABULAFILE=tabula-${TABULA}-jar-with-dependencies.jar
