@@ -42,4 +42,12 @@ do
 done
 
 sed -i 's/^""\t\t\t/""\t-\t-\t/' London-North-Western-South/pg_0544_3.tsv
+
 ./generate-report2.py
+
+for i in $(jq -c '.[]' section-list.json)
+do
+    ROUTE=$(echo ${i} | jq -r 'keys[]')
+    echo ${ROUTE}
+    cat report/${ROUTE}_????.tsv > ${ROUTE}.tsv
+done
