@@ -1,0 +1,21 @@
+# edit
+*~
+*#
+.*#
+
+# Compiled
+*.elc
+
+# Packaging
+.cask
+
+# data files
+*.csv
+*.json
+*.ndjson
+*.svg
+*.xlsx
+*.zip
+
+#Archive files
+*.pdf
