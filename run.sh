@@ -49,5 +49,5 @@ for i in $(jq -c '.[]' section-list.json)
 do
     ROUTE=$(echo ${i} | jq -r 'keys[]')
     echo ${ROUTE}
-    cat report/${ROUTE}_????.tsv > ${ROUTE}.tsv
+    cat report/${ROUTE}_????.tsv > output/${ROUTE}.tsv
 done
